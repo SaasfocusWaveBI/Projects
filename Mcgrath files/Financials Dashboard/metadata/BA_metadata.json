@@ -1,0 +1,84 @@
+{
+  "objects": [
+    {
+      "connector": "CSV",
+      "fullyQualifiedName": "BA_csv",
+      "label": "BA.csv",
+      "name": "BA_csv",
+      "fields": [
+        {
+          "fullyQualifiedName": "Company",
+          "name": "Company",
+          "type": "Text",
+          "label": "Company"
+         
+        },
+        {
+          "fullyQualifiedName": "Ledger_Type",
+          "name": "Ledger_Type",
+          "type": "Text",
+          "label": "Ledger Type"
+        },
+        {
+          "fullyQualifiedName": "Fiscal_Year",
+          "name": "Fiscal_Year",
+          "type": "Text",
+          "label": "Fiscal Year"
+        },
+        {
+          "fullyQualifiedName": "Business_Unit",
+          "name": "Business_Unit",
+          "type": "Text",
+          "label": "Business Unit"
+        },
+        {
+          "fullyQualifiedName": "Object_Account",
+          "name": "Object_Account",
+          "type": "Text",
+          "label": "Object Account"
+        },
+        {
+          "fullyQualifiedName": "Subsidiary",
+          "name": "Subsidiary",
+          "type": "Text",
+          "label": "Subsidiary"
+        },
+        {
+          "fullyQualifiedName": "Subledger_Type",
+          "name": "Subledger_Type",
+          "type": "Text",
+          "label": "Subledger Type"
+        },
+        {
+          "fullyQualifiedName": "Subledger",
+          "name": "Subledger",
+          "type": "Text",
+          "label": "Subledger"
+        },
+        {
+          "fullyQualifiedName": "Period",
+          "name": "Period",
+          "type": "Date",
+          "label": "Period",
+          "format": "dd-MM-yyyy"
+        },
+        {
+          "fullyQualifiedName": "Value",
+          "name": "Value",
+          "type": "Numeric",
+          "label": "Value",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 2
+        },
+        {
+          "fullyQualifiedName": "Unique_ID",
+          "name": "Unique_ID",
+          "type": "Text",
+          "label": "Unique ID",
+          "isUniqueId" : true
+        }
+      ]
+    }
+  ]
+}

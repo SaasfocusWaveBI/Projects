@@ -1,0 +1,60 @@
+{
+  
+   "MARS": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "MARS_test",
+      "alias": "MARS_test"
+    }
+  },
+   "BDA": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "MARS_BDA_Mapping",
+      "alias": "MARS_BDA_Mapping"
+    }
+  },
+ 
+  
+   "Aug": {
+    "action": "augment",
+    "parameters": {
+      "right_key": [
+        "MARS_Office_ID"
+      ],
+      "left": "MARS",
+      "left_key": [
+        "Office_Id"
+      ],
+      "right_select": [
+        "Office",
+                "Sub_Ledger",
+                "Co_Owned_or_Franchise",
+                "Metro",
+                "Groups",
+                "BU_code",
+                "MARS_Office_ID",
+                "Region",
+                "Residential_Projects",
+                "Satellite",
+                "State"
+      ],
+      "name": "Aug",
+      "right": "BDA",
+      "relationship": "BDA"
+    }
+  },
+  "Final_New": {
+    "action": "sfdcRegister",
+    "parameters": {
+      "name": "MARS_Master",
+      "alias": "MARS_Master",
+      "source": "Aug"
+    }}
+  
+  
+  
+  
+  
+  
+}

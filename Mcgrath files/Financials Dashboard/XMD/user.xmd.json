@@ -1,0 +1,540 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Company",
+			"fullyQualifiedName": "Company",
+			"label": "Company",
+			"linkTemplateEnabled": true,
+			"origin": "Company",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Subledger_Type",
+			"fullyQualifiedName": "Subledger_Type",
+			"label": "Subledger Type",
+			"linkTemplateEnabled": true,
+			"origin": "Subledger_Type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Object_Account",
+			"fullyQualifiedName": "Object_Account",
+			"label": "Object Account",
+			"linkTemplateEnabled": true,
+			"origin": "Object_Account",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Subledger",
+			"fullyQualifiedName": "Subledger",
+			"label": "Subledger",
+			"linkTemplateEnabled": true,
+			"origin": "Subledger",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BU_Category",
+			"fullyQualifiedName": "Compute.BU_Category",
+			"label": "BU_Category",
+			"linkTemplateEnabled": true,
+			"origin": "BU_Category",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Object_account_new",
+			"fullyQualifiedName": "compute.Object_account_new",
+			"label": "Object_account_new",
+			"linkTemplateEnabled": true,
+			"origin": "Object_account_new",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BusinessUnitDescription1",
+			"fullyQualifiedName": "Compute.BusinessUnitDescription1",
+			"label": "Business Unit Description",
+			"linkTemplateEnabled": true,
+			"origin": "BusinessUnitDescription1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Subsidiary",
+			"fullyQualifiedName": "Subsidiary",
+			"label": "Subsidiary",
+			"linkTemplateEnabled": true,
+			"origin": "Subsidiary",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Acc.Object_Account",
+			"fullyQualifiedName": "digest.Acc.Object_Account",
+			"label": "Acc.Object_Account",
+			"linkTemplateEnabled": true,
+			"origin": "Object_Account",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Ledger_Type",
+			"fullyQualifiedName": "Ledger_Type",
+			"label": "Ledger Type",
+			"linkTemplateEnabled": true,
+			"origin": "Ledger_Type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BU.Business_Unit",
+			"fullyQualifiedName": "digest.BU.Business_Unit",
+			"label": "BU.Business_Unit",
+			"linkTemplateEnabled": true,
+			"origin": "Business_Unit",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period",
+			"label": "Period",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Year",
+			"label": "Period_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Quarter",
+			"label": "Period_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Month",
+			"label": "Period_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Week",
+			"label": "Period_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Day",
+			"label": "Period_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Hour",
+			"label": "Period_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Minute",
+			"label": "Period_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Period_Second",
+			"label": "Period_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod",
+			"label": "FiscalPeriod",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Year",
+			"label": "FiscalPeriod_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Quarter",
+			"label": "FiscalPeriod_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Month",
+			"label": "FiscalPeriod_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Week",
+			"label": "FiscalPeriod_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Day",
+			"label": "FiscalPeriod_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Hour",
+			"label": "FiscalPeriod_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Minute",
+			"label": "FiscalPeriod_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Second",
+			"label": "FiscalPeriod_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Year_Fiscal",
+			"label": "FiscalPeriod_Year_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Quarter_Fiscal",
+			"label": "FiscalPeriod_Quarter_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Month_Fiscal",
+			"label": "FiscalPeriod_Month_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FiscalPeriod_Week_Fiscal",
+			"label": "FiscalPeriod_Week_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BU.CAT_01",
+			"fullyQualifiedName": "digest.BU.CAT_01",
+			"label": "BU.CAT_01",
+			"linkTemplateEnabled": true,
+			"origin": "CAT_01",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Unique_ID",
+			"fullyQualifiedName": "Unique_ID",
+			"label": "Unique ID",
+			"linkTemplateEnabled": true,
+			"origin": "Unique_ID",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Fiscal_Year",
+			"fullyQualifiedName": "Fiscal_Year",
+			"label": "Fiscal Year",
+			"linkTemplateEnabled": true,
+			"origin": "Fiscal_Year",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Acc.Account_Description",
+			"fullyQualifiedName": "digest.Acc.Account_Description",
+			"label": "Acc.Account_Description",
+			"linkTemplateEnabled": true,
+			"origin": "Account_Description",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BU.Description",
+			"fullyQualifiedName": "digest.BU.Description",
+			"label": "BU.Description",
+			"linkTemplateEnabled": true,
+			"origin": "Description",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Business_Unit",
+			"fullyQualifiedName": "Business_Unit",
+			"label": "Business Unit",
+			"linkTemplateEnabled": true,
+			"origin": "Business_Unit",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Acc.Account_Cat_1",
+			"fullyQualifiedName": "digest.Acc.Account_Cat_1",
+			"label": "Acc.Account_Cat_1",
+			"linkTemplateEnabled": true,
+			"origin": "Account_Cat_1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "AccountUnitDescription1",
+			"fullyQualifiedName": "Compute.AccountUnitDescription1",
+			"label": "Account Unit Description",
+			"linkTemplateEnabled": true,
+			"origin": "AccountUnitDescription1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CalenderMonth",
+			"fullyQualifiedName": "Compute.CalenderMonth",
+			"label": "CalenderMonth",
+			"linkTemplateEnabled": true,
+			"origin": "CalenderMonth",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Ledger_Type_New",
+			"fullyQualifiedName": "Compute.Ledger_Type_New",
+			"label": "Ledger_Type_New",
+			"linkTemplateEnabled": true,
+			"origin": "Ledger_Type_New",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "Period_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Period_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Period_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Period_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "FiscalPeriod_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "FiscalPeriod_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "FiscalPeriod_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "FiscalPeriod_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Value",
+			"format": {
+				"decimalDigits": 2,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "Value",
+			"label": "Value",
+			"origin": "Value",
+			"showInExplorer": true
+		},
+		{
+			"description": "Converted dimension Fiscal_Year",
+			"field": "Fiscal_Year_New",
+			"format": {
+				"decimalDigits": 0,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "digest.Fiscal_Year_New",
+			"label": "Fiscal_Year_New",
+			"origin": "Fiscal_Year",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "Period",
+			"compact": false,
+			"fields": {
+				"day": "Period_Day",
+				"epochDay": "Period_day_epoch",
+				"epochSecond": "Period_sec_epoch",
+				"fullField": "Period",
+				"hour": "Period_Hour",
+				"minute": "Period_Minute",
+				"month": "Period_Month",
+				"quarter": "Period_Quarter",
+				"second": "Period_Second",
+				"week": "Period_Week",
+				"year": "Period_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Period",
+			"showInExplorer": true
+		},
+		{
+			"alias": "FiscalPeriod",
+			"compact": false,
+			"fields": {
+				"day": "FiscalPeriod_Day",
+				"epochDay": "FiscalPeriod_day_epoch",
+				"epochSecond": "FiscalPeriod_sec_epoch",
+				"fiscalMonth": "FiscalPeriod_Month_Fiscal",
+				"fiscalQuarter": "FiscalPeriod_Quarter_Fiscal",
+				"fiscalWeek": "FiscalPeriod_Week_Fiscal",
+				"fiscalYear": "FiscalPeriod_Year_Fiscal",
+				"fullField": "FiscalPeriod",
+				"hour": "FiscalPeriod_Hour",
+				"minute": "FiscalPeriod_Minute",
+				"month": "FiscalPeriod_Month",
+				"quarter": "FiscalPeriod_Quarter",
+				"second": "FiscalPeriod_Second",
+				"week": "FiscalPeriod_Week",
+				"year": "FiscalPeriod_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 6,
+			"isYearEndFiscalYear": true,
+			"label": "FiscalPeriod",
+			"showInExplorer": true
+		}
+	]
+}

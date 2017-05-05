@@ -1,0 +1,3272 @@
+{
+    "label": "Website Performance",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 15,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 7,
+                                "column": 0,
+                                "name": "text_6",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 0,
+                                "name": "container_6",
+                                "row": 2,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "container_7",
+                                "row": 8,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "chart_3",
+                                "row": 10,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 8,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "text_4",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "number_3",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "number_1",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom",
+                                        "left"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "text_1",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "number_2",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom",
+                                        "right"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "chart_4",
+                                "row": 10,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "container_4",
+                                "row": 8,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "text_7",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "container_8",
+                                "row": 14,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "container_10",
+                                "row": 14,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "text_8",
+                                "row": 14,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "text_9",
+                                "row": 14,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "number_4",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "bottom",
+                                        "top",
+                                        "left"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "text_10",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "number_5",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "bottom",
+                                        "top",
+                                        "right"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "number_6",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "chart_6",
+                                "row": 10,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "number_7",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "left",
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "text_11",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "number_8",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "right",
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "number_9",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 0,
+                                "name": "chart_7",
+                                "row": 16,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "number_10",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "left",
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "text_12",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "number_11",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom",
+                                        "right"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "number_12",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "number_13",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "left",
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "number_14",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom",
+                                        "right"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "text_13",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "top",
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 5,
+                                "name": "chart_8",
+                                "row": 16,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "text_14",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "text_15",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "text_16",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "text_17",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "number_16",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "container_9",
+                                "row": 14,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "text_20",
+                                "row": 14,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 7,
+                                "name": "container_3",
+                                "row": 2,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 11,
+                                "name": "container_5",
+                                "row": 2,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 7,
+                                "name": "text_3",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 11,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 0,
+                                "name": "chart_2",
+                                "row": 3,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 15,
+                                "column": 0,
+                                "name": "container_11",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 7,
+                                "name": "chart_1",
+                                "row": 3,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 11,
+                                "name": "chart_5",
+                                "row": 3,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 10,
+                                "name": "chart_9",
+                                "row": 15,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "ExitTimeLine": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('Exit1') as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(b[Exit1]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum('Sessions') as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('Exit1') as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(h[Exit1]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'ExitTimeLine',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "ExitTimeLine"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "UniquePageViews": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Unique_Pageviews) as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', sum(b[Unique_Pageviews]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum(Sessions) as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Unique_Pageviews) as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Last Year\" as 'Type', sum(h[Unique_Pageviews]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'UniquePageViews',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "UniquePageViews"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "CYYear1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYYear1",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q=filter q by date(Date_Year,Date_Month, Date_Day) in [\"10 years ago\"..\"current day\"]; q1 = group q by 'Date_Year'; q1 = foreach q1 generate 'Date_Year' as 'Date_Year', avg('Date_Year_New') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'Date_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}}; q2 = group q2 by 'Date_Year'; q2 = foreach q2 generate 'Date_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('Date_Year_New') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all;u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*1 end)  as 'Year_Diff'; ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "LYYear1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "LYYear1",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q=filter q by date(Date_Year,Date_Month, Date_Day) in [\"10 years ago\"..\"current day\"]; q1 = group q by 'Date_Year'; q1 = foreach q1 generate 'Date_Year' as 'Date_Year', avg('Date_Year_New') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'Date_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}}; q2 = group q2 by 'Date_Year'; q2 = foreach q2 generate 'Date_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('Date_Year_New') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 1 else ((sum('avg_CurrentYear')- sum('avg_DueDateYear')))+1 end) as 'Year_Diff'; ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "AvgTimeLine": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('Avg_Time_on_Page1') as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(b[Avg_Time_on_Page1]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum(Sessions) as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('Avg_Time_on_Page1') as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(h[Avg_Time_on_Page1]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'AvgTimeLine',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "AvgTimeLine"
+                    ],
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "BounceRateCY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\"; q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; g=group g by all;g = foreach g generate avg('BounceRate') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate avg('BounceRate') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate avg('BounceRate') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as sum_Result;",
+                    "measures": [
+                        "sum_Result"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "ExitPY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}}; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"]; g=group g by all;g = foreach g generate avg('Exit1') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate avg('Exit1') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate avg('Exit1') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.selection,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else coalesce(sum(sum_Pageviews_e),0) end) as 'sum_Result'",
+                    "measures": [
+                        "sum_Result"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_7": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhxCAA",
+                        "label": "WebsitePerformancePageViews",
+                        "name": "WebsitePerformancePageViews",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhxCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Unique_Pageviews_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "label": "LY_UniquePageview",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}}; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"]; g=group g by all;g = foreach g generate sum('Unique_Pageviews') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate sum('Unique_Pageviews') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate sum('Unique_Pageviews') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.selection,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else coalesce(sum(sum_Pageviews_e),0) end) as 'sum_Unique_Pageviews'",
+                    "measures": [
+                        "sum_Unique_Pageviews"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Avg_Time_CY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "LY_UniquePageview",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"]; q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; g=group g by all;g = foreach g generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as 'sum_Avg_Time_on_Page1'",
+                    "measures": [
+                        "sum_Avg_Time_on_Page1"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_6": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhxCAA",
+                        "label": "WebsitePerformancePageViews",
+                        "name": "WebsitePerformancePageViews",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhxCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "BounceRate%": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q = filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=group q by all; q=foreach q generate (({{coalesce(cell(BounceRateCY.result,0,\"sum_Result\"),0).asObject()}}-{{coalesce(cell(BounceRatePY.result,0,\"sum_Result\"),0).asObject()}})/{{coalesce(cell(BounceRatePY.result,0,\"sum_Result\"),0).asObject()}}*100) as 'sum_Result';",
+                    "measures": [
+                        [
+                            "sum",
+                            "Result"
+                        ]
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Unique_Pageviews_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CY_UniquePageview",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\"; q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; g=group g by all;g = foreach g generate sum('Unique_Pageviews') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate sum('Unique_Pageviews') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate sum('Unique_Pageviews') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as 'sum_Unique_Pageviews'",
+                    "measures": [
+                        "sum_Unique_Pageviews"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Date_Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Avg_Time_on_Page1"
+                        ]
+                    ],
+                    "groups": [
+                        "Date_Year"
+                    ],
+                    "filters": [
+                        [
+                            "Date",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        -5
+                                    ],
+                                    [
+                                        "day",
+                                        0
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Week_New_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Avg_Time_on_Page1"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "BounceRateTimeline": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('BounceRate') as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(b[BounceRate]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum(Sessions) as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', avg('BounceRate') as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', avg(h[BounceRate]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'Result',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "Result"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q = filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=group q by all; q=foreach q generate (({{coalesce(cell(Avg_Time_CY.result,0,\"sum_Avg_Time_on_Page1\"),0).asObject()}}-{{coalesce(cell(Avg_Time_PY.result,0,\"sum_Avg_Time_on_Page1\"),0).asObject()}})/{{coalesce(cell(Avg_Time_PY.result,0,\"sum_Avg_Time_on_Page1\"),0).asObject()}}*100) as 'sum_Result';",
+                    "measures": [
+                        [
+                            "sum",
+                            "Result"
+                        ]
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=group q by all; q=foreach q generate (({{coalesce(cell(Unique_Pageviews_1.result,0,\"sum_Unique_Pageviews\"),0).asObject()}}-{{coalesce(cell(Unique_Pageviews_2.result,0,\"sum_Unique_Pageviews\"),0).asObject()}})/{{coalesce(cell(Unique_Pageviews_2.result,0,\"sum_Unique_Pageviews\"),0).asObject()}}*100) as 'sum_Result';",
+                    "measures": [
+                        [
+                            "sum",
+                            "Result"
+                        ]
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_5": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhzCAA",
+                        "label": "WebsitePerformanceUserType",
+                        "name": "WebsitePerformanceUserType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhzCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformanceUserType\";\nq = group q by all;\nq = foreach q generate sum('Sessions') as 'totalrows';\n",
+                    "measures": [
+                        "totalrows"
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "current_year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "current year",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Date_Year"
+                    ],
+                    "filters": [
+                        [
+                            "Date",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        0
+                                    ],
+                                    [
+                                        "year",
+                                        0
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_4": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";\nq = group q by all;\nq = foreach q generate (case when len(\"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\")>0 then count() else 0 end) as 'count';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "count"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "CYDay": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYDay",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"]; q1 = group q by 'Date_Year';q1 = foreach q1 generate 'Date_Year' as 'Date_Year', avg('Date_Year_New') as 'avg_CurrentYear', 0 as 'avg_DueDateYear';q1 = order q1 by 'Date_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}}; q2 = group q2 by 'Date_Year'; q2 = foreach q2 generate 'Date_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('Date_Year_New') as 'avg_DueDateYear';u = union q1,q2;u = group u by all;u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*-365 end) as 'Day_Diff'; ",
+                    "measures": [
+                        [
+                            "Day",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "GlobalFilter_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": true,
+                "label": "GlobalFilter",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Date",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        -10
+                                    ],
+                                    [
+                                        "day",
+                                        0
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Default_Channel_Grou_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhyCAA",
+                        "label": "WebsitePerformanceChannelGrouping",
+                        "name": "WebsitePerformanceChannelGrouping",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhyCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformanceChannelGrouping\";q = filter q by !('Default_Channel_Grouping' in [\"(Other)\", \"(not set)\"]);q=filter q by {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}};q=filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q=group q by Default_Channel_Grouping;q=foreach q generate Default_Channel_Grouping as Default_Channel_Grouping,sum('Sessions') as 'Result';  ",
+                    "measures": [
+                        "Result"
+                    ],
+                    "groups": [
+                        "Default_Channel_Grouping"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "PageViews": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Pageviews) as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', sum(b[Pageviews]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum(Sessions) as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Pageviews) as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', sum(h[Pageviews]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'Page Views',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "Page Views"
+                    ],
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Exit%": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q = filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=group q by all; q=foreach q generate (({{coalesce(cell(ExitCY.result,0,\"sum_Result\"),0).asObject()}}-{{coalesce(cell(ExitPY.result,0,\"sum_Result\"),0).asObject()}})/{{coalesce(cell(ExitPY.result,0,\"sum_Result\"),0).asObject()}}*100)  as 'sum_Result';",
+                    "measures": [
+                        "sum_Result"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "BounceRatePY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}}; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"]; g=group g by all;g = foreach g generate avg('BounceRate') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate avg('BounceRate') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate avg('BounceRate') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.selection,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else coalesce(sum(sum_Pageviews_e),0) end) as 'sum_Result'",
+                    "measures": [
+                        "sum_Result"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Date_Month_Type_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"]; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; a = group a by 'Date_Month'; a = foreach a generate 'Date_Month' as 'Date_Month', sum('Sessions') as 'sum_Sessions',\"Current Year\" as Type; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"];b = group b by 'Date_Month'; b = foreach b generate 'Date_Month' as 'Date_Month', sum('Sessions') as 'sum_Sessions',\"Previous Year\" as Type; c=union a,b; c=group c by ('Date_Month',Type); c=foreach c generate 'Date_Month' as 'Date_Month_c', sum(sum_Sessions) as sum_Sessions_c, Type as Type_c;d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"];d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"];d = group d by 'Date_Month'; d = foreach d generate 'Date_Month' as 'Date_Month', sum('Sessions') as 'sum_Sessions',\"Previous Year\" as Type; e=union a,d; e=group e by ('Date_Month',Type); e=foreach e generate 'Date_Month' as 'Date_Month_e', sum(sum_Sessions) as sum_Sessions_e, Type as Type_e;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year 12 months ago\" as 'Type', sum(Sessions) as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Last Year 12 months ago\" as 'Type', sum(h[Sessions]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Month_j', Type as Type_j, sum(Sessions) as sum_Sessions_j; f=union c,e,j;f=foreach f generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Sessions_e) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Sessions_j) else sum(sum_Sessions_c)  end) as 'sum_Sessions',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then Date_Month_e when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Month_j' else Date_Month_c end) as Date_Month,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then Type_e when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_c end) as Type;",
+                    "measures": [
+                        "sum_Sessions"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Date_Month",
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "test": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q=filter q by date(Date_Year,Date_Month, Date_Day) in [\"10 years ago\"..\"current day\"];q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}}; a = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; b = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; c=cogroup a by (Date_Month) left , b by (Date_Month); a = group a by (Date_Year, Date_Month); a = foreach a generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Sessions) as Sessions; c = foreach c generate first(a['Date_Year'])+\"~~~\"+ a['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', sum(b[Sessions]) as Sessions; p= union a,c; p=group p by ('Date_Year~~~Date_Month',Type); p=foreach p generate 'Date_Year~~~Date_Month' as 'Date1_Year~~~Date1_Month', Type as Type_p, sum(Sessions) as Sessions_p;g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"];i = cogroup g by (Date_Month) left , h by (Date_Month);g = group g by (Date_Year, Date_Month); g = foreach g generate 'Date_Year' + \"~~~\" + 'Date_Month' as 'Date_Year~~~Date_Month', \"Current Year\" as 'Type', sum(Sessions) as Sessions;i = foreach i generate first(g['Date_Year'])+\"~~~\"+ g['Date_Month'] as 'Date_Year~~~Date_Month', \"Previous Year\" as 'Type', sum(h[Sessions]) as Sessions;j= union g,i;j=group j by ('Date_Year~~~Date_Month',Type);j=foreach j generate 'Date_Year~~~Date_Month' as 'Date_Year~~~Date_Month', Type as Type_j, sum(Sessions) as Sessions_j;k=union p,j;k=foreach k generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(Sessions_j) else sum(Sessions_p)  end) as 'Sessions',(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then Type_j else Type_p end) as Type,(case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then 'Date_Year~~~Date_Month' else 'Date1_Year~~~Date1_Month' end) as 'Date_Year~~~Date_Month';",
+                    "measures": [
+                        "Sessions"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Date_Year",
+                            "Date_Month"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Date_Month_Type_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"]; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"30 days ago\"..\"current day\"];g = group g by 'Date_Month'; g = foreach g generate 'Date_Month' as 'Date_Month', sum('Sessions') as 'sum_Sessions',\"Current Year\" as Type; h = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"30 days ago - 1 year\"..\"current day - 1 year\"];h = group h by 'Date_Month'; h = foreach h generate 'Date_Month' as 'Date_Month', sum('Sessions') as 'sum_Sessions',\"Previous Year\" as Type; i=union g,h; i=group i by ('Date_Month',Type); i=foreach i generate 'Date_Month' as 'Date_Month_i', sum(sum_Sessions) as sum_Sessions_i, Type as Type_i;",
+                    "measures": [
+                        "sum_Sessions_i"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Date_Month_i",
+                        "Type_i"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Avg_Time_PY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "label": "LY_UniquePageview",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"]; g=group g by all;g = foreach g generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate avg('Avg_Time_on_Page1') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.selection,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else coalesce(sum(sum_Pageviews_e),0) end) as 'sum_Avg_Time_on_Page1'",
+                    "measures": [
+                        "sum_Avg_Time_on_Page1"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Avg_Time_on_Page1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Avg_Time_on_Page1"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Date",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        "{{cell(CYYear.result,0,\"Year_Diff\").asObject()}}"
+                                    ],
+                                    [
+                                        "year",
+                                        "{{cell(CYYear.result,0,\"Year_Diff\").asObject()}}"
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ],
+                        [
+                            "Week_New",
+                            "{{column(Week_1.selection,[\"Week_New\"]).asObject()}}"
+                        ],
+                        [
+                            "Date_Month",
+                            "{{column(Date_Month_1.selection,[\"Date_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Country",
+                            "{{column(Country_1.selection,[\"Country\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "LYYear": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "LYYear",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\"; q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q1 = group q by 'Date_Year'; q1 = foreach q1 generate 'Date_Year' as 'Date_Year', avg('Date_Year_New') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'Date_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}}; q2 = group q2 by 'Date_Year'; q2 = foreach q2 generate 'Date_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('Date_Year_New') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate ((sum('avg_CurrentYear')- sum('avg_DueDateYear'))*-1)-1 as 'Year_Diff'; ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Page_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhxCAA",
+                        "label": "WebsitePerformancePageViews",
+                        "name": "WebsitePerformancePageViews",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhxCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformancePageViews\";q=filter q by {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date1_Year\")}};q = filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date1_Month\")}};q = filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};\nq = group q by 'Page1';\nq = foreach q generate 'Page1' as 'Page1', sum('Pageviews1') as 'Pageviews2';\nq = order q by 'Pageviews2' desc;\nq = limit q 3;",
+                    "measures": [
+                        "Pageviews2"
+                    ],
+                    "measuresMap": {},
+                    "groups": [
+                        "Page1"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Date_Day_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Avg_Time_on_Page1"
+                        ]
+                    ],
+                    "groups": [
+                        "Date_Day"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Pageviews_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; g=group g by all;g = foreach g generate sum('Pageviews') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate sum('Pageviews') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate sum('Pageviews') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as 'sum_Pageviews'",
+                    "measures": [
+                        "sum_Pageviews"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Pageviews_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago - 1 year\"..\"current day - 1 year\"]; g=group g by all;g = foreach g generate sum('Pageviews') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current day - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate sum('Pageviews') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(LYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate coalesce(sum('Pageviews'),0) as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.selection,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as 'sum_Pageviews'",
+                    "measures": [
+                        "sum_Pageviews"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_6_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhyCAA",
+                        "label": "WebsitePerformanceChannelGrouping",
+                        "name": "WebsitePerformanceChannelGrouping",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhyCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "all_6",
+                "query": {
+                    "pigql": "q=load \"WebsitePerformanceChannelGrouping\";q=group q by all;q=foreach q generate sum('Sessions') as 'totalrows'; ",
+                    "measures": [
+                        "totalrows"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_22": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=group q by all; q=foreach q generate (({{coalesce(cell(Pageviews_2.result,0,\"sum_Pageviews\"),0).asObject()}}-{{coalesce(cell(Pageviews_1.result,0,\"sum_Pageviews\"),0).asObject()}})/{{coalesce(cell(Pageviews_1.result,0,\"sum_Pageviews\"),0).asObject()}}*100) as 'sum_Result';",
+                    "measures": [
+                        [
+                            "sum",
+                            "Result"
+                        ]
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "User_Type_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blhzCAA",
+                        "label": "WebsitePerformanceUserType",
+                        "name": "WebsitePerformanceUserType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhzCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"WebsitePerformanceUserType\";q=filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}};q=filter q by {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}};q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}};q=group q by User_Type;q=foreach q generate User_Type as User_Type,sum('Sessions')as 'Result';  ",
+                    "measures": [
+                        "Result"
+                    ],
+                    "groups": [
+                        "User_Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CYYear": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYYear",
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\"; q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q1 = group q by 'Date_Year'; q1 = foreach q1 generate 'Date_Year' as 'Date_Year', avg('Date_Year_New') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'Date_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Date_Year_1.selection,[\"Date_Year\"]).asEquality(\"Date_Year\")}}; q2 = group q2 by 'Date_Year'; q2 = foreach q2 generate 'Date_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('Date_Year_New') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*-1 end) as 'Year_Diff'; ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Country_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Country"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Date_Month_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Avg_Time_on_Page1"
+                        ]
+                    ],
+                    "groups": [
+                        "Date_Month"
+                    ],
+                    "filters": [
+                        [
+                            "Date",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        -5
+                                    ],
+                                    [
+                                        "day",
+                                        0
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "ExitCY": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bli7CAA",
+                        "label": "WebsitePerformance",
+                        "name": "WebsitePerformance",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"WebsitePerformance\";q= filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"10 years ago\"..\"current day\"];q = filter q by  {{column(Country_1.selection,[\"Country\"]).asEquality(\"Country\")}}; q=filter q by {{column(Date_Month_1.selection,[\"Date_Month\"]).asEquality(\"Date_Month\")}};q=filter q by {{column(Week_1.selection,[\"Week_New\"]).asEquality(\"Week_New\")}}; g = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"12 months ago\"..\"current day\"]; g=group g by all;g = foreach g generate  avg('Exit1') as 'sum_Pageviews_g';d = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; d=group d by all;d = foreach d generate  avg('Exit1') as 'sum_Pageviews_d';e = filter q by date('Date_Year', 'Date_Month', 'Date_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; e=group e by all;e = foreach e generate  avg('Exit1') as 'sum_Pageviews_e';c=union g,d,e;c=group c by all;c=foreach c generate (case when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\"==\"{{column(current_year_1.result,[\"Date_Year\"]).asObject()}}\" then sum(sum_Pageviews_d) when \"{{cell(Date_Year_1.selection,0,\"Date_Year\").asObject()}}\" == \"\" then sum(sum_Pageviews_g) else sum(sum_Pageviews_e) end) as 'sum_Result'",
+                    "measures": [
+                        "sum_Result"
+                    ],
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "number_12": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 20,
+                    "step": "BounceRate%",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 20
+                },
+                "type": "number"
+            },
+            "number_11": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_BounceRate",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "BounceRatePY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_10": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_BounceRate",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "BounceRateCY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "text_17": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Week",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_14": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Website",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_13": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "vs",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "text_16": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Year",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_15": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Month",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_10": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "vs",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "number_16": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 20,
+                    "step": "Exit%",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_15": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "count",
+                    "numberColor": "#335779",
+                    "numberSize": 32,
+                    "step": "all_5",
+                    "textAlignment": "right",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "text_12": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "vs",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "number_14": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "ExitPY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "text_11": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "vs",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "number_13": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "ExitCY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "Capture1PNG1",
+                        "namespace": ""
+                    }
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_9": {
+                "parameters": {
+                    "autoFitMode": "fit",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": false,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "binValues": false,
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": false,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Page_1",
+                    "dimensionAxis": {
+                        "showTitle": false,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_6": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_6": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "AvgTimeLine"
+                },
+                "type": "chart"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "User Type",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "PageViews",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "container_7": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_5": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "showTotal": true,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Default_Channel_Grou_2",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 0
+                },
+                "type": "chart"
+            },
+            "container_8": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_8": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "ExitTimeLine"
+                },
+                "type": "chart"
+            },
+            "text_5": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Visitor Source",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Unique PageViews",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_7": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Bounce Rate",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "BounceRateTimeline"
+                },
+                "type": "chart"
+            },
+            "container_9": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_7": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Avg. Time on Page (sec)",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_2": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "test"
+                },
+                "type": "chart"
+            },
+            "text_6": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Sessions (visits)",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_1": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "showTotal": true,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "User_Type_1",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 0
+                },
+                "type": "chart"
+            },
+            "chart_4": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "UniquePageViews"
+                },
+                "type": "chart"
+            },
+            "text_9": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "% Exit",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_3": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "PageViews"
+                },
+                "type": "chart"
+            },
+            "text_8": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "% Bounce Rate",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "vs",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "number_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Pageviews",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Pageviews_1",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Pageviews",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Pageviews_2",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 20,
+                    "step": "all_2",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Unique_Pageviews",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Unique_Pageviews_2",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Unique_Pageviews",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Unique_Pageviews_1",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng8",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "container_11": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_10": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "number_9": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 20,
+                    "step": "all_3",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_8": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Avg_Time_on_Page1",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Avg_Time_PY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_7": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Avg_Time_on_Page1",
+                    "numberColor": "#335779",
+                    "numberSize": 14,
+                    "step": "Avg_Time_CY",
+                    "textAlignment": "right",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "sum_Result",
+                    "numberColor": "#335779",
+                    "numberSize": 20,
+                    "step": "all_22",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Date_Year_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Date_Month_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "text_20": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Site pages visited (Default top 3)",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Country_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb28000000blhxCAA",
+            "label": "WebsitePerformancePageViews",
+            "name": "WebsitePerformancePageViews",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhxCAA"
+        },
+        {
+            "id": "0Fb28000000blhyCAA",
+            "label": "WebsitePerformanceChannelGrouping",
+            "name": "WebsitePerformanceChannelGrouping",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhyCAA"
+        },
+        {
+            "id": "0Fb28000000blhzCAA",
+            "label": "WebsitePerformanceUserType",
+            "name": "WebsitePerformanceUserType",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blhzCAA"
+        },
+        {
+            "id": "0Fb28000000bli7CAA",
+            "label": "WebsitePerformance",
+            "name": "WebsitePerformance",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bli7CAA"
+        }
+    ]
+}

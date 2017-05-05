@@ -1,0 +1,332 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Channel_Site",
+			"fullyQualifiedName": "Channel_Site",
+			"label": "Channel Site",
+			"linkTemplateEnabled": true,
+			"origin": "Channel_Site",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Product",
+			"fullyQualifiedName": "Product",
+			"label": "Product",
+			"linkTemplateEnabled": true,
+			"origin": "Product",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PRODUCT_NAME",
+			"fullyQualifiedName": "ComputeWeek.PRODUCT_NAME",
+			"label": "PRODUCT_NAME",
+			"linkTemplateEnabled": true,
+			"origin": "PRODUCT_NAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Sales_House",
+			"fullyQualifiedName": "Sales_House",
+			"label": "Sales House",
+			"linkTemplateEnabled": true,
+			"origin": "Sales_House",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "COUNTRY",
+			"fullyQualifiedName": "COUNTRY",
+			"label": "COUNTRY",
+			"linkTemplateEnabled": true,
+			"origin": "COUNTRY",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Country1",
+			"fullyQualifiedName": "ComputeWeek.Country1",
+			"label": "Country1",
+			"linkTemplateEnabled": true,
+			"origin": "Country1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Medium",
+			"fullyQualifiedName": "Medium",
+			"label": "Medium",
+			"linkTemplateEnabled": true,
+			"origin": "Medium",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Ad_Format",
+			"fullyQualifiedName": "Ad_Format",
+			"label": "Ad Format",
+			"linkTemplateEnabled": true,
+			"origin": "Ad_Format",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Region",
+			"fullyQualifiedName": "Region",
+			"label": "Region",
+			"linkTemplateEnabled": true,
+			"origin": "Region",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week",
+			"label": "Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Year",
+			"label": "Week_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Quarter",
+			"label": "Week_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Month",
+			"label": "Week_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Week",
+			"label": "Week_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Day",
+			"label": "Week_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Hour",
+			"label": "Week_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Minute",
+			"label": "Week_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Second",
+			"label": "Week_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "Planned_Impressions_Ttl_Ppl",
+			"format": {
+				"customFormat": "[\"##.##\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_Impressions_Ttl_Ppl",
+			"label": "Planned Impressions Ttl Ppl",
+			"origin": "Planned_Impressions_Ttl_Ppl",
+			"showInExplorer": false
+		},
+		{
+			"field": "Actual_Expenditure",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Actual_Expenditure",
+			"label": "Actual Expenditure",
+			"origin": "Actual_Expenditure",
+			"showInExplorer": true
+		},
+		{
+			"field": "Actual_Impressions_Ttl_Ppl",
+			"format": {
+				"customFormat": "[\"##.##\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Actual_Impressions_Ttl_Ppl",
+			"label": "Actual Impressions Ttl Ppl",
+			"origin": "Actual_Impressions_Ttl_Ppl",
+			"showInExplorer": false
+		},
+		{
+			"field": "Planned_CPM",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_CPM",
+			"label": "Planned CPM",
+			"origin": "Planned_CPM",
+			"showInExplorer": true
+		},
+		{
+			"field": "Planned_Rating_Point",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_Rating_Point",
+			"label": "Planned Rating Point",
+			"origin": "Planned_Rating_Point",
+			"showInExplorer": true
+		},
+		{
+			"field": "Audience_Population",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Audience_Population",
+			"label": "Audience Population",
+			"origin": "Audience_Population",
+			"showInExplorer": true
+		},
+		{
+			"field": "Actual_Rating_Point",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Actual_Rating_Point",
+			"label": "Actual Rating Point",
+			"origin": "Actual_Rating_Point",
+			"showInExplorer": true
+		},
+		{
+			"field": "Planned_Budget",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_Budget",
+			"label": "Planned Budget",
+			"origin": "Planned_Budget",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"derivedMeasures": [
+		{
+			"field": "Planned Weight1",
+			"format": {
+				"customFormat": "[\"##.##\",1]"
+			},
+			"label": "Planned Weight1",
+			"showInExplorer": false
+		},
+		{
+			"field": "Actual Weight1",
+			"format": {
+				"customFormat": "[\"##.##\",1]"
+			},
+			"label": "Actual Weight1",
+			"showInExplorer": false
+		}
+	],
+	"dates": [
+		{
+			"alias": "Week",
+			"compact": false,
+			"fields": {
+				"day": "Week_Day",
+				"epochDay": "Week_day_epoch",
+				"epochSecond": "Week_sec_epoch",
+				"fullField": "Week",
+				"hour": "Week_Hour",
+				"minute": "Week_Minute",
+				"month": "Week_Month",
+				"quarter": "Week_Quarter",
+				"second": "Week_Second",
+				"week": "Week_Week",
+				"year": "Week_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Week",
+			"showInExplorer": true
+		}
+	]
+}

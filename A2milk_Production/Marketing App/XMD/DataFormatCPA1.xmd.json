@@ -1,0 +1,260 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Site",
+			"fullyQualifiedName": "Site",
+			"label": "Site",
+			"linkTemplateEnabled": true,
+			"origin": "Site",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Action_Type",
+			"fullyQualifiedName": "Action_Type",
+			"label": "Action Type",
+			"linkTemplateEnabled": true,
+			"origin": "Action_Type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Sales_House",
+			"fullyQualifiedName": "Sales_House",
+			"label": "Sales House",
+			"linkTemplateEnabled": true,
+			"origin": "Sales_House",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Campaign",
+			"fullyQualifiedName": "Campaign",
+			"label": "Campaign",
+			"linkTemplateEnabled": true,
+			"origin": "Campaign",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Ad_Format",
+			"fullyQualifiedName": "Ad_Format",
+			"label": "Ad Format",
+			"linkTemplateEnabled": true,
+			"origin": "Ad_Format",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Country",
+			"fullyQualifiedName": "Country",
+			"label": "Country",
+			"linkTemplateEnabled": true,
+			"origin": "Country",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Region",
+			"fullyQualifiedName": "Region",
+			"label": "Region",
+			"linkTemplateEnabled": true,
+			"origin": "Region",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week",
+			"label": "Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Year",
+			"label": "Week_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Quarter",
+			"label": "Week_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Month",
+			"label": "Week_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Week",
+			"label": "Week_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Day",
+			"label": "Week_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Hour",
+			"label": "Week_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Minute",
+			"label": "Week_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Second",
+			"label": "Week_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "Delivered_Actions",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Delivered_Actions",
+			"label": "Delivered Actions",
+			"origin": "Delivered_Actions",
+			"showInExplorer": true
+		},
+		{
+			"field": "Actual_Expenditure",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Actual_Expenditure",
+			"label": "Actual Expenditure",
+			"origin": "Actual_Expenditure",
+			"showInExplorer": true
+		},
+		{
+			"description": "Converted dimension Week_Year",
+			"field": "Week_Year_New",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "digest.Week_Year_New",
+			"label": "Week_Year_New",
+			"origin": "Week_Year",
+			"showInExplorer": true
+		},
+		{
+			"field": "Planned_Actions",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_Actions",
+			"label": "Planned Actions",
+			"origin": "Planned_Actions",
+			"showInExplorer": true
+		},
+		{
+			"field": "Planned_Budget",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Planned_Budget",
+			"label": "Planned Budget",
+			"origin": "Planned_Budget",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "Week",
+			"compact": false,
+			"fields": {
+				"day": "Week_Day",
+				"epochDay": "Week_day_epoch",
+				"epochSecond": "Week_sec_epoch",
+				"fullField": "Week",
+				"hour": "Week_Hour",
+				"minute": "Week_Minute",
+				"month": "Week_Month",
+				"quarter": "Week_Quarter",
+				"second": "Week_Second",
+				"week": "Week_Week",
+				"year": "Week_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Week",
+			"showInExplorer": true
+		}
+	]
+}

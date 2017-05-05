@@ -1,0 +1,582 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "Metro",
+			"field": "Suburb.Metro",
+			"fullyQualifiedName": "digest.Suburb.Metro",
+			"label": "Suburb.Metro",
+			"linkTemplateEnabled": true,
+			"origin": "Metro",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "BU_code",
+			"field": "Suburb.BU_code",
+			"fullyQualifiedName": "digest.Suburb.BU_code",
+			"label": "Suburb.BU_code",
+			"linkTemplateEnabled": true,
+			"origin": "BU_code",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "BDA",
+			"field": "Suburb.BDA",
+			"fullyQualifiedName": "digest.Suburb.BDA",
+			"label": "Suburb.BDA",
+			"linkTemplateEnabled": true,
+			"origin": "BDA",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "suburb_id",
+			"field": "suburb_id",
+			"fullyQualifiedName": "suburb_id",
+			"label": "suburb_id",
+			"linkTemplateEnabled": true,
+			"origin": "suburb_id",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "REGION",
+			"field": "Suburb.REGION",
+			"fullyQualifiedName": "digest.Suburb.REGION",
+			"label": "Suburb.REGION",
+			"linkTemplateEnabled": true,
+			"origin": "REGION",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "postcode",
+			"field": "Suburb.postcode",
+			"fullyQualifiedName": "digest.Suburb.postcode",
+			"label": "Suburb.postcode",
+			"linkTemplateEnabled": true,
+			"origin": "postcode",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "suburb_id",
+			"field": "Suburb.suburb_id",
+			"fullyQualifiedName": "digest.Suburb.suburb_id",
+			"label": "Suburb.suburb_id",
+			"linkTemplateEnabled": true,
+			"origin": "suburb_id",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "Residential / Projects",
+			"field": "Suburb.Residential_Projects",
+			"fullyQualifiedName": "digest.Suburb.Residential_Projects",
+			"label": "Suburb.Residential_Projects",
+			"linkTemplateEnabled": true,
+			"origin": "Residential_Projects",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "property_type",
+			"field": "property_type",
+			"fullyQualifiedName": "property_type",
+			"label": "property_type",
+			"linkTemplateEnabled": true,
+			"origin": "property_type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "end_month",
+			"field": "end_month",
+			"fullyQualifiedName": "end_month",
+			"label": "end_month",
+			"linkTemplateEnabled": true,
+			"origin": "end_month",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "suburb",
+			"field": "Suburb.suburb",
+			"fullyQualifiedName": "digest.Suburb.suburb",
+			"label": "Suburb.suburb",
+			"linkTemplateEnabled": true,
+			"origin": "suburb",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "Co Owned or Franchise",
+			"field": "Suburb.Co_Owned_or_Franchise",
+			"fullyQualifiedName": "digest.Suburb.Co_Owned_or_Franchise",
+			"label": "Suburb.Co_Owned_or_Franchise",
+			"linkTemplateEnabled": true,
+			"origin": "Co_Owned_or_Franchise",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "franchise_name",
+			"field": "franchise_name",
+			"fullyQualifiedName": "franchise_name",
+			"label": "franchise_name",
+			"linkTemplateEnabled": true,
+			"origin": "franchise_name",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "postcode",
+			"field": "postcode",
+			"fullyQualifiedName": "postcode",
+			"label": "postcode",
+			"linkTemplateEnabled": true,
+			"origin": "postcode",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Franchise",
+			"fullyQualifiedName": "Compute_Suburb.Franchise",
+			"label": "Franchise",
+			"linkTemplateEnabled": true,
+			"origin": "Franchise",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "NewSTATE",
+			"field": "Suburb.NewSTATE",
+			"fullyQualifiedName": "digest.Suburb.NewSTATE",
+			"label": "Suburb.NewSTATE",
+			"linkTemplateEnabled": true,
+			"origin": "NewSTATE",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "State",
+			"field": "State",
+			"fullyQualifiedName": "State",
+			"label": "State",
+			"linkTemplateEnabled": true,
+			"origin": "State",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "GROUPS",
+			"field": "Suburb.GROUPS",
+			"fullyQualifiedName": "digest.Suburb.GROUPS",
+			"label": "Suburb.GROUPS",
+			"linkTemplateEnabled": true,
+			"origin": "GROUPS",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "State",
+			"field": "Suburb.State",
+			"fullyQualifiedName": "digest.Suburb.State",
+			"label": "Suburb.State",
+			"linkTemplateEnabled": true,
+			"origin": "State",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "suburb",
+			"field": "suburb",
+			"fullyQualifiedName": "suburb",
+			"label": "suburb",
+			"linkTemplateEnabled": true,
+			"origin": "suburb",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"description": "end_year",
+			"field": "end_year",
+			"fullyQualifiedName": "end_year",
+			"label": "end_year",
+			"linkTemplateEnabled": true,
+			"origin": "end_year",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date",
+			"label": "run_date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Year",
+			"label": "run_date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Quarter",
+			"label": "run_date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Month",
+			"label": "run_date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Week",
+			"label": "run_date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Day",
+			"label": "run_date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Hour",
+			"label": "run_date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Minute",
+			"label": "run_date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "run_date_Second",
+			"label": "run_date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"description": "Max_Sale_price",
+			"field": "Max_Sale_price",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Max_Sale_price",
+			"label": "Max_Sale_price",
+			"origin": "Max_Sale_price",
+			"showInExplorer": true
+		},
+		{
+			"description": "Current_listings",
+			"field": "Current_listings",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Current_listings",
+			"label": "Current_listings",
+			"origin": "Current_listings",
+			"showInExplorer": true
+		},
+		{
+			"description": "Avr_dom",
+			"field": "Avr_dom",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Avr_dom",
+			"label": "Avr_dom",
+			"origin": "Avr_dom",
+			"showInExplorer": true
+		},
+		{
+			"description": "Total_number_auction_sales",
+			"field": "Total_number_auction_sales",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Total_number_auction_sales",
+			"label": "Total_number_auction_sales",
+			"origin": "Total_number_auction_sales",
+			"showInExplorer": true
+		},
+		{
+			"field": "List_to_sell_ratio",
+			"format": {
+				"customFormat": "[\"###%\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Suburb.List_to_sell_ratio",
+			"label": "List_to_sell_ratio",
+			"origin": "List_to_sell_ratio",
+			"showInExplorer": true
+		},
+		{
+			"description": "Total_number_withvalue_sales",
+			"field": "Total_number_withvalue_sales",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Total_number_withvalue_sales",
+			"label": "Total_number_withvalue_sales",
+			"origin": "Total_number_withvalue_sales",
+			"showInExplorer": true
+		},
+		{
+			"description": "Avr_discount",
+			"field": "Avr_discount",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Avr_discount",
+			"label": "Avr_discount",
+			"origin": "Avr_discount",
+			"showInExplorer": true
+		},
+		{
+			"field": "Average_Value_Sales",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Suburb.Average_Value_Sales",
+			"label": "Average_Value_Sales",
+			"origin": "Average_Value_Sales",
+			"showInExplorer": true
+		},
+		{
+			"description": "Min_Sale_price",
+			"field": "Min_Sale_price",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Min_Sale_price",
+			"label": "Min_Sale_price",
+			"origin": "Min_Sale_price",
+			"showInExplorer": true
+		},
+		{
+			"field": "Estimated_Commission",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Suburb.Estimated_Commission",
+			"label": "Estimated_Commission",
+			"origin": "Estimated_Commission",
+			"showInExplorer": true
+		},
+		{
+			"description": "New_listings",
+			"field": "New_listings",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "New_listings",
+			"label": "New_listings",
+			"origin": "New_listings",
+			"showInExplorer": true
+		},
+		{
+			"description": "Total_number_sales",
+			"field": "Total_number_sales",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Total_number_sales",
+			"label": "Total_number_sales",
+			"origin": "Total_number_sales",
+			"showInExplorer": true
+		},
+		{
+			"description": "Expired_listings",
+			"field": "Expired_listings",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Expired_listings",
+			"label": "Expired_listings",
+			"origin": "Expired_listings",
+			"showInExplorer": true
+		},
+		{
+			"description": "Avr_sale_price",
+			"field": "Avr_sale_price",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Avr_sale_price",
+			"label": "Avr_sale_price",
+			"origin": "Avr_sale_price",
+			"showInExplorer": true
+		},
+		{
+			"description": "Total_value_sales",
+			"field": "Total_value_sales",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Total_value_sales",
+			"label": "Total_value_sales",
+			"origin": "Total_value_sales",
+			"showInExplorer": true
+		},
+		{
+			"field": "run_date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "run_date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "run_date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "run_date_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"derivedMeasures": [
+		{
+			"field": "sum_Total_number_sales3",
+			"format": {
+				"customFormat": "[\"###%\",1]"
+			},
+			"label": "sum_Total_number_sales3",
+			"showInExplorer": true
+		},
+		{
+			"field": "Market Share",
+			"format": {
+				"customFormat": "[\"####%\",1]"
+			},
+			"label": "Market Share",
+			"showInExplorer": true
+		},
+		{
+			"field": "Market Share %",
+			"format": {
+				"customFormat": "[\"####%\",1]"
+			},
+			"label": "Market Share %",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "run_date",
+			"compact": false,
+			"description": "run_date",
+			"fields": {
+				"day": "run_date_Day",
+				"epochDay": "run_date_day_epoch",
+				"epochSecond": "run_date_sec_epoch",
+				"fullField": "run_date",
+				"hour": "run_date_Hour",
+				"minute": "run_date_Minute",
+				"month": "run_date_Month",
+				"quarter": "run_date_Quarter",
+				"second": "run_date_Second",
+				"week": "run_date_Week",
+				"year": "run_date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "run_date",
+			"showInExplorer": true
+		}
+	]
+}

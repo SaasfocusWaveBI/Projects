@@ -1,0 +1,95 @@
+{
+  "Suburb_Transaction": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "Suburb_Transaction",
+      "alias": "Suburb_Transaction"
+    }
+  },
+  "Compute_Suburb": {
+    "action": "computeExpression",
+    "parameters": {
+      "name": "Compute_Suburb",
+      "source": "Aug_suburb_transact",
+      "computedFields": [
+        {
+          "default": "",
+          "name": "Franchise",
+          "saqlExpression": "case when 'franchise_name' == \"MCGRATH ESTATE AGENTS\" || 'franchise_name' == \"MCGRATH GROUP\" then \"MCGRATH\" else \"NON-MCGRATH\" end",
+          "label": "Franchise",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Estimated_Commission",
+          "saqlExpression": "'Total_value_sales'* 0.02",
+          "scale": 2,
+          "label": "Estimated_Commission",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Average_Value_Sales",
+          "saqlExpression": "'Total_value_sales'/'Total_number_sales'",
+          "scale": 2,
+          "label": "Average_Value_Sales",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "List_to_sell_ratio",
+          "saqlExpression": "'New_listings'/'Total_number_sales'",
+          "scale": 2,
+          "label": "List_to_sell_ratio",
+          "type": "Numeric"
+        }
+      ]
+    }
+  },
+  "Register_suburb_Transaction": {
+    "action": "sfdcRegister",
+    "parameters": {
+      "name": "Finance_Master",
+      "alias": "Finance_Master",
+      "source": "Compute_Suburb"
+    }
+  },
+  "Aug_suburb_transact": {
+    "action": "augment",
+    "parameters": {
+      "right_key": [
+        "suburb_id"
+      ],
+      "right_select": [
+        "BDA",
+        "BU_code",
+        "Co_Owned_or_Franchise",
+        "GROUPS",
+        "Metro",
+        "NewSTATE",
+        "postcode",
+        "REGION",
+        "Residential_Projects",
+        "State",
+        "suburb",
+        "suburb_id"
+      ],
+      "left": "Suburb_Transaction",
+      "left_key": [
+        "suburb_id"
+      ],
+      "right": "Suburb_postcode",
+      "relationship": "Suburb"
+    }
+  },
+  "Suburb_postcode": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "Suburb_postcode",
+      "alias": "Suburb_postcode"
+    }
+  }
+}

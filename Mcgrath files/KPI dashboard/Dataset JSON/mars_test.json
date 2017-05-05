@@ -1,0 +1,617 @@
+{
+  "Mars_PropertySales1": {
+    "action": "sfdcDigest",
+    "parameters": {
+      "incremental": true,
+      "fields": [
+        {
+          "name": "agentNameList__c"
+        },
+        {
+          "name": "anticipatedCoolingOffDate__c"
+        },
+        {
+          "name": "auctionDate__c"
+        },
+        {
+          "name": "compliant__c"
+        },
+        {
+          "name": "compliantRating__c"
+        },
+        {
+          "name": "coolingOffDate__c"
+        },
+        {
+          "name": "CreatedById"
+        },
+        {
+          "name": "CreatedDate"
+        },
+        {
+          "name": "daysOnMarket__c"
+        },
+        {
+          "name": "DaysSoldAfterAuction__c"
+        },
+        {
+          "name": "EstimateGuide__c"
+        },
+        {
+          "name": "EstimateLower__c"
+        },
+        {
+          "name": "EstimateUpper__c"
+        },
+        {
+          "name": "exchangeAmount__c"
+        },
+        {
+          "name": "exchangeAuctionMethod__c"
+        },
+        {
+          "name": "exchangeDate__c"
+        },
+        {
+          "name": "exchangeSaleMethod__c"
+        },
+        {
+          "name": "expectedSettlementDate__c"
+        },
+        {
+          "name": "grossCommission__c"
+        },
+        {
+          "name": "grossCommissionLessGST__c"
+        },
+        {
+          "name": "Id"
+        },
+        {
+          "name": "isActive__c"
+        },
+        {
+          "name": "IsDeleted"
+        },
+        {
+          "name": "LastModifiedById"
+        },
+        {
+          "name": "LastModifiedDate"
+        },
+        {
+          "name": "ListingDate__c"
+        },
+        {
+          "name": "ListingId__c"
+        },
+        {
+          "name": "ListingOfficeID__c"
+        },
+        {
+          "name": "ListingOfficeName__c"
+        },
+        {
+          "name": "listingOfficePSBU__c"
+        },
+        {
+          "name": "listingOfficeStatus__c"
+        },
+        {
+          "name": "listingOfficeType__c"
+        },
+        {
+          "name": "listingSaleMethod__c"
+        },
+        {
+          "name": "listingStatus__c"
+        },
+        {
+          "name": "marsUUID__c"
+        },
+        {
+          "name": "MidEsitimateRange__c"
+        },
+        {
+          "name": "Name"
+        },
+        {
+          "name": "offerAcceptedDate__c"
+        },
+        {
+          "name": "offerAmount__c"
+        },
+        {
+          "name": "priceGuideLower__c"
+        },
+        {
+          "name": "OwnerId"
+        },
+        {
+          "name": "priceGuideOver__c"
+        },
+        {
+          "name": "priceGuideUpper__c"
+        },
+        {
+          "name": "propertyAddress__c"
+        },
+        {
+          "name": "propertyState__c"
+        },
+        {
+          "name": "propertySuburb__c"
+        },
+        {
+          "name": "propertyType__c"
+        },
+        {
+          "name": "SystemModstamp"
+        }
+      ],
+      "object": "mars_wave_listing_sales_data__c"
+    }
+  },
+  "Mars_AgentCommission1": {
+    "action": "sfdcDigest",
+    "parameters": {
+      "incremental": true,
+      "fields": [
+        {
+          "name": "agentDisplayOrder__c"
+        },
+        {
+          "name": "agentExpectedIncome__c"
+        },
+        {
+          "name": "agentExpectedIncomeGST__c"
+        },
+        {
+          "name": "agentGCIGSTpart__c"
+        },
+        {
+          "name": "agentGCIlessGST__c"
+        },
+        {
+          "name": "agentGrossVolume__c"
+        },
+        {
+          "name": "agentListingCommission__c"
+        },
+        {
+          "name": "agentNameList__c"
+        },
+        {
+          "name": "agentName__c"
+        },
+        {
+          "name": "agentOfficeId__c"
+        },
+        {
+          "name": "agentOfficeName__c"
+        },
+        {
+          "name": "agentOfficeType__c"
+        },
+        {
+          "name": "agentReferralCommission__c"
+        },
+        {
+          "name": "agentSellingCommission__c"
+        },
+        {
+          "name": "agentUserId__c"
+        },
+        {
+          "name": "apportionmentExternal__c"
+        },
+        {
+          "name": "apportionmentNormal__c"
+        },
+        {
+          "name": "CreatedById"
+        },
+        {
+          "name": "CreatedDate"
+        },
+        {
+          "name": "exchangeDate__c"
+        },
+        {
+          "name": "Id"
+        },
+        {
+          "name": "IsDeleted"
+        },
+        {
+          "name": "LastModifiedById"
+        },
+        {
+          "name": "LastModifiedDate"
+        },
+        {
+          "name": "listingID__c"
+        },
+        {
+          "name": "listingSaleMethod__c"
+        },
+        {
+          "name": "listingStatus__c"
+        },
+        {
+          "name": "marsUUID__c"
+        },
+        {
+          "name": "Name"
+        },
+        {
+          "name": "officeRetainedIncomePercent__c"
+        },
+        {
+          "name": "officeRetainedIncome__c"
+        },
+        {
+          "name": "OwnerId"
+        },
+        {
+          "name": "propertyAddress__c"
+        },
+        {
+          "name": "propertyType__c"
+        },
+        {
+          "name": "SystemModstamp"
+        }
+      ],
+      "object": "mars_wave_listing_agent_data__c"
+    }
+  },
+  "Reg_mars": {
+    "action": "sfdcRegister",
+    "parameters": {
+      "name": "MARS_test",
+      "alias": "MARS_test",
+      "source": "dim2mea"
+    }
+  },
+   "dim2mea": {
+    "action": "dim2mea",
+    "parameters": {
+      "measure": "ExchangeDate1_Number",
+      "measureDefault": "0",
+      "source": "Derived_Fields1",
+      "dimension": "ExchangeDate1_Year",
+      "measureType": "long"
+    }
+  },
+  "Derived_Fields1": {
+    "action": "computeExpression",
+    "parameters": {
+      "source": "aug_agent_sales1",
+      "mergeWithSource": false,
+      "computedFields": [
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Av_Commission",
+          "saqlExpression": "('agentGCIGSTpart__c' + 'agentGCIlessGST__c')/('agentGrossVolume__c')",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        
+         {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Average_Commission",
+          "saqlExpression": "(('agentGCIlessGST__c')/('Sales.exchangeAmount__c'))*100",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+         {
+          "defaultValue": "",
+           "precision": 18,
+          "name": "Gross_Volume",
+          "saqlExpression": "'Sales.exchangeAmount__c' * 'apportionmentNormal__c'",
+         "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Agent_Gross_Commission_Income",
+          "saqlExpression": "'agentGCIlessGST__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Agent_Gross_Volume",
+          "saqlExpression": "'agentGrossVolume__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "name": "Agent_Name",
+          "saqlExpression": "'agentName__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "name": "Agent_User_Id",
+          "saqlExpression": "'agentUserId__c'",
+          "label": "",
+          "type": "Text"
+        },
+         {
+          "defaultValue": "",
+          
+          "name": "Office_Id",
+          "saqlExpression": "'agentOfficeId__c'",
+         "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Apportionment_Normal",
+          "saqlExpression": "'apportionmentNormal__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "name": "Sale_Type",
+          "saqlExpression": "'listingSaleMethod__c'",
+          "label": "",
+          "type": "Text"
+        },
+        
+        {
+          "defaultValue": "",
+          "name": "Listing_Status",
+          "saqlExpression": "'listingStatus__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Office_Retained_Income",
+          "saqlExpression": "officeRetainedIncome__c",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Percentage",
+          "saqlExpression": "'officeRetainedIncomePercent__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "name": "Property_Address",
+          "saqlExpression": "'propertyAddress__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "fiscalMonthOffset": 6,
+          "defaultValue": "",
+          "name": "ExchangeDate1",
+          "saqlExpression": "toDate('Sales.exchangeDate__c', \"yyyy-MM-dd\")",
+          "format": "yyyy-MM-dd",
+          "label": "ExchangeDate1",
+          "type": "Date"
+        },
+        {
+          "defaultValue": "",
+          "name": "Property_Type",
+          "saqlExpression": "'propertyType__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Estimatelower",
+          "saqlExpression": "'Sales.EstimateLower__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Days_On_Market",
+          "saqlExpression": "'Sales.daysOnMarket__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Estimate_Upper",
+          "saqlExpression": "'Sales.EstimateUpper__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Exchange_Amount",
+          "saqlExpression": "'Sales.exchangeAmount__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "fiscalMonthOffset": 6,
+          "defaultValue": "",
+          "name": "ListingDate1",
+          "saqlExpression": "toDate('Sales.ListingDate__c', \"yyyy-MM-dd\")",
+          "format": "yyyy-MM-dd",
+          "label": "ListingDate1",
+          "type": "Date"
+        },
+        {
+          "fiscalMonthOffset": 6,
+          "defaultValue": "",
+          "name": "AuctionDate1",
+          "saqlExpression": "toDate('Sales.auctionDate__c', \"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\")",
+          "format": "yyyy-MM-dd",
+          "label": "AuctionDate1",
+          "type": "Date"
+        },
+        {
+          "defaultValue": "",
+          "name": "Sales_Listing_Id",
+          "saqlExpression": "'Sales.ListingId__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "name": "Office_Type",
+          "saqlExpression": "'agentOfficeType__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "Offer_Amount",
+          "saqlExpression": "'Sales.offerAmount__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        {
+          "defaultValue": "",
+          "precision": 18,
+          "name": "GCI",
+          "saqlExpression": "'Sales.grossCommissionLessGST__c'",
+          "scale": 2,
+          "label": "",
+          "type": "Numeric"
+        },
+        
+        {
+          "defaultValue": "",
+          "name": "Office_Name_group",
+          "saqlExpression": "case when 'Sales.ListingOfficeName__c' == \"Lindfield\" || 'Sales.ListingOfficeName__c' == \"Lane Cove\" || 'Sales.ListingOfficeName__c' == \"Epping\" ||  'Sales.ListingOfficeName__c' == \"Hunters Hill\" || 'Sales.ListingOfficeName__c' == \"Avalon\" || 'Sales.ListingOfficeName__c' == \"Castle Hill\" ||'Sales.ListingOfficeName__c' == \"Pymble\"   ||'Sales.ListingOfficeName__c' == \"Mona Vale\" ||'Sales.ListingOfficeName__c' == \"Crows Nest\" ||'Sales.ListingOfficeName__c' == \"Ryde\" then \"Company owned north\" when 'Sales.ListingOfficeName__c' == \"Balmain\" || 'Sales.ListingOfficeName__c' == \"Blacktown\" || 'Sales.ListingOfficeName__c' == \"Bulimba\"  || 'Sales.ListingOfficeName__c' == \"Concord\" || 'Sales.ListingOfficeName__c' == \"Edgecliff\" || 'Sales.ListingOfficeName__c' == \"Leichhardt\" || 'Sales.ListingOfficeName__c' == \"Manly\" || 'Sales.ListingOfficeName__c' == \"Maroubra\" || 'Sales.ListingOfficeName__c' == \"Projects NSW\" || 'Sales.ListingOfficeName__c' == \"Projects QLD\" || 'Sales.ListingOfficeName__c' == \"New Farm\" || 'Sales.ListingOfficeName__c' == \"Newtown\" || 'Sales.ListingOfficeName__c' == \"Paddington\" || 'Sales.ListingOfficeName__c' == \"Paradise Point\" || 'Sales.ListingOfficeName__c' == \"Parramatta\" || 'Sales.ListingOfficeName__c' == \"Seaforth\" || 'Sales.ListingOfficeName__c' == \"Surfers Paradise\" || 'Sales.ListingOfficeName__c' == \"Wahroonga\"then \"Company owned south\" else \"Franchise\" end",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "name": "Office_Name",
+          "saqlExpression": "'Sales.ListingOfficeName__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "name": "isActive__c",
+          "saqlExpression": "'Sales.isActive__c'",
+          "label": "",
+          "type": "Text"
+        },
+        {
+          "defaultValue": "",
+          "name": "Property_State",
+          "saqlExpression": "'Sales.propertyState__c'",
+          "label": "",
+          "type": "Text"
+        }
+      ]
+    }
+  },
+  "filterrental": {
+    "action": "filter",
+    "parameters": {
+      "filter": "isActive__c:EQ:true",
+      "source": "Mars_PropertySales1"
+    }
+  },
+  "aug_agent_sales1": {
+    "action": "augment",
+    "parameters": {
+      "right_key": [
+        "ListingId__c"
+      ],
+      "right_select": [
+        "agentNameList__c",
+        "anticipatedCoolingOffDate__c",
+        "auctionDate__c",
+        "compliant__c",
+        "compliantRating__c",
+        "coolingOffDate__c",
+        "CreatedById",
+        "CreatedDate",
+        "daysOnMarket__c",
+        "DaysSoldAfterAuction__c",
+        "EstimateGuide__c",
+        "EstimateLower__c",
+        "EstimateUpper__c",
+        "exchangeAmount__c",
+        "exchangeAuctionMethod__c",
+        "exchangeDate__c",
+        "exchangeSaleMethod__c",
+        "expectedSettlementDate__c",
+        "grossCommission__c",
+        "grossCommissionLessGST__c",
+        "Id",
+        "isActive__c",
+        "IsDeleted",
+        "LastModifiedById",
+        "LastModifiedDate",
+        "ListingDate__c",
+        "ListingId__c",
+        "ListingOfficeID__c",
+        "ListingOfficeName__c",
+        "listingOfficePSBU__c",
+        "listingOfficeStatus__c",
+        "listingOfficeType__c",
+        "listingSaleMethod__c",
+        "listingStatus__c",
+        "marsUUID__c",
+        "MidEsitimateRange__c",
+        "Name",
+        "offerAcceptedDate__c",
+        "offerAmount__c",
+        "OwnerId",
+        "priceGuideLower__c",
+        "priceGuideOver__c",
+        "priceGuideUpper__c",
+        "propertyAddress__c",
+        "propertyState__c",
+        "propertySuburb__c",
+        "propertyType__c",
+        "SystemModstamp"
+      ],
+      "left": "Mars_AgentCommission1",
+      "left_key": [
+        "listingID__c"
+      ],
+      "right": "filterrental",
+      "relationship": "Sales",
+      "operation": "LookupSingleValue"
+    }
+  }
+}
+     

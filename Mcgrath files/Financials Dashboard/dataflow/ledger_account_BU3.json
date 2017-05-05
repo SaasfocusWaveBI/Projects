@@ -1,0 +1,164 @@
+{
+  "compute": {
+    "action": "computeExpression",
+    "parameters": {
+      "name": "compute",
+      "source": "BudgetForecast",
+      "mergeWithSource": true,
+      "computedFields": [
+        {
+          "default": "",
+          "name": "Object_account_new",
+          "saqlExpression": " case when len('Object_Account') == 4 then \"4 digit\" else \"none\" end",
+          "label": "Object_account_new",
+          "type": "Text"
+        }
+      ]
+    }
+  },
+  "BudgetForecast": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "BudgetForecast",
+      "alias": "Ledger_Type"
+    }
+  },
+  "Account": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "Account",
+      "alias": "Account_Hierarchy"
+    }
+  },
+  "BU": {
+    "action": "edgemart",
+    "parameters": {
+      "name": "BU",
+      "alias": "BU_Hierarchy"
+    }
+  },
+  "Final_New": {
+    "action": "sfdcRegister",
+    "parameters": {
+      "name": "Ledger_Account_BU3",
+      "alias": "Ledger_Account_BU3",
+      "source": "Compute_Date"
+    }
+  },
+  "Compute": {
+    "action": "computeExpression",
+    "parameters": {
+      "name": "Compute",
+      "source": "Aug_2",
+      "mergeWithSource": true,
+      "computedFields": [
+        {
+          "default": "",
+          "name": "BU_Category",
+          "saqlExpression": "case when 'BU.CAT_01'==\"SAL\" then \"SAL\" when 'BU.CAT_01'==\"PRO\" then \"PM\" when 'BU.CAT_01'==\"FRA\" then \"FRA\" when 'BU.CAT_01'==\"NET\" || 'BU.CAT_01'==\"SHN\" then \"OTH\" else \"CORP\" end",
+          "label": "BU_Category",
+          "type": "Text"
+        },
+        {
+          "default": "",
+          "name": "Ledger_Type_New",
+          "saqlExpression": "case when 'Ledger_Type'==\"BA\" then \"Budget\" when 'Ledger_Type'==\"B1\" then \"Forecast\" when 'Ledger_Type'==\"AA\" || 'Ledger_Type'==\"B8\" then \"Actuals\" when 'Ledger_Type'==\"B8\" || 'Ledger_Type'==\"AA\" then \"Last Year \"  end",
+          "label": "Ledger_Type_New",
+          "type": "Text"
+        },
+        {
+          "default": "",
+          "name": "CalenderMonth",
+          "saqlExpression": "case when 'Period_Month'==\"01\" then \"January\" when 'Period_Month'==\"02\" then \"February\" when 'Period_Month'==\"03\" then \"March\" when 'Period_Month'==\"04\" then \"April\" when 'Period_Month'==\"05\" then \"May\" when 'Period_Month' ==\"06\" then \"June\" when 'Period_Month'==\"07\" then \"July\" when 'Period_Month' ==\"08\" then \"August\" when 'Period_Month'==\"09\" then \"September\" when 'Period_Month'==\"10\" then \"October\" when 'Period_Month'==\"11\" then \"November\" else \"December\"end",
+          "label": "CalenderMonth",
+          "type": "Text"
+        },
+        {
+          "default": "",
+          "name": "BusinessUnitDescription1",
+          "saqlExpression": "'BU.Business_Unit'+\"-\"+'BU.Description'",
+          "label": "Business Unit Description",
+          "type": "Text"
+        },
+        {
+          "default": "",
+          "name": "AccountUnitDescription1",
+          "saqlExpression": "'Acc.Object_Account'+\"-\"+'Acc.Account_Description'",
+          "label": "Account Unit Description",
+          "type": "Text"
+        }
+      ]
+    }
+  },
+  "Compute_Date": {
+    "action": "computeExpression",
+    "parameters": {
+      "name": "Compute_Date",
+      "source": "dim2mea",
+      "mergeWithSource": true,
+      "computedFields": [
+        {
+          "fiscalMonthOffset": 6,
+          "defaultValue": "",
+          "name": "FiscalPeriod",
+          "saqlExpression": "toDate('Period', \"dd-MM-yyyy\")",
+          "format": "dd-MM-yyyy",
+          "label": "FiscalPeriod",
+          "type": "Date"
+        }
+      ]
+    }
+  },
+  "dim2mea": {
+    "action": "dim2mea",
+    "parameters": {
+      "measure": "Fiscal_Year_New",
+      "measureDefault": "0",
+      "source": "Compute",
+      "dimension": "Fiscal_Year",
+      "measureType": "long"
+    }
+  },
+  "Aug_2": {
+    "action": "augment",
+    "parameters": {
+      "right_key": [
+        "Business_Unit"
+      ],
+      "left": "Aug_1",
+      "left_key": [
+        "Business_Unit"
+      ],
+      "right_select": [
+        "Business_Unit",
+        "CAT_01",
+        "Description"
+      ],
+      "name": "Aug_2",
+      "right": "BU",
+      "relationship": "BU"
+    }
+  },
+  "Aug_1": {
+    "action": "augment",
+    "parameters": {
+      "right_key": [
+        "Business_Unit",
+        "Object_Account"
+      ],
+      "left_key": [
+        "Business_Unit",
+        "Object_Account"
+      ],
+      "right_select": [
+        "Object_Account",
+        "Account_Cat_1",
+        "Account_Description"
+      ],
+      "left": "compute",
+      "name": "Aug_1",
+      "right": "Account",
+      "relationship": "Acc"
+    }
+  }
+}

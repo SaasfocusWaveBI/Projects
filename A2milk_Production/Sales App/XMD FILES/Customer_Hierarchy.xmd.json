@@ -1,0 +1,147 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Site",
+			"fullyQualifiedName": "Site",
+			"label": "Site",
+			"linkTemplateEnabled": true,
+			"origin": "Site",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Name",
+			"fullyQualifiedName": "Customer_Name",
+			"label": "Customer Name",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Name",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer",
+			"fullyQualifiedName": "Customer",
+			"label": "Customer",
+			"linkTemplateEnabled": true,
+			"origin": "Customer",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Channel",
+			"fullyQualifiedName": "Channel",
+			"label": "Channel",
+			"linkTemplateEnabled": true,
+			"origin": "Channel",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Ship_To",
+			"fullyQualifiedName": "Ship_To",
+			"label": "Ship-To",
+			"linkTemplateEnabled": true,
+			"origin": "Ship_To",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Count_of_Rows",
+			"fullyQualifiedName": "Count_of_Rows",
+			"label": "Count of Rows",
+			"linkTemplateEnabled": true,
+			"origin": "Count_of_Rows",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Segment",
+			"fullyQualifiedName": "Segment",
+			"label": "Segment",
+			"linkTemplateEnabled": true,
+			"origin": "Segment",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Group",
+			"fullyQualifiedName": "Customer_Group",
+			"label": "Customer Group",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Group",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Type",
+			"fullyQualifiedName": "Customer_Type",
+			"label": "Customer Type",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "State",
+			"fullyQualifiedName": "State",
+			"label": "State",
+			"linkTemplateEnabled": true,
+			"origin": "State",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Country",
+			"fullyQualifiedName": "Country",
+			"label": "Country",
+			"linkTemplateEnabled": true,
+			"origin": "Country",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Postal_Code",
+			"fullyQualifiedName": "Postal_Code",
+			"label": "Postal Code",
+			"linkTemplateEnabled": true,
+			"origin": "Postal_Code",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Domain",
+			"fullyQualifiedName": "Domain",
+			"label": "Domain",
+			"linkTemplateEnabled": true,
+			"origin": "Domain",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	]
+}

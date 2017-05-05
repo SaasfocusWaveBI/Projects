@@ -1,0 +1,175 @@
+{
+  "objects": [
+    {
+      "connector": "CSV",
+      "fullyQualifiedName": "McGrath_01_2016_12_2016_csv",
+      "label": "McGrath_01-2016-12-2016.csv",
+      "name": "McGrath_01_2016_12_2016_csv",
+      "fields": [
+        {
+          "fullyQualifiedName": "suburb_id",
+          "name": "suburb_id",
+          "type": "Text",
+          "label": "suburb_id"
+        },
+        {
+          "fullyQualifiedName": "suburb",
+          "name": "suburb",
+          "type": "Text",
+          "label": "suburb"
+        },
+        {
+          "fullyQualifiedName": "postcode",
+          "name": "postcode",
+          "type": "Text",
+          "label": "postcode"
+        },
+        {
+          "fullyQualifiedName": "State",
+          "name": "State",
+          "type": "Text",
+          "label": "State"
+        },
+        {
+          "fullyQualifiedName": "franchise_name",
+          "name": "franchise_name",
+          "type": "Text",
+          "label": "franchise_name"
+        },
+        {
+          "fullyQualifiedName": "end_year",
+          "name": "end_year",
+          "type": "Text",
+          "label": "end_year"
+        },
+        {
+          "fullyQualifiedName": "end_month",
+          "name": "end_month",
+          "type": "Text",
+          "label": "end_month"
+        },
+        {
+          "fullyQualifiedName": "run_date",
+          "name": "run_date",
+          "type": "Date",
+          "label": "run_date",
+          "format": "dd-MM-yyyy"
+        },
+        {
+          "fullyQualifiedName": "property_type",
+          "name": "property_type",
+          "type": "Text",
+          "label": "property_type"
+        },
+        {
+          "fullyQualifiedName": "Total_number_sales",
+          "name": "Total_number_sales",
+          "type": "Numeric",
+          "label": "Total_number_sales",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Total_number_withvalue_sales",
+          "name": "Total_number_withvalue_sales",
+          "type": "Numeric",
+          "label": "Total_number_withvalue_sales",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Total_value_sales",
+          "name": "Total_value_sales",
+          "type": "Numeric",
+          "label": "Total_value_sales",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Total_number_auction_sales",
+          "name": "Total_number_auction_sales",
+          "type": "Numeric",
+          "label": "Total_number_auction_sales",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Avr_sale_price",
+          "name": "Avr_sale_price",
+          "type": "Numeric",
+          "label": "Avr_sale_price",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 4
+        },
+        {
+          "fullyQualifiedName": "Max_Sale_price",
+          "name": "Max_Sale_price",
+          "type": "Numeric",
+          "label": "Max_Sale_price",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Min_Sale_price",
+          "name": "Min_Sale_price",
+          "type": "Numeric",
+          "label": "Min_Sale_price",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+         {
+          "fullyQualifiedName": "Current_listings",
+          "name": "Current_listings",
+          "type": "Numeric",
+          "label": "Current_listings",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "New_listings",
+          "name": "New_listings",
+          "type": "Numeric",
+          "label": "New_listings",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Expired_listings",
+          "name": "Expired_listings",
+          "type": "Numeric",
+          "label": "Expired_listings",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 0
+        },
+        {
+          "fullyQualifiedName": "Avr_dom",
+          "name": "Avr_dom",
+          "type": "Numeric",
+          "label": "Avr_dom",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 6
+        },
+        {
+          "fullyQualifiedName": "Avr_discount",
+          "name": "Avr_discount",
+          "type": "Numeric",
+          "label": "Avr_discount",
+          "precision": 18,
+          "defaultValue": "0",
+          "scale": 6
+        }
+      ]
+    }
+  ]
+}

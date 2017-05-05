@@ -1,0 +1,50 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Product_Group",
+			"fullyQualifiedName": "Product_Group",
+			"label": "Product Group",
+			"linkTemplateEnabled": true,
+			"origin": "Product_Group",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer",
+			"fullyQualifiedName": "Customer",
+			"label": "Customer",
+			"linkTemplateEnabled": true,
+			"origin": "Customer",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Channel",
+			"fullyQualifiedName": "Channel",
+			"label": "Channel",
+			"linkTemplateEnabled": true,
+			"origin": "Channel",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "On_invoice_Discount",
+			"format": {
+				"decimalDigits": 2,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "On_invoice_Discount",
+			"label": "On invoice Discount",
+			"origin": "On_invoice_Discount",
+			"showInExplorer": true
+		}
+	]
+}

@@ -1,0 +1,1409 @@
+{
+    "label": "Open Orders Customer Type",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_1",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 2
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "text_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "text_5",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "listselector_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "text_6",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "text_7",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "table_1",
+                                "row": 3,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 2,
+                                "rowspan": 14,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "image_3",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "text_8",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "listselector_9",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original"
+                },
+                "version": 1
+            },
+            {
+                "name": "Ipad",
+                "numColumns": 20,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 3,
+                                "column": 4,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 8,
+                                "name": "text_8",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 16,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 4,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 8,
+                                "name": "listselector_7",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 16,
+                                "name": "listselector_9",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 4,
+                                "name": "text_4",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 8,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "text_6",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 16,
+                                "name": "text_7",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 4,
+                                "name": "listselector_2",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 8,
+                                "name": "listselector_3",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "listselector_4",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 16,
+                                "name": "listselector_5",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "text_1",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 2
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "table_1",
+                                "row": 6,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "borderColor": "#C5D3E0",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 5,
+                                "rowspan": 14,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 0,
+                                "name": "image_6",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "minWidth(600)",
+                    "maxWidth(999)",
+                    "platform(iOS)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 5,
+                    "cellSpacingY": 7,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "CCH_Customer_Group_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer_Group"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "CustomerT_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "CustomerT"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Product_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Date1_Year_Fiscal"
+                    ],
+                    "order": [
+                        [
+                            "Date1_Year_Fiscal",
+                            {
+                                "ascending": false
+                            }
+                        ]
+                    ]
+                },
+                "selectMode": "multirequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "month_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Date1_Month"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Domain1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Domain1"
+                    ]
+                },
+                "selectMode": "multi",
+                "start": [
+                    "A2DPA"
+                ],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Table_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Quantity",
+                            "A",
+                            {
+                                "display": "Invoiced-Yes"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "Quantity",
+                            "B",
+                            {
+                                "display": "Open-Confirmed-Yes"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "Quantity",
+                            "C",
+                            {
+                                "display": "Open-Confirmed-No"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "Quantity",
+                            "D",
+                            {
+                                "display": "Total"
+                            }
+                        ]
+                    ],
+                    "columns": [
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Quantity"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Product",
+                                    "Product1",
+                                    "CustomerT",
+                                    "Date1_Year_Fiscal",
+                                    "Date1_Month",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "Confirmed",
+                                        [
+                                            "Invoiced"
+                                        ],
+                                        "in"
+                                    ]
+                                ]
+                            },
+                            "header": "Invoiced-Yes"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Quantity"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Product",
+                                    "Product1",
+                                    "CustomerT",
+                                    "Date1_Year_Fiscal",
+                                    "Date1_Month",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "Confirmed",
+                                        [
+                                            "Open-Confirmed-Yes"
+                                        ],
+                                        "in"
+                                    ]
+                                ]
+                            },
+                            "header": "Open-Confirmed-Yes"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Quantity"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Product",
+                                    "Product1",
+                                    "CustomerT",
+                                    "Date1_Year_Fiscal",
+                                    "Date1_Month",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "Confirmed",
+                                        [
+                                            "Open-Confirmed-No"
+                                        ],
+                                        "in"
+                                    ]
+                                ]
+                            },
+                            "header": "Open-Confirmed-No"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Quantity"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Product",
+                                    "Product1",
+                                    "CustomerT",
+                                    "Date1_Year_Fiscal",
+                                    "Date1_Month",
+                                    "Week_New"
+                                ]
+                            },
+                            "header": "Total Quantity"
+                        }
+                    ],
+                    "groups": [
+                        "Product",
+                        "Product1",
+                        "CustomerT",
+                        "Date1_Year_Fiscal",
+                        "Date1_Month",
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {
+                        "totals": true
+                    },
+                    "visualizationType": "valuestable"
+                }
+            },
+            "week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Confirmed_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Confirmed_New"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Product1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product1"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "CCH_Customer_Group_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blgBCAQ",
+                        "label": "StockAllocationCustomerType",
+                        "name": "StockAllocationCustomerType",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer_Group"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitwidth"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product Group",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Domain",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_5": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Year",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Status",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_7": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Week",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_6": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Month",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_9": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product Name",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_8": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Customer Type",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "CCH_Customer_Group_2",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Domain1_1",
+                    "title": " "
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Product1_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "displayTemplate": [
+                        "CustomerT"
+                    ],
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "CustomerT_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Year_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Confirmed_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng2",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Stock Allocation Report",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "month_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_6": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng5",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "table_1": {
+                "parameters": {
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "step": "Table_1"
+                },
+                "type": "table"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "documentId": "015N0000000WsAJ",
+                    "fit": "fitheight"
+                },
+                "type": "image"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Product_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "center",
+                    "fit": "fitwidth",
+                    "image": {
+                        "name": "a2logopng8",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "image_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng1",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb28000000blgBCAQ",
+            "label": "StockAllocationCustomerType",
+            "name": "StockAllocationCustomerType",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blgBCAQ"
+        }
+    ]
+}

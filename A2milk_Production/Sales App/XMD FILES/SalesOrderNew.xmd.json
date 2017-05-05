@@ -1,0 +1,422 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "sod_nbr",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_nbr",
+			"label": "sod_nbr",
+			"linkTemplateEnabled": true,
+			"origin": "sod_nbr",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "sod_part",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_part",
+			"label": "sod_part",
+			"linkTemplateEnabled": true,
+			"origin": "sod_part",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_inv_nbr",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.so_inv_nbr",
+			"label": "so_inv_nbr",
+			"linkTemplateEnabled": true,
+			"origin": "so_inv_nbr",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "sod_um",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_um",
+			"label": "sod_um",
+			"linkTemplateEnabled": true,
+			"origin": "sod_um",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "cm_sort",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.cm_sort",
+			"label": "cm_sort",
+			"linkTemplateEnabled": true,
+			"origin": "cm_sort",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_po",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.so_po",
+			"label": "so_po",
+			"linkTemplateEnabled": true,
+			"origin": "so_po",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_site",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.so_site",
+			"label": "so_site",
+			"linkTemplateEnabled": true,
+			"origin": "so_site",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_cust",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.so_cust",
+			"label": "so_cust",
+			"linkTemplateEnabled": true,
+			"origin": "so_cust",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date",
+			"label": "so_due_date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Year",
+			"label": "so_due_date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Quarter",
+			"label": "so_due_date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Month",
+			"label": "so_due_date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Week",
+			"label": "so_due_date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Day",
+			"label": "so_due_date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Hour",
+			"label": "so_due_date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Minute",
+			"label": "so_due_date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_due_date_Second",
+			"label": "so_due_date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ship",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.so_ship",
+			"label": "so_ship",
+			"linkTemplateEnabled": true,
+			"origin": "so_ship",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ad_state",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.ad_state",
+			"label": "ad_state",
+			"linkTemplateEnabled": true,
+			"origin": "ad_state",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "cm_class",
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.cm_class",
+			"label": "cm_class",
+			"linkTemplateEnabled": true,
+			"origin": "cm_class",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date",
+			"label": "so_ord_date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Year",
+			"label": "so_ord_date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Quarter",
+			"label": "so_ord_date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Month",
+			"label": "so_ord_date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Week",
+			"label": "so_ord_date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Day",
+			"label": "so_ord_date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Hour",
+			"label": "so_ord_date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Minute",
+			"label": "so_ord_date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "so_ord_date_Second",
+			"label": "so_ord_date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "sod_qty_ord",
+			"format": {
+				"decimalDigits": 9,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_qty_ord",
+			"label": "sod_qty_ord",
+			"origin": "sod_qty_ord",
+			"showInExplorer": true
+		},
+		{
+			"field": "sod_line",
+			"format": {
+				"decimalDigits": 0,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_line",
+			"label": "sod_line",
+			"origin": "sod_line",
+			"showInExplorer": true
+		},
+		{
+			"field": "sod_qty_ship",
+			"format": {
+				"decimalDigits": 9,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_qty_ship",
+			"label": "sod_qty_ship",
+			"origin": "sod_qty_ship",
+			"showInExplorer": true
+		},
+		{
+			"field": "so_due_date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "so_due_date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "so_due_date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "so_due_date_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "sod_confirm",
+			"format": {
+				"decimalDigits": 0,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_confirm",
+			"label": "sod_confirm",
+			"origin": "sod_confirm",
+			"showInExplorer": true
+		},
+		{
+			"field": "sod_price",
+			"format": {
+				"decimalDigits": 0,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "QAD_SalesOrder_NEW.sod_price",
+			"label": "sod_price",
+			"origin": "sod_price",
+			"showInExplorer": true
+		},
+		{
+			"field": "so_ord_date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "so_ord_date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "so_ord_date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "so_ord_date_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "so_due_date",
+			"compact": false,
+			"fields": {
+				"day": "so_due_date_Day",
+				"epochDay": "so_due_date_day_epoch",
+				"epochSecond": "so_due_date_sec_epoch",
+				"fullField": "so_due_date",
+				"hour": "so_due_date_Hour",
+				"minute": "so_due_date_Minute",
+				"month": "so_due_date_Month",
+				"quarter": "so_due_date_Quarter",
+				"second": "so_due_date_Second",
+				"week": "so_due_date_Week",
+				"year": "so_due_date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "so_due_date",
+			"showInExplorer": true
+		},
+		{
+			"alias": "so_ord_date",
+			"compact": false,
+			"fields": {
+				"day": "so_ord_date_Day",
+				"epochDay": "so_ord_date_day_epoch",
+				"epochSecond": "so_ord_date_sec_epoch",
+				"fullField": "so_ord_date",
+				"hour": "so_ord_date_Hour",
+				"minute": "so_ord_date_Minute",
+				"month": "so_ord_date_Month",
+				"quarter": "so_ord_date_Quarter",
+				"second": "so_ord_date_Second",
+				"week": "so_ord_date_Week",
+				"year": "so_ord_date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "so_ord_date",
+			"showInExplorer": true
+		}
+	]
+}

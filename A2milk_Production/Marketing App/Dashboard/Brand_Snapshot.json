@@ -1,0 +1,2543 @@
+{
+    "label": "Brand Snapshot",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 25,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 2,
+                                "column": 17,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 23,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 21,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 20,
+                                "name": "chart_1",
+                                "row": 3,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 20,
+                                "name": "container_2",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 5,
+                                "column": 20,
+                                "name": "text_1",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(163, 184, 204)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 22,
+                                "rowspan": 14,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "text_3",
+                                "row": 22,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(163, 184, 204)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "container_5",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(255, 255, 255)",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "text_6",
+                                "row": 35,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "listselector_7",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 13,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 13,
+                                "name": "text_10",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 15,
+                                "name": "text_11",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 17,
+                                "name": "text_12",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 23,
+                                "name": "text_14",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 21,
+                                "name": "text_15",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_16",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 15,
+                                "name": "listselector_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 10,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "chart_2",
+                                "row": 3,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "chart_3",
+                                "row": 23,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 20,
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 9,
+                                "rowspan": 13,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "text_4",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "image_3",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 19,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 19,
+                                "name": "text_5",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_9",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "text_7",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "chart_4",
+                                "row": 16,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 25,
+                                "column": 0,
+                                "name": "chart_5",
+                                "row": 29,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            },
+            {
+                "name": "IPAD",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_3",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "text_7",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "text_16",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "text_10",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "text_11",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "listselector_9",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "listselector_7",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "listselector_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 3,
+                                "name": "text_12",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "text_15",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_14",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 3,
+                                "name": "listselector_2",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_1",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_5",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "listselector_3",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_2",
+                                "row": 6,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_5",
+                                "row": 5,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(255, 255, 255)",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_1",
+                                "row": 12,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(163, 184, 204)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 13,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 12,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_4",
+                                "row": 19,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 20,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_4",
+                                "row": 25,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 19,
+                                "rowspan": 11,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_3",
+                                "row": 30,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(163, 184, 204)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_3",
+                                "row": 31,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_5",
+                                "row": 36,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "text_6",
+                                "row": 41,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 30,
+                                "rowspan": 12,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "rgb(107, 30, 116)",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "minWidth(600)",
+                    "maxWidth(999)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Sales_House_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Sales House",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_House"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "PYDay": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "PYDay",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year';q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DUE_DATE_Year_new') as 'avg_CurrentYear', 0 as 'avg_DueDateYear';q1 = order q1 by 'DUE_DATE_Year' desc;q1 = limit q1 1;q2 = filter q by  {{column(Time_Year_1.selection,[\"Time_Year\"]).asEquality(\"DUE_DATE_Year\")}};q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('DUE_DATE_Year_new') as 'avg_DueDateYear';u = union q1,q2;u = group u by all;u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*-730 end) as 'Dayy_Difff'; ",
+                    "measures": [
+                        [
+                            "Dayy",
+                            "Difff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Value_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";    q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};    q = filter q by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"DUE_DATE_Week\")}};    q = filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};    q = filter q by 'STATE1' in [\"ACT\", \"NSW\", \"QLD\", \"SA\", \"TAS\", \"VIC\", \"WA\"];    a = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];    a = group a by ('DUE_DATE_Year','DUE_DATE_Week');    a = foreach a generate 'DUE_DATE_Week' as 'DUE_DATE_Week', \"Current 52 Weeks List\" as 'Time Period', sum('EXT_PRICE1') as 'sum_EXT_PRICE';       r = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in  [\"current week - {{cell(LYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(LYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];    r = group r by ('DUE_DATE_Year','DUE_DATE_Week');    r = foreach r generate 'DUE_DATE_Week' as 'DUE_DATE_Week', \"Last 52 Weeks List\" as 'Time Period', sum('EXT_PRICE1') as 'sum_EXT_PRICE';     b = load \"ScanData\";    b = filter b by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};    b = filter b by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"Time_Week\")}};    b = filter b by 'Measure' == \"Value\";    b = filter b by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};    t = filter b by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current week - {{cell(LYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(LYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];    t = group t by ('Time_Year','Time_Week');    t = foreach t generate 'Time_Week' as 'DUE_DATE_Week',\"Last 52 Weeks Scan\" as 'Time Period',  sum('Data_Value') as 'sum_EXT_PRICE';          x = filter b by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];    x = group x by ('Time_Year','Time_Week');    x = foreach x generate 'Time_Week' as 'DUE_DATE_Week',\"Current 52 Weeks Scan\" as 'Time Period', sum('Data_Value') as 'sum_EXT_PRICE';          u = union a,r,t,x;    d = group u by ('DUE_DATE_Week','Time Period');    d = foreach d generate 'DUE_DATE_Week' as 'DUE_DATE_Week','Time Period' as 'Time Period', sum('sum_EXT_PRICE') as 'Amount'; ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Amount"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Week",
+                        "Time Period"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "LYWeekEnd": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "LYWeekEnd",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year'; q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DUE_DATE_Year_new') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'DUE_DATE_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Time_Year_1.selection,[\"Time_Year\"]).asEquality(\"DUE_DATE_Year\")}}; q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', 0 as 'avg_CurrentYear', avg('DUE_DATE_Year_new') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 53 else ((sum('avg_CurrentYear')- sum('avg_DueDateYear'))*52)+53 end) as 'Week_Diff'; ",
+                    "measures": [
+                        [
+                            "Week",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CYYear1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYYear1",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year'; q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DUE_DATE_Year_new') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'DUE_DATE_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Time_Year_1.selection,[\"DUE_DATE_Year\"]).asEquality(\"DUE_DATE_Year\")}}; q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', 0 as 'avg_CurrentYear', avg('DUE_DATE_Year_new') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all;u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*1 end)  as 'Year_Diff'; ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Region_1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Region_1",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Region"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Media1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Media1",
+                "query": {
+                    "pigql": "m = load \"Data_Format_1_15_Mar_2017\";h = filter m by date('Week_Year', 'Week_Month','Week_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; k = filter m by date('Week_Year', 'Week_Month','Week_Day') in [\"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"]; h=group h by ('Week_Year', 'Week_Week');h = foreach h generate 'Week_Year' + \"~~~\" + 'Week_Week' as 'Week_Year~~~Week_Week',\"Current\" as Type, sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl';k=group k by ('Week_Year', 'Week_Week');k = foreach k generate 'Week_Year' + \"~~~\" + 'Week_Week' as 'Week_Year~~~Week_Week', sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl',\"Previous\" as Type;i=union h,k;i=foreach i generate sum(sum_Actual_Impressions_Ttl_Ppl) as sum_Actual_Impressions_Ttl_Ppl,Type as Type,'Week_Year~~~Week_Week' as 'Week_Year~~~Week_Week';",
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Week_Year",
+                            "Week_Week"
+                        ],
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Time_Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Week"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Year___Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_1_15_Mar_2017\"; q= filter q by {{column(Sales_House_3.selection,[\"Sales_House\"]).asEquality(\"Sales_House\")}};q= filter q by {{column(Medium_1.selection,[\"Medium\"]).asEquality(\"Medium\")}}; \nq= filter q by {{column(AD_Format_1.selection,[\"Ad_Format\"]).asEquality(\"Ad_Format\")}}; q=filter q by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"Week_Week\")}}; \nq= filter q by {{column(ChannelSite_1_1.selection,[\"Channel_Site\"]).asEquality(\"Channel_Site\")}}; \nq= filter q by {{column(Medium_1_1.selection,[\"Medium\"]).asEquality(\"Medium\")}}; \nq= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}}; \nq= filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Region\")}}; \nq = filter q by date('Week_Year', 'Week_Month','Week_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"]; \nq = group q by ('Week_Year', 'Week_Week', 'Medium'); \nq = foreach q generate  'Week_Year' + \"~~~\" + 'Week_Week' as 'DUE_DATE_Week','Medium' as 'Medium',sum('Actual_Impressions_Ttl_Ppl') as 'SUM1'; \ns = load \"QADInvoice_SnapshotDB_test\";    s = filter s by 'STATE1' in [\"ACT\", \"NSW\", \"QLD\", \"SA\", \"TAS\", \"VIC\", \"WA\"]; \ns= filter s by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};s=filter s by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"DUE_DATE_Week\")}}; \ns= filter s by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}}; \ns = filter s by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"]; \ns = group s by ('DUE_DATE_Year','DUE_DATE_Week'); \ns = foreach s generate 'DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('EXT_PRICE1') as 'SUM2';   \nn = load \"ScanData\"; \nn = filter n by 'Measure' == \"Value\"; \nn= filter n by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}}; \nn= filter n by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}}; n=filter n by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"Time_Week\")}}; n = filter n by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"]; n = group n by ('Time_Year', 'Time_Week'); n = foreach n generate 'Time_Year' + \"~~~\" + 'Time_Week' as 'DUE_DATE_Week', sum('Data_Value') as 'SUM3';\nFinal= union q,s,n; \nFinal= group Final by ('DUE_DATE_Week', 'Medium') ; Final = foreach Final generate 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('SUM1') as 'Media Weights',sum('SUM2') as 'Last 52 Week List Sales',sum('SUM3') as 'Last 52 Week Scan Sales';",
+                    "measures": [
+                        "Media Weights",
+                        "Last 52 Week List Sales",
+                        "Last 52 Week Scan Sales"
+                    ],
+                    "measuresMap": {},
+                    "groups": [
+                        "DUE_DATE_Week",
+                        [
+                            "Medium"
+                        ]
+                    ]
+                },
+                "selectMode": "none",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "test_1_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliHCAQ",
+                        "label": "ScanData",
+                        "name": "ScanData",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliHCAQ"
+                    },
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    },
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "test_3",
+                "query": {
+                    "pigql": "q = load \"ScanData\";q= filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};q = filter q by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Time_Week\")}};q = filter q by 'Measure' == \"Value\";q= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};f = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; f=group f by (Time_Year,Time_Week);f=foreach f generate 'Time_Year' + \"~~~\" + Time_Week as 'Time_Year~~~Time_Week', sum(Data_Value) as 'sum_Data_Value';u = load \"QADInvoice_SnapshotDB_test\";u= filter u by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};u = filter u by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"DUE_DATE_Week\")}};u= filter u by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}}; v = filter u by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"..\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"];  v = group v by (DUE_DATE_Year, DUE_DATE_Week); v = foreach v generate 'DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Week' as 'Time_Year~~~Time_Week',  sum(EXT_PRICE_AUD) as sum_EXT_PRICE1;m = load \"Data_Format_1_15_Mar_2017\";m= filter m by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Region\")}};m= filter m by {{column(Sales_House_3.selection,[\"Sales_House\"]).asEquality(\"Sales_House\")}};m= filter m by {{column(ChannelSite_1_1.selection,[\"Channel_Site\"]).asEquality(\"Channel_Site\")}};m= filter m by {{column(AD_Format_1.selection,[\"Ad_Format\"]).asEquality(\"Ad_Format\")}};m= filter m by {{column(Medium_1_1.selection,[\"Medium\"]).asEquality(\"Medium\")}};m= filter m by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};m = filter m by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}}; h = filter m by date('Week_Year', 'Week_Month','Week_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; h=group h by ('Week_Year', 'Week_Week');h = foreach h generate 'Week_Year' + \"~~~\" + 'Week_Week' as 'Time_Year~~~Time_Week', sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl';z=union f,v,h; z=group z by ('Time_Year~~~Time_Week'); z=foreach z generate 'Time_Year~~~Time_Week' as 'Time1_Year~~~Time1_Week',sum(sum_Data_Value) as Data_Value,sum(sum_Actual_Impressions_Ttl_Ppl) as sum_Actual_Impressions_Ttl_Ppl,sum(sum_EXT_PRICE1) as sum_EXT_PRICE1;e = filter m by date('Week_Year', 'Week_Month','Week_Day') in [\"52 weeks ago\"..\"current week\"];e = group e by (Week_Year, Week_Week); e = foreach e generate 'Week_Year' + \"~~~\" + 'Week_Week' as 'Time_Year~~~Time_Week', sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl';b = load \"ScanData\";b= filter b by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};b= filter b by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};b = filter b by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Time_Week\")}};t = filter b by date('Time_Year', 'Time_Month', 'Time_Day') in [\"52 weeks ago\"..\"current week\"]; t = group t by ('Time_Year','Time_Week'); t = foreach t generate 'Time_Year' + \"~~~\" + 'Time_Week' as 'Time_Year~~~Time_Week', sum(Data_Value) as 'sum_Data_Value'; l = load \"QADInvoice_SnapshotDB_test\";l= filter l by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};l= filter l by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};l = filter l by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"DUE_DATE_Week\")}}; a = filter l by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"52 weeks ago\"..\"current week\"];  a = group a by ('DUE_DATE_Year','DUE_DATE_Week'); a = foreach a generate 'DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Week' as 'Time_Year~~~Time_Week',  sum('EXT_PRICE_AUD') as 'sum_EXT_PRICE1';o=union e,t,a; o=group o by ('Time_Year~~~Time_Week'); o=foreach o generate 'Time_Year~~~Time_Week' as 'Time_Year~~~Time_Week', sum(sum_Actual_Impressions_Ttl_Ppl) as sum_Actual_Impressions_Ttl_Ppl_o, sum(sum_Data_Value) as Data_Value_o,sum(sum_EXT_PRICE1) as sum_EXT_PRICE1_o; j=union z,o; j=foreach j generate (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum(sum_Actual_Impressions_Ttl_Ppl_o) else sum(sum_Actual_Impressions_Ttl_Ppl) end) as 'Media weights',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum(sum_EXT_PRICE1_o) else sum(sum_EXT_PRICE1) end) as 'List Sales($)', (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum(Data_Value_o) else sum(Data_Value)  end) as 'Scan Sales($)',  (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then 'Time_Year~~~Time_Week' else 'Time1_Year~~~Time1_Week' end) as 'Time_Year~~~Time_Week'",
+                    "measures": [
+                        "Media weights",
+                        "List Sales($)",
+                        "Scan Sales($)"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        [
+                            "Time_Year",
+                            "Time_Week"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "time",
+                    "options": {}
+                }
+            },
+            "Time_Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Year"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "ChannelSite_1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "ChannelSite_1",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Channel_Site"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Units_data_list": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "List_data",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};q= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};q = filter q by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"DUE_DATE_Week\")}}; m = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"52 weeks ago\"..\"current day\"];x = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in  [\"52 weeks ago - 1 year\"..\"current day - 1 year\"];d = group m by ('DUE_DATE_Week') full , x by ('DUE_DATE_Week');d = foreach d generate coalesce(m.'DUE_DATE_Week', x.'DUE_DATE_Week') as 'DUE_DATE_Week',first(m.'DUE_DATE_Year', x.'DUE_DATE_Year') as 'DUE_DATE_Year', coalesce(sum(m.'KG'), 0) as 'A', coalesce(sum(x.'KG'), 0) as 'B';d=foreach d generate DUE_DATE_Year + \"~~~\" + DUE_DATE_Week as 'DUE_DATE_Year~~~DUE_DATE_Week',A as 'Current List', B as 'Previous List';f = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; g = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"..  \"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"];s = group f by ('DUE_DATE_Week') full, g by ('DUE_DATE_Week');s = foreach s generate coalesce(f.'DUE_DATE_Week', g.'DUE_DATE_Week') as 'DUE_DATE_Week',first(f.'DUE_DATE_Year', g.'DUE_DATE_Year') as 'DUE_DATE_Year', coalesce(sum(f.'KG'), 0) as 'A', coalesce(sum(g.'KG'), 0) as 'B';s=foreach s generate DUE_DATE_Year + \"~~~\" + DUE_DATE_Week as 'DUE_DATE1_Year~~~DUE_DATE1_Week',A as 'Current List 1', B as 'Previous List 1';j=union d,s;j=foreach j generate (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Current List') else sum('Current List 1')  end) as 'Current List',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Previous List') else sum('Previous List 1')  end) as 'Previous List',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then 'DUE_DATE_Year~~~DUE_DATE_Week' else 'DUE_DATE1_Year~~~DUE_DATE1_Week'  end) as 'DUE_DATE_Year~~~DUE_DATE_Week';",
+                    "measures": [
+                        "Current List",
+                        "Previous List"
+                    ],
+                    "groups": [
+                        [
+                            "DUE_DATE_Year",
+                            "DUE_DATE_Week"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "time",
+                    "options": {}
+                }
+            },
+            "test_1_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliHCAQ",
+                        "label": "ScanData",
+                        "name": "ScanData",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliHCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "test_2",
+                "query": {
+                    "pigql": "q = load \"ScanData\";q= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};q = filter q by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Time_Week\")}};q = filter q by 'Measure' == \"Value\";m = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"52 weeks ago\"..\"current day\"];x = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in  [\"52 weeks ago - 1 year\"..\"current day - 1 year\"];d = group x by ('Time_Week') , m by ('Time_Week');d = foreach d generate coalesce(m.'Time_Week', x.'Time_Week') as 'Time_Week',first(m.'Time_Year', x.'Time_Year') as 'Time_Year', coalesce(sum(m.'Data_Value'), 0) as 'A', coalesce(sum(x.'Data_Value'), 0) as 'B';d=foreach d generate Time_Year + \"~~~\" + Time_Week as 'Time_Year~~~Time_Week',A as 'Current Scan', B as 'Previous Scan';f = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; g = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"..  \"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"];s = group f by ('Time_Week') full, g by ('Time_Week');s = foreach s generate coalesce(f.'Time_Week', g.'Time_Week') as 'Time_Week',first(f.'Time_Year', g.'Time_Year') as 'Time_Year', coalesce(sum(f.'Data_Value'), 0) as 'A', coalesce(sum(g.'Data_Value'), 0) as 'B';s=foreach s generate Time_Year + \"~~~\" + Time_Week as 'Time1_Year~~~Time1_Week',A as 'Current Scan 1', B as 'Previous Scan 1';j=union d,s;j=foreach j generate (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Current Scan') else sum('Current Scan 1')  end) as 'Current Scan',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Previous Scan') else sum('Previous Scan 1')  end) as 'Previous Scan',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then 'Time_Year~~~Time_Week' else 'Time1_Year~~~Time1_Week'  end) as 'Time_Year~~~Time_Week';",
+                    "measures": [
+                        "Current Scan",
+                        "Previous Scan"
+                    ],
+                    "groups": [
+                        [
+                            "Time_Year",
+                            "Time_Week"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "time",
+                    "options": {}
+                }
+            },
+            "test_1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliHCAQ",
+                        "label": "ScanData",
+                        "name": "ScanData",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliHCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "test_1",
+                "query": {
+                    "pigql": "q = load \"ScanData\";q= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};q = filter q by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Time_Week\")}};q = filter q by 'Measure' == \"Units\";m = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"52 weeks ago\"..\"current day\"];x = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in  [\"52 weeks ago - 1 year\"..\"current day - 1 year\"];d = group x by ('Time_Week') , m by ('Time_Week');d = foreach d generate coalesce(m.'Time_Week', x.'Time_Week') as 'Time_Week',first(m.'Time_Year', x.'Time_Year') as 'Time_Year', coalesce(sum(m.'Data_Value'), 0) as 'A', coalesce(sum(x.'Data_Value'), 0) as 'B';d=foreach d generate Time_Year + \"~~~\" + Time_Week as 'Time_Year~~~Time_Week',A as 'Current Scan', B as 'Previous Scan';f = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; g = filter q by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"..  \"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"];s = group f by ('Time_Week') full, g by ('Time_Week');s = foreach s generate coalesce(f.'Time_Week', g.'Time_Week') as 'Time_Week',first(f.'Time_Year', g.'Time_Year') as 'Time_Year', coalesce(sum(f.'Data_Value'), 0) as 'A', coalesce(sum(g.'Data_Value'), 0) as 'B';s=foreach s generate Time_Year + \"~~~\" + Time_Week as 'Time1_Year~~~Time1_Week',A as 'Current Scan 1', B as 'Previous Scan 1';j=union d,s;j=foreach j generate (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Current Scan') else sum('Current Scan 1')  end) as 'Current Scan',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Previous Scan') else sum('Previous Scan 1')  end) as 'Previous Scan',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then 'Time_Year~~~Time_Week' else 'Time1_Year~~~Time1_Week'  end) as 'Time_Year~~~Time_Week';",
+                    "measures": [
+                        "Current Scan",
+                        "Previous Scan"
+                    ],
+                    "groups": [
+                        [
+                            "Time_Year",
+                            "Time_Week"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "time",
+                    "options": {}
+                }
+            },
+            "CYDay": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYDay",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year';q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DUE_DATE_Year_new') as 'avg_CurrentYear', 0 as 'avg_DueDateYear';q1 = order q1 by 'DUE_DATE_Year' desc;q1 = limit q1 1;q2 = filter q by  {{column(Time_Year_1.selection,[\"Time_Year\"]).asEquality(\"DUE_DATE_Year\")}};q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'Date_Year', 0 as 'avg_CurrentYear', avg('DUE_DATE_Year_new') as 'avg_DueDateYear';u = union q1,q2;u = group u by all;u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*-365 end) as 'Day_Diff'; ",
+                    "measures": [
+                        [
+                            "Day",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "PRODUCT_NAME_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "PRODUCT_NAME"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Value_1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";\na = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"52 weeks ago\"..\"current week\"];\na=filter a by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};\na= filter a by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};\na = group a by ('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day');\na = foreach a generate \"Current 52 Weeks List\" as 'Time Period', 'DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Month' + \"~~~\" + 'DUE_DATE_Day' as 'DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day', sum('EXT_PRICE1') as 'sum_EXT_PRICE';\nr = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"104 weeks ago\"..\"52 weeks ago\"];\nr=filter r by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};\nr= filter r by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};\nr = group r by ('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day');\nr = foreach r generate \"Last 52 Weeks List\" as 'Time Period','DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Month' + \"~~~\" + 'DUE_DATE_Day' as 'DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day', sum('EXT_PRICE1') as 'sum_EXT_PRICE';\nb = load \"ScanData\";\nt = filter b by 'Measure' == \"Value\";\nt = filter t by date('Time_Year', 'Time_Month', 'Time_Day') in [\"104 weeks ago\"..\"52 weeks ago\"];t=filter t by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};\nt= filter t by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};\nt = group t by ('Time_Year', 'Time_Month', 'Time_Day');\nt = foreach t generate \"Last 52 Weeks Scan\" as 'Time Period', 'Time_Year' + \"~~~\" + 'Time_Month' + \"~~~\" + 'Time_Day' as 'DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day' , sum('Data_Value') as 'sum_EXT_PRICE';\nx = filter b by 'Measure' == \"Value\";\nx = filter x by date('Time_Year', 'Time_Month', 'Time_Day') in [\"52 weeks ago\"..\"current week\"];x=filter x by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};x = filter x by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};x = group x by ('Time_Year', 'Time_Month', 'Time_Day');\nx = foreach x generate \"Current 52 Weeks Scan\" as 'Time Period','Time_Year' + \"~~~\" + 'Time_Month' + \"~~~\" + 'Time_Day' as 'DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day', sum('Data_Value') as 'sum_EXT_PRICE';\nu = union a,r,t,x;\nd = group u by ('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day', 'Time Period');\nd = foreach d generate 'Time Period' as 'Time Period','DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Month' + \"~~~\" + 'DUE_DATE_Day' as 'DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day', sum('sum_EXT_PRICE') as 'Amount';",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Amount"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "DUE_DATE_Year~~~DUE_DATE_Month~~~DUE_DATE_Day"
+                        ],
+                        "Time Period"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "DUE_DATE_Year___DUE__1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";\nq = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"104 weeks ago\"..\"52 weeks ago\"];\nq = group q by ('DUE_DATE_Year', 'DUE_DATE_Week');\nq = foreach q generate 'DUE_DATE_Year' + \"~~~\" + 'DUE_DATE_Week' as 'DUE_DATE_Year~~~DUE_DATE_Week', sum('EXT_PRICE') as 'sum_EXT_PRICE';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "sum_EXT_PRICE"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": [
+                        "DUE_DATE_Year~~~DUE_DATE_Week"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "DUE_DATE_Year___DUE__2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";\na = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"104 weeks ago\"..\"52 weeks ago\"];\na = group a by ( 'DUE_DATE_Week');\na = foreach a generate 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('EXT_PRICE1') as 'sum_EXT_PRICE1', \"last52\" as 'Type';\n\nb = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"52 weeks ago\"..\"current week\"];\nb = group b by ('DUE_DATE_Week');\nb = foreach b generate  'DUE_DATE_Week' as 'DUE_DATE_Week', sum('EXT_PRICE1') as 'sum_EXT_PRICE1', \"Current52\" as 'Type';\n\nc = union a,b;\nc = group c by ('DUE_DATE_Week','Type') ;\nc = foreach c generate 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('sum_EXT_PRICE1') as 'sum_EXT_PRICE1','Type' as 'Type';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "sum_EXT_PRICE1"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Week",
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "AD_Format_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "AD Format",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Ad_Format"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Medium_1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Medium_1",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Medium"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Medium_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "",
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "groups": [
+                        "Medium"
+                    ],
+                    "filters": [
+                        [
+                            "Week_Week",
+                            "{{column(Time_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Time_Year_1.selection, [\"DUE_DATE_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"PRODUCT_NAME\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "LYWeekStart": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "LYWeekStart",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year'; q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DUE_DATE_Year_new') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'DUE_DATE_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Time_Year_1.selection,[\"DUE_DATE_Year\"]).asEquality(\"DUE_DATE_Year\")}}; q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', 0 as 'avg_CurrentYear', avg('DUE_DATE_Year_new') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 1 else ((sum('avg_CurrentYear')- sum('avg_DueDateYear')))+1 end) as 'Year_Diff';  ",
+                    "measures": [
+                        [
+                            "Year",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Country_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Country",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "COUNTRY"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CYWeekEnd": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "CYWeekEnd",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\"; q1 = group q by 'DUE_DATE_Year'; q1 = foreach q1 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', avg('DueDateYear') as 'avg_CurrentYear', 0 as 'avg_DueDateYear'; q1 = order q1 by 'DUE_DATE_Year' desc; q1 = limit q1 1; q2 = filter q by  {{column(Time_Year_1.selection,[\"Time_Year\"]).asEquality(\"DUE_DATE_Year\")}}; q2 = group q2 by 'DUE_DATE_Year'; q2 = foreach q2 generate 'DUE_DATE_Year' as 'DUE_DATE_Year', 0 as 'avg_CurrentYear', avg('DueDateYear') as 'avg_DueDateYear'; u = union q1,q2; u = group u by all; u = foreach u generate (case when sum('avg_DueDateYear')> 3000 then 0 else (sum('avg_CurrentYear')- sum('avg_DueDateYear'))*52 end) as 'Week_Diff'; ",
+                    "measures": [
+                        [
+                            "Week",
+                            "Diff"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "kg_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";  q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};  q = filter q by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"DUE_DATE_Week\")}};  q = filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};  q = filter q by 'STATE1' in [\"ACT\", \"NSW\", \"QLD\", \"SA\", \"TAS\", \"VIC\", \"WA\"];  a = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];  a = group a by ('DUE_DATE_Week');  a = foreach a generate \"Current 52 Weeks List\" as 'Time Period', 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('KG') as 'sum_EXT_PRICE';  r = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current week - {{cell(LYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(LYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];  r = group r by ('DUE_DATE_Week');  r = foreach r generate \"Last 52 Weeks List\" as 'Time Period', 'DUE_DATE_Week' as 'DUE_DATE_Week', sum('KG') as 'sum_EXT_PRICE';  b = load \"ScanData\";  b = filter b by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"Market\")}};  b = filter b by {{column(Time_Week_1.selection,[\"Time_Week\"]).asEquality(\"Time_Week\")}};  b = filter b by 'Measure' == \"Conv Kgs\";  b = filter b by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"Product\")}};  t = filter b by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current week - {{cell(LYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(LYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];  t = group t by ('Time_Week');  t = foreach t generate \"Last 52 Weeks Scan\" as 'Time Period', 'Time_Week' as 'DUE_DATE_Week', sum('Data_Value') as 'sum_EXT_PRICE';  x = filter b by date('Time_Year', 'Time_Month', 'Time_Day') in [\"current week - {{cell(CYWeekStart.result,0,\"Week_Diff\").asObject()}} weeks\"..\"current week - {{cell(CYWeekEnd.result,0,\"Week_Diff\").asObject()}} weeks\"];  x = group x by ('Time_Week');  x = foreach x generate \"Current 52 Weeks Scan\" as 'Time Period','Time_Week' as 'DUE_DATE_Week', sum('Data_Value') as 'sum_EXT_PRICE';  u = union a,r,t,x;  d = group u by ('DUE_DATE_Week', 'Time Period');  d = foreach d generate 'Time Period' as 'Time Period','DUE_DATE_Week' as 'DUE_DATE_Week', sum('sum_EXT_PRICE') as 'KG';  ",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "KG"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Week",
+                        "Time Period"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Sales_House_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Sales House",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_House"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "List_data": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "List_data",
+                "query": {
+                    "pigql": "q = load \"QADInvoice_SnapshotDB_test\";q = filter q by {{column(Region_1_1.selection,[\"Region\"]).asEquality(\"STATE1\")}};q= filter q by {{column(PRODUCT_NAME_1.selection,[\"PRODUCT_NAME\"]).asEquality(\"PRODUCT_NAME\")}};q = filter q by {{column(Time_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"DUE_DATE_Week\")}}; m = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"52 weeks ago\"..\"current day\"];x = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in  [\"52 weeks ago - 1 year\"..\"current day - 1 year\"];d = group m by ('DUE_DATE_Week') full , x by ('DUE_DATE_Week');d = foreach d generate coalesce(m.'DUE_DATE_Week', x.'DUE_DATE_Week') as 'DUE_DATE_Week',first(m.'DUE_DATE_Year', x.'DUE_DATE_Year') as 'DUE_DATE_Year', coalesce(sum(m.'EXT_PRICE_AUD'), 0) as 'A', coalesce(sum(x.'EXT_PRICE_AUD'), 0) as 'B';d=foreach d generate DUE_DATE_Year + \"~~~\" + DUE_DATE_Week as 'DUE_DATE_Year~~~DUE_DATE_Week',A as 'Current List', B as 'Previous List';f = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\".. \"current year - {{cell(CYYear1.result,0,\"Year_Diff\").asObject()}} year\"]; g = filter q by date('DUE_DATE_Year', 'DUE_DATE_Month', 'DUE_DATE_Day') in [\"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"..  \"current year - {{cell(LYWeekStart.result,0,\"Year_Diff\").asObject()}} year\"];s = group f by ('DUE_DATE_Week') full, g by ('DUE_DATE_Week');s = foreach s generate coalesce(f.'DUE_DATE_Week', g.'DUE_DATE_Week') as 'DUE_DATE_Week',first(f.'DUE_DATE_Year', g.'DUE_DATE_Year') as 'DUE_DATE_Year', coalesce(sum(f.'EXT_PRICE_AUD'), 0) as 'A', coalesce(sum(g.'EXT_PRICE_AUD'), 0) as 'B';s=foreach s generate DUE_DATE_Year + \"~~~\" + DUE_DATE_Week as 'DUE_DATE1_Year~~~DUE_DATE1_Week',A as 'Current List 1', B as 'Previous List 1';j=union d,s;j=foreach j generate (case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Current List') else sum('Current List 1')  end) as 'Current List',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then sum('Previous List') else sum('Previous List 1')  end) as 'Previous List',(case when \"{{cell(Time_Year_1.selection,0,\"DUE_DATE_Year\").asObject()}}\" == \"\" then 'DUE_DATE_Year~~~DUE_DATE_Week' else 'DUE_DATE1_Year~~~DUE_DATE1_Week'  end) as 'DUE_DATE_Year~~~DUE_DATE_Week';",
+                    "measures": [
+                        "Current List",
+                        "Previous List"
+                    ],
+                    "groups": [
+                        [
+                            "DUE_DATE_Year",
+                            "DUE_DATE_Week"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "time",
+                    "options": {}
+                }
+            },
+            "Sales_House_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blilCAA",
+                        "label": "Data_Format_1_15_Mar_2017",
+                        "name": "Data_Format_1_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Sales House",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_House"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "text_14": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Ad Format",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_16": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Region",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_15": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Channel /Site",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_10": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Week",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_12": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Medium",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_11": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitwidth"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Weekly sales (units) - Scan & List",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_6": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": " Week",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Sales ($)",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "test_1_2"
+                },
+                "type": "chart"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Media activity vs weekly sales ($)",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_5": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Week",
+                        "predictiveLine": null
+                    },
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Sales (units)",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Units_data_list"
+                },
+                "type": "chart"
+            },
+            "text_5": {
+                "parameters": {
+                    "fontSize": 12,
+                    "text": "Media Sales House",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Weekly sales ($) - Scan & List",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_2": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "combo",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Impressions",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "test_1_3",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": 50,
+                        "showAxis": true,
+                        "title": "Year - Week"
+                    }
+                },
+                "type": "chart"
+            },
+            "text_7": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Country",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_1": {
+                "parameters": {
+                    "showMeasureTitle": false,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showTotal": true,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Medium_1",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_6": {
+                "parameters": {
+                    "fontSize": 12,
+                    "text": "*total Scan does not include ice-cream, UHT or cream",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "text_9": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Year",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_4": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Week",
+                        "predictiveLine": null
+                    },
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Sales ($)",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "List_data"
+                },
+                "type": "chart"
+            },
+            "chart_3": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Week",
+                        "predictiveLine": null
+                    },
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Sales (units)",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "test_1_1"
+                },
+                "type": "chart"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Time_Year_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Region_1_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Country_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Time_Week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "AD_Format_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Medium_1_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "ChannelSite_1_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Media spilts",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "PRODUCT_NAME_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "Capture1PNG1",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "image_3": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng8",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Sales_House_3",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_2": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng12",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb28000000bliHCAQ",
+            "label": "ScanData",
+            "name": "ScanData",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliHCAQ"
+        },
+        {
+            "id": "0Fb28000000blilCAA",
+            "label": "Data_Format_1_15_Mar_2017",
+            "name": "Data_Format_1_15_Mar_2017",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blilCAA"
+        },
+        {
+            "id": "0Fb28000000blirCAA",
+            "label": "QADInvoice_SnapshotDB_test",
+            "name": "QADInvoice_SnapshotDB_test",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+        }
+    ]
+}

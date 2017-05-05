@@ -1,0 +1,3824 @@
+{
+    "label": "Customer Profitability",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "listselector_4",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "listselector_5",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "listselector_6",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "listselector_7",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "text_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 5,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 6,
+                                "name": "text_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 8,
+                                "name": "text_5",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 9,
+                                "name": "text_6",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "text_7",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "text_8",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 2,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 10,
+                                "column": 0,
+                                "name": "text_9",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 9,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "text_10",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "listselector_10",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "text_11",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "listselector_11",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 7,
+                                "name": "text_12",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "table_3",
+                                "row": 10,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "table_4",
+                                "row": 3,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "dateselector_1",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "platform(iOS)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "version": 1
+            },
+            {
+                "name": "Ipad",
+                "numColumns": 14,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "text_11",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "text_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_10",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "text_6",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "text_7",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "text_8",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 1,
+                                "name": "text_4",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 3,
+                                "name": "text_12",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "text_5",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 1,
+                                "name": "listselector_4",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 3,
+                                "name": "listselector_11",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "listselector_5",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "listselector_6",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "listselector_7",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 11,
+                                "name": "listselector_8",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 14,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 4,
+                                "name": "text_9",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 4,
+                                "column": 10,
+                                "name": "dateselector_1",
+                                "row": 6,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 14,
+                                "column": 0,
+                                "name": "table_4",
+                                "row": 7,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 14,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 5,
+                                "rowspan": 8,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 4,
+                                "name": "text_10",
+                                "row": 13,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 14,
+                                "column": 0,
+                                "name": "table_3",
+                                "row": 14,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 14,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 13,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#A3B8CC",
+                                    "borderColor": "#091A3E",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 4
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "minWidth(600)",
+                    "maxWidth(999)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Customer_Name2_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer_Name2"
+                    ],
+                    "filters": [
+                        [
+                            "Customer_New",
+                            [
+                                "EXCLUSION"
+                            ],
+                            "not in"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Country2_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Country2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "DUE_DATE1_Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE1_Year"
+                    ],
+                    "filters": [
+                        [
+                            "DUE_DATE1",
+                            [
+                                [
+                                    [
+                                        "fiscal_year",
+                                        -6
+                                    ],
+                                    [
+                                        "day",
+                                        0
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "PRODUCT_LINE_NAME_2_Replica": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2' ,'SALES_ORDER', sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'TradingTerms.On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2');\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2',  sum(sum_gltr_amt) as Amount, sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Units',sum(sum_EXT_PRICE) as 'sum_EXT_PRICE', sum(sum_EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'max_TradingTerms.On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit',sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_InvoicePricePerUnit', sum(sum_EXT_PRICE)-sum(sum_EXTCOST) as 'sum_Margin',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100 as 'sum_TradingTermPerUnit',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))-((sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100) as 'sum_NetSales',sum(sum_EXTCOST)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Cogs_Per_Unit';q=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', sum(Amount) as Amount,sum(sum_Units) as 'MTD ACTUAL UNITS',round(sum(sum_EXT_PRICE)) as 'MTD Gross Sales($)',sum(sum_EXTCOST) as 'MTD COGS $',max('max_TradingTerms.On_invoice_Discount') as 'CONTRACTED TRADING TERMS (%)',sum(sum_FreightPerUnit) as 'FREIGHT COST PER UNIT',sum(sum_InvoicePricePerUnit) as 'INVOICE PRICE PER UNIT $', sum(sum_Margin) as 'MTD MARGIN $',sum(sum_TradingTermPerUnit) as 'TRADING TERM PER UNIT ($)', sum(sum_NetSales) as 'NET SALES PER UNIT ($)', sum(sum_Cogs_Per_Unit) as 'COGS PER UNIT ($)',sum(sum_NetSales)-sum(sum_Cogs_Per_Unit) as 'GROSS MARGIN PRE FREIGHT PER UNIT ($)',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))/sum(sum_NetSales)*100 as 'GM % OF NET SALES',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit) as 'GROSS MARGIN AFTER FREIGHT PER UNIT ($)',((sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit))/sum(sum_NetSales)*100 as 'GM AFTER FREIGHT % OF NET SALES';   \n",
+                    "measures": [
+                        "MTD Gross Sales($)",
+                        "MTD ACTUAL UNITS",
+                        "INVOICE PRICE PER UNIT $",
+                        "MTD COGS $",
+                        "MTD MARGIN $",
+                        "CONTRACTED TRADING TERMS (%)",
+                        "TRADING TERM PER UNIT ($)",
+                        "NET SALES PER UNIT ($)",
+                        "COGS PER UNIT ($)",
+                        "GROSS MARGIN PRE FREIGHT PER UNIT ($)",
+                        "GM % OF NET SALES"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "LatestTable_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "EXT_PRICE",
+                            "A",
+                            {
+                                "display": "MTD Actual $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "CONVERTED_QTY_LTR_KG1",
+                            "B",
+                            {
+                                "display": "MTD Actual Units"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "InvoicePricePerUnit",
+                            "C",
+                            {
+                                "display": "Invoice Price per unit $",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "EXTCOST",
+                            "D",
+                            {
+                                "display": "MTD Cogs $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "COST",
+                            "E",
+                            {
+                                "display": "MTD Margin $",
+                                "format": "currencydollars"
+                            }
+                        ],
+                        [
+                            "max",
+                            "TradingTerms.On_invoice_Discount",
+                            "F",
+                            {
+                                "display": "Contracted Trading Terms (%)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "TradingTermPerUnit",
+                            "G",
+                            {
+                                "display": "Trading term per unit ($)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "NetSales",
+                            "H",
+                            {
+                                "display": "Net Sales per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "NetSales",
+                            "I",
+                            {
+                                "display": "COGS per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "NetSales",
+                            "J",
+                            {
+                                "display": "Gross Margin pre freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "NetSales",
+                            "K",
+                            {
+                                "display": "GM % of Net Sales",
+                                "format": "percentage"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "NetSales",
+                            "L",
+                            {
+                                "display": "Freight cost per unit",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "Freight.Amount",
+                            "M",
+                            {
+                                "display": "Gross Margin after freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "Freight.Amount",
+                            "N",
+                            {
+                                "display": "GM after freight % Of Net Sales",
+                                "format": "percentage"
+                            }
+                        ]
+                    ],
+                    "columns": [
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXT_PRICE"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual Units"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "InvoicePricePerUnit"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "A/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Invoice Price per unit $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXTCOST"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Cogs $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "COST"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "A-D",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencydollars",
+                            "header": "MTD Margin $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "max",
+                                        "TradingTerms.On_invoice_Discount"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Contracted Trading Terms (%)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "NetSales"
+                                    ]
+                                ],
+                                "formula": "(C*F)/100",
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Trading term per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "NetSales"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "C-G",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Net Sales per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "NetSales"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "D/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "COGS per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "NetSales"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "H-I",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin pre freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "NetSales"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "(J/H)",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM % of Net Sales"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "FreightPerUnit"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Freight cost per unit"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Freight.Amount"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "J-L",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin after freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "Freight.Amount"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2",
+                                    "Week_New"
+                                ],
+                                "formula": "M/H",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM after freight % Of Net Sales"
+                        }
+                    ],
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2",
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "comparisontable",
+                    "options": {}
+                }
+            },
+            "LatestTable_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New ,'SALES_ORDER', sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New);\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, sum(sum_gltr_amt) as Amount, sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_CONVERTED_QTY_LTR_KG1',sum(sum_EXT_PRICE) as 'sum_EXT_PRICE', sum(sum_EXTCOST) as 'sum_EXTCOST',max('On_invoice_Discount') as 'sum_On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit';\n",
+                    "measures": [
+                        [
+                            "sum",
+                            "EXT_PRICE",
+                            "A",
+                            {
+                                "display": "MTD Actual $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "CONVERTED_QTY_LTR_KG1",
+                            "B",
+                            {
+                                "display": "MTD Actual Units"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "CONVERTED_QTY_LTR_KG1",
+                            "C",
+                            {
+                                "display": "Invoice Price per unit $",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "EXTCOST",
+                            "D",
+                            {
+                                "display": "MTD Cogs $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "EXTCOST",
+                            "E",
+                            {
+                                "display": "MTD Margin $",
+                                "format": "currencydollars"
+                            }
+                        ],
+                        [
+                            "max",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "F",
+                            {
+                                "display": "Contracted Trading Terms (%)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "G",
+                            {
+                                "display": "Trading term per unit ($)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "H",
+                            {
+                                "display": "Net Sales per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "I",
+                            {
+                                "display": "COGS per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "J",
+                            {
+                                "display": "Gross Margin pre freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "K",
+                            {
+                                "display": "GM % of Net Sales",
+                                "format": "percentage"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "L",
+                            {
+                                "display": "Freight cost per unit",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "M",
+                            {
+                                "display": "Gross Margin after freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "N",
+                            {
+                                "display": "GM after freight % Of Net Sales",
+                                "format": "percentage"
+                            }
+                        ]
+                    ],
+                    "columns": [
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXT_PRICE"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual Units"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "sum_CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "A/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Invoice Price per unit $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXTCOST"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Cogs $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "sum_CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "A-D",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencydollars",
+                            "header": "MTD Margin $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "max",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Contracted Trading Terms (%)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "formula": "(C*F)/100",
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Trading term per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "C-G",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Net Sales per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "D/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "COGS per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "H-I",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin pre freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "(J/H)",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM % of Net Sales"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "FreightPerUnit"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Freight cost per unit"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "J-L",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin after freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "M/H",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM after freight % Of Net Sales"
+                        }
+                    ],
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "comparisontable",
+                    "options": {}
+                }
+            },
+            "Domain1_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Domain1"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "PRODUCT_LINE_NAME_SK_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New ,'SALES_ORDER', sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'TradingTerms.On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New);\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, sum(sum_gltr_amt) as Amount, sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Units',sum(sum_EXT_PRICE) as 'sum_EXT_PRICE', sum(sum_EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'max_TradingTerms.On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit',sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_InvoicePricePerUnit', sum(sum_EXT_PRICE)-sum(sum_EXTCOST) as 'sum_Margin',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100 as 'sum_TradingTermPerUnit',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))-((sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100) as 'sum_NetSales',sum(sum_EXTCOST)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Cogs_Per_Unit';q=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New,sum(Amount) as Amount,sum(sum_Units) as 'MTD ACTUAL UNITS',sum(sum_EXT_PRICE) as 'MTD Gross Sales($)',sum(sum_EXTCOST) as 'MTD COGS $',max('max_TradingTerms.On_invoice_Discount') as 'CONTRACTED TRADING TERMS (%)',sum(sum_FreightPerUnit) as 'FREIGHT COST PER UNIT',sum(sum_InvoicePricePerUnit) as 'INVOICE PRICE PER UNIT $', sum(sum_Margin) as 'MTD MARGIN $',sum(sum_TradingTermPerUnit) as 'TRADING TERM PER UNIT ($)', sum(sum_NetSales) as 'NET SALES PER UNIT ($)', sum(sum_Cogs_Per_Unit) as 'COGS PER UNIT ($)',sum(sum_NetSales)-sum(sum_Cogs_Per_Unit) as 'GROSS MARGIN PRE FREIGHT PER UNIT ($)',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))/sum(sum_NetSales)*100 as 'GM % OF NET SALES',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit) as 'GROSS MARGIN AFTER FREIGHT PER UNIT ($)',((sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit))/sum(sum_NetSales)*100 as 'GM AFTER FREIGHT % OF NET SALES';   \n",
+                    "measures": [
+                        "MTD Gross Sales($)",
+                        "MTD ACTUAL UNITS",
+                        "INVOICE PRICE PER UNIT $",
+                        "MTD COGS $",
+                        "MTD MARGIN $",
+                        "CONTRACTED TRADING TERMS (%)",
+                        "TRADING TERM PER UNIT ($)",
+                        "NET SALES PER UNIT ($)",
+                        "COGS PER UNIT ($)",
+                        "GROSS MARGIN PRE FREIGHT PER UNIT ($)",
+                        "GM % OF NET SALES"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2",
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "PRODUCT_LINE_NAME_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2' ,'SALES_ORDER', sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'TradingTerms.On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2');\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2',  sum(sum_gltr_amt) as Amount, sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Units',sum(sum_EXT_PRICE) as 'sum_EXT_PRICE', sum(sum_EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'max_TradingTerms.On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit',sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_InvoicePricePerUnit', sum(sum_EXT_PRICE)-sum(sum_EXTCOST) as 'sum_Margin',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100 as 'sum_TradingTermPerUnit',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))-((sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100) as 'sum_NetSales',sum(sum_EXTCOST)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Cogs_Per_Unit';q=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', sum(Amount) as Amount,sum(sum_Units) as 'MTD ACTUAL UNITS',round(sum(sum_EXT_PRICE)) as 'MTD Gross Sales($)',sum(sum_EXTCOST) as 'MTD COGS $',max('max_TradingTerms.On_invoice_Discount') as 'CONTRACTED TRADING TERMS (%)',sum(sum_FreightPerUnit) as 'FREIGHT COST PER UNIT',sum(sum_InvoicePricePerUnit) as 'INVOICE PRICE PER UNIT $', sum(sum_Margin) as 'MTD MARGIN $',sum(sum_TradingTermPerUnit) as 'TRADING TERM PER UNIT ($)', sum(sum_NetSales) as 'NET SALES PER UNIT ($)', sum(sum_Cogs_Per_Unit) as 'COGS PER UNIT ($)',sum(sum_NetSales)-sum(sum_Cogs_Per_Unit) as 'GROSS MARGIN PRE FREIGHT PER UNIT ($)',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))/sum(sum_NetSales)*100 as 'GM % OF NET SALES',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit) as 'GROSS MARGIN AFTER FREIGHT PER UNIT ($)',((sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit))/sum(sum_NetSales)*100 as 'GM AFTER FREIGHT % OF NET SALES';   \n",
+                    "measures": [
+                        "MTD Gross Sales($)",
+                        "MTD ACTUAL UNITS",
+                        "INVOICE PRICE PER UNIT $",
+                        "MTD COGS $",
+                        "MTD MARGIN $",
+                        "CONTRACTED TRADING TERMS (%)",
+                        "TRADING TERM PER UNIT ($)",
+                        "NET SALES PER UNIT ($)",
+                        "COGS PER UNIT ($)",
+                        "GROSS MARGIN PRE FREIGHT PER UNIT ($)",
+                        "GM % OF NET SALES"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "PRODUCT_LINE_NAME2_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "PRODUCT_LINE_NAME2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_New"
+                    ],
+                    "filters": [
+                        [
+                            "DUE_DATE1",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        -20
+                                    ],
+                                    [
+                                        "year",
+                                        2
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE1_Year_Fiscal"
+                    ],
+                    "filters": [
+                        [
+                            "DUE_DATE1",
+                            [
+                                [
+                                    [
+                                        "year",
+                                        -20
+                                    ],
+                                    [
+                                        "year",
+                                        2
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ],
+                    "order": [
+                        [
+                            "DUE_DATE1_Year_Fiscal",
+                            {
+                                "ascending": false
+                            }
+                        ]
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Week_New_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "ProductName_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "ProductName"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "step_relative_date": {
+                "datasets": [],
+                "dimensions": [],
+                "groups": [],
+                "isFacet": true,
+                "isGlobal": false,
+                "numbers": [],
+                "selectMode": "single",
+                "strings": [],
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "MTD",
+                        "compact_step_value": [
+                            [
+                                "month",
+                                0
+                            ],
+                            [
+                                "day",
+                                0
+                            ]
+                        ],
+                        "saql_step_value": [
+                            "current month",
+                            "current day"
+                        ]
+                    },
+                    {
+                        "display": "ALL",
+                        "compact_step_value": [
+                            [
+                                "fiscal_year",
+                                -20
+                            ],
+                            [
+                                "day",
+                                0
+                            ]
+                        ],
+                        "saql_step_value": [
+                            "current month",
+                            "current day"
+                        ]
+                    }
+                ]
+            },
+            "Customer_Group2_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Customer_Group2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Channel2_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Channel2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "PRODUCT_LINE_NAME_SK_1_Replica": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New ,'SALES_ORDER', sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'TradingTerms.On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New);\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, sum(sum_gltr_amt) as Amount, sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Units',sum(sum_EXT_PRICE) as 'sum_EXT_PRICE', sum(sum_EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'max_TradingTerms.On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit',sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_InvoicePricePerUnit', sum(sum_EXT_PRICE)-sum(sum_EXTCOST) as 'sum_Margin',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100 as 'sum_TradingTermPerUnit',(sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))-((sum(sum_EXT_PRICE)/sum(sum_CONVERTED_QTY_LTR_KG1))*max('TradingTerms.On_invoice_Discount')/100) as 'sum_NetSales',sum(sum_EXTCOST)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_Cogs_Per_Unit';q=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New,sum(Amount) as Amount,sum(sum_Units) as 'MTD ACTUAL UNITS',sum(sum_EXT_PRICE) as 'MTD Gross Sales($)',sum(sum_EXTCOST) as 'MTD COGS $',max('max_TradingTerms.On_invoice_Discount') as 'CONTRACTED TRADING TERMS (%)',sum(sum_FreightPerUnit) as 'FREIGHT COST PER UNIT',sum(sum_InvoicePricePerUnit) as 'INVOICE PRICE PER UNIT $', sum(sum_Margin) as 'MTD MARGIN $',sum(sum_TradingTermPerUnit) as 'TRADING TERM PER UNIT ($)', sum(sum_NetSales) as 'NET SALES PER UNIT ($)', sum(sum_Cogs_Per_Unit) as 'COGS PER UNIT ($)',sum(sum_NetSales)-sum(sum_Cogs_Per_Unit) as 'GROSS MARGIN PRE FREIGHT PER UNIT ($)',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))/sum(sum_NetSales)*100 as 'GM % OF NET SALES',(sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit) as 'GROSS MARGIN AFTER FREIGHT PER UNIT ($)',((sum(sum_NetSales)-sum(sum_Cogs_Per_Unit))-sum(sum_FreightPerUnit))/sum(sum_NetSales)*100 as 'GM AFTER FREIGHT % OF NET SALES';   \n",
+                    "measures": [
+                        "MTD Gross Sales($)",
+                        "MTD ACTUAL UNITS",
+                        "INVOICE PRICE PER UNIT $",
+                        "MTD COGS $",
+                        "MTD MARGIN $",
+                        "CONTRACTED TRADING TERMS (%)",
+                        "TRADING TERM PER UNIT ($)",
+                        "NET SALES PER UNIT ($)",
+                        "COGS PER UNIT ($)",
+                        "GROSS MARGIN PRE FREIGHT PER UNIT ($)",
+                        "GM % OF NET SALES"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2",
+                        "Week_New"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "step_DaysMTD_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "step_DaysMTD",
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\"; q1 = filter q by date('DUE_DATE1_Year', 'DUE_DATE1_Month', 'DUE_DATE1_Day') in [\"current day\"..\"current day\"]; q1 = group q1 by 'DUE_DATE1_Day';  q1 = foreach q1 generate 'DUE_DATE1_Day' as 'DUE_DATE1_Day', avg('DUE_DATE2_Day') as 'avg_CurrentDay', 0 as 'avg_DateDay';  q2 = filter q by  {{column(Day_1.selection,[\"DUE_DATE1_Day\"]).asEquality(\"DUE_DATE1_Day\")}};  q2 = group q2 by 'DUE_DATE1_Day';  q2 = foreach q2 generate 'DUE_DATE1_Day' as 'DUE_DATE1_Day', 0 as 'avg_CurrentDay', avg('DUE_DATE2_Day') as 'avg_DateDay';  u = union q1,q2;  u = group u by all;  u = foreach u generate (case when sum('avg_DateDay')> 31 then 0 else (sum('avg_DateDay')-sum('avg_CurrentDay')) end) as 'Day_Diff';",
+                    "measures": [
+                        [
+                            "Day",
+                            "Diff"
+                        ]
+                    ],
+                    "filters": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Month_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq=filter q by date('DUE_DATE1_Year', 'DUE_DATE1_Month', 'DUE_DATE1_Day') in [\"6 years ago\"..\"3 years ahead\"];;a=filter q by date('DUE_DATE1_Year', 'DUE_DATE1_Month', 'DUE_DATE1_Day') in [\"current month\"..\"current month\"];\na=group a by DUE_DATE1_Month;\na=foreach a generate DUE_DATE1_Month as DUE_DATE1_Month, 1 as count1;\nb=group q by DUE_DATE1_Month;\nb= foreach b generate DUE_DATE1_Month as DUE_DATE1_Month, 0 as count1;\nc=union a,b;\nc=group c by DUE_DATE1_Month;\nc=foreach c generate DUE_DATE1_Month as DUE_DATE1_Month, sum(count1) as count1;\nc=order c  by count1 desc;\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "count1"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE1_Month"
+                    ],
+                    "filters": [
+                        [
+                            "DUE_DATE1",
+                            [
+                                [
+                                    [
+                                        "fiscal_year",
+                                        -20
+                                    ],
+                                    [
+                                        "fiscal_year",
+                                        2
+                                    ]
+                                ]
+                            ],
+                            ">=<="
+                        ]
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "LatestTable_New": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blf5CAA",
+                        "label": "CustomerProfitability1",
+                        "name": "CustomerProfitability1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"CustomerProfitability1\";\nq = group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, 'SALES_ORDER');\nq = foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New ,'SALES_ORDER', sum(EXT_PRICE) as EXT_PRICE, sum(EXTCOST) as EXTCOST,max('TradingTerms.On_invoice_Discount') as 'TradingTerms.On_invoice_Discount', avg('Freight.sum_gltr_amt') as 'sum_gltr_amt', sum('CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\nq=group q by (Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New);\nq=foreach q generate Country2,Channel2,Customer_Name2,'PRODUCT_LINE_NAME2', Week_New, sum(sum_gltr_amt) as Amount, sum(EXT_PRICE) as 'sum_EXT_PRICE', sum(EXTCOST) as 'sum_EXTCOST',max('TradingTerms.On_invoice_Discount') as 'sum_TradingTerms.On_invoice_Discount',  sum(sum_gltr_amt)/sum(sum_CONVERTED_QTY_LTR_KG1) as 'sum_FreightPerUnit',sum('sum_CONVERTED_QTY_LTR_KG1') as 'sum_CONVERTED_QTY_LTR_KG1';\n",
+                    "measures": [
+                        [
+                            "sum",
+                            "EXT_PRICE",
+                            "A",
+                            {
+                                "display": "MTD Actual $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "CONVERTED_QTY_LTR_KG1",
+                            "B",
+                            {
+                                "display": "MTD Actual Units"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "CONVERTED_QTY_LTR_KG1",
+                            "C",
+                            {
+                                "display": "Invoice Price per unit $",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "EXTCOST",
+                            "D",
+                            {
+                                "display": "MTD Cogs $"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "EXTCOST",
+                            "E",
+                            {
+                                "display": "MTD Margin $",
+                                "format": "currencydollars"
+                            }
+                        ],
+                        [
+                            "max",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "F",
+                            {
+                                "display": "Contracted Trading Terms (%)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "G",
+                            {
+                                "display": "Trading term per unit ($)"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "H",
+                            {
+                                "display": "Net Sales per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "I",
+                            {
+                                "display": "COGS per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "J",
+                            {
+                                "display": "Gross Margin pre freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "'sum_TradingTerms.On_invoice_Discount'",
+                            "K",
+                            {
+                                "display": "GM % of Net Sales",
+                                "format": "percentage"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "L",
+                            {
+                                "display": "Freight cost per unit",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "M",
+                            {
+                                "display": "Gross Margin after freight per unit ($)",
+                                "format": "currencycents"
+                            }
+                        ],
+                        [
+                            "sum",
+                            "FreightPerUnit",
+                            "N",
+                            {
+                                "display": "GM after freight % Of Net Sales",
+                                "format": "percentage"
+                            }
+                        ]
+                    ],
+                    "columns": [
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXT_PRICE"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Actual Units"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "sum_CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "A/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Invoice Price per unit $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "EXTCOST"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "MTD Cogs $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "sum_CONVERTED_QTY_LTR_KG1"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "A-D",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencydollars",
+                            "header": "MTD Margin $"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "max",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Contracted Trading Terms (%)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "formula": "(C*F)/100",
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "header": "Trading term per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "C-G",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Net Sales per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "D/B",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "COGS per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "H-I",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin pre freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "(J/H)",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM % of Net Sales"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "FreightPerUnit"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Freight cost per unit"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "J-L",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "currencycents",
+                            "header": "Gross Margin after freight per unit ($)"
+                        },
+                        {
+                            "query": {
+                                "measures": [
+                                    [
+                                        "sum",
+                                        "'sum_TradingTerms.On_invoice_Discount'"
+                                    ]
+                                ],
+                                "groups": [
+                                    "Country2",
+                                    "Channel2",
+                                    "Customer_Name2",
+                                    "PRODUCT_LINE_NAME2"
+                                ],
+                                "formula": "M/H",
+                                "filters": [
+                                    [
+                                        "DUE_DATE1",
+                                        [
+                                            "{{cell(step_relative_date.selection, 0, \"compact_step_value\").asObject()}}"
+                                        ],
+                                        "in"
+                                    ],
+                                    [
+                                        "Customer_New",
+                                        [
+                                            "EXCLUSION"
+                                        ],
+                                        "not in"
+                                    ]
+                                ]
+                            },
+                            "format": "percentage",
+                            "header": "GM after freight % Of Net Sales"
+                        }
+                    ],
+                    "groups": [
+                        "Country2",
+                        "Channel2",
+                        "Customer_Name2",
+                        "PRODUCT_LINE_NAME2"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "comparisontable",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "text_10": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Weekly Report",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_12": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product Group",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_11": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Domain",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Customer  Group",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Channel",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_5": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Customer Name",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_7": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Month",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_6": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Year",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_9": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Monthly Report",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_8": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Week",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Month_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Year_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Customer_Group2_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Channel2_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "dateselector_1": {
+                "parameters": {
+                    "calendarTypeSwitchingAllowed": false,
+                    "defaultAbsoluteMode": true,
+                    "defaultFiscalMode": false,
+                    "instant": false,
+                    "modeSwitchingAllowed": true,
+                    "step": "DUE_DATE1_Year_1",
+                    "title": "Date Range"
+                },
+                "type": "dateselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "ProductName_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Country",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Customer_Name2_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "table_1": {
+                "parameters": {
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "step": "LatestTable_1"
+                },
+                "type": "table"
+            },
+            "table_2": {
+                "parameters": {
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "step": "LatestTable_2"
+                },
+                "type": "table"
+            },
+            "table_3": {
+                "parameters": {
+                    "customBulkActions": [],
+                    "exploreLink": false,
+                    "pivoted": false,
+                    "step": "PRODUCT_LINE_NAME_SK_1"
+                },
+                "type": "table"
+            },
+            "table_4": {
+                "parameters": {
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "step": "PRODUCT_LINE_NAME_2"
+                },
+                "type": "table"
+            },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "step": "step_relative_date"
+                },
+                "type": "pillbox"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitwidth",
+                    "image": {
+                        "name": "a2logopng5",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "listselector_11": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "PRODUCT_LINE_NAME2_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Country2_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_10": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Domain1_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitwidth",
+                    "image": {
+                        "name": "a2logopng4",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "image_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng3",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb28000000blf5CAA",
+            "label": "CustomerProfitability1",
+            "name": "CustomerProfitability1",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blf5CAA"
+        }
+    ]
+}

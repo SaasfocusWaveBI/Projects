@@ -1,0 +1,391 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Name",
+			"fullyQualifiedName": "Customer_Name",
+			"label": "Customer Name",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Name",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Segment",
+			"fullyQualifiedName": "Segment",
+			"label": "Segment",
+			"linkTemplateEnabled": true,
+			"origin": "Segment",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Currency",
+			"fullyQualifiedName": "Currency",
+			"label": "Currency",
+			"linkTemplateEnabled": true,
+			"origin": "Currency",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Product_Group",
+			"fullyQualifiedName": "Product_Group",
+			"label": "Product Group",
+			"linkTemplateEnabled": true,
+			"origin": "Product_Group",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "BudgetY",
+			"fullyQualifiedName": "BudgetY",
+			"label": "BudgetY",
+			"linkTemplateEnabled": true,
+			"origin": "BudgetY",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Channel",
+			"fullyQualifiedName": "Channel",
+			"label": "Channel",
+			"linkTemplateEnabled": true,
+			"origin": "Channel",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "City",
+			"fullyQualifiedName": "City",
+			"label": "City",
+			"linkTemplateEnabled": true,
+			"origin": "City",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Code",
+			"fullyQualifiedName": "Customer_Code",
+			"label": "Customer Code",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Code",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date",
+			"label": "Date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Year",
+			"label": "Date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Quarter",
+			"label": "Date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Month",
+			"label": "Date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Week",
+			"label": "Date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Day",
+			"label": "Date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Hour",
+			"label": "Date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Minute",
+			"label": "Date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Second",
+			"label": "Date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Country",
+			"fullyQualifiedName": "Country",
+			"label": "Country",
+			"linkTemplateEnabled": true,
+			"origin": "Country",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Region",
+			"fullyQualifiedName": "Region",
+			"label": "Region",
+			"linkTemplateEnabled": true,
+			"origin": "Region",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Domain",
+			"fullyQualifiedName": "Domain",
+			"label": "Domain",
+			"linkTemplateEnabled": true,
+			"origin": "Domain",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "BUDGET_GBP",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "BUDGET_GBP",
+			"label": "BUDGET_GBP",
+			"origin": "BUDGET_GBP",
+			"showInExplorer": true
+		},
+		{
+			"field": "BUDGET_AUD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "BUDGET_AUD",
+			"label": "BUDGET_AUD",
+			"origin": "BUDGET_AUD",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_GBP",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "EXT_GBP",
+			"label": "EXT_GBP",
+			"origin": "EXT_GBP",
+			"showInExplorer": true
+		},
+		{
+			"field": "Budget",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "Budget",
+			"label": "$ Budget",
+			"origin": "Budget",
+			"showInExplorer": true
+		},
+		{
+			"field": "BUDGET_NZD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "BUDGET_NZD",
+			"label": "BUDGET_NZD",
+			"origin": "BUDGET_NZD",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_RATE_EUR",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "EXT_RATE_EUR",
+			"label": "EXT_RATE_EUR",
+			"origin": "EXT_RATE_EUR",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_RATE_USD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "EXT_RATE_USD",
+			"label": "EXT_RATE_USD",
+			"origin": "EXT_RATE_USD",
+			"showInExplorer": true
+		},
+		{
+			"field": "Units_Budget",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "Units_Budget",
+			"label": "Units Budget",
+			"origin": "Units_Budget",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "BUDGET_USD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "BUDGET_USD",
+			"label": "BUDGET_USD",
+			"origin": "BUDGET_USD",
+			"showInExplorer": true
+		},
+		{
+			"field": "BUDGET_EUR",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "BUDGET_EUR",
+			"label": "BUDGET_EUR",
+			"origin": "BUDGET_EUR",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_RATE_NZD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "EXT_RATE_NZD",
+			"label": "EXT_RATE_NZD",
+			"origin": "EXT_RATE_NZD",
+			"showInExplorer": true
+		},
+		{
+			"field": "Litres_Budget",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "Litres_Budget",
+			"label": "Litres Budget",
+			"origin": "Litres_Budget",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXR_RATE_AUD",
+			"format": {
+				"customFormat": "[\"#,###.#####\",1]",
+				"decimalDigits": 3
+			},
+			"fullyQualifiedName": "EXR_RATE_AUD",
+			"label": "EXR_RATE_AUD",
+			"origin": "EXR_RATE_AUD",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "Date",
+			"compact": false,
+			"fields": {
+				"day": "Date_Day",
+				"epochDay": "Date_day_epoch",
+				"epochSecond": "Date_sec_epoch",
+				"fullField": "Date",
+				"hour": "Date_Hour",
+				"minute": "Date_Minute",
+				"month": "Date_Month",
+				"quarter": "Date_Quarter",
+				"second": "Date_Second",
+				"week": "Date_Week",
+				"year": "Date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Date",
+			"showInExplorer": true
+		}
+	]
+}

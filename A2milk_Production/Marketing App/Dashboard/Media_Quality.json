@@ -1,0 +1,4055 @@
+{
+    "label": "Media Quality",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 15,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "text_1",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "text_7",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "text_12",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 15,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#FFFFFF",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "listselector_1",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 14,
+                                "name": "listselector_7",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "listselector_8",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_11",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 3,
+                                "name": "chart_2",
+                                "row": 2,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "text_2",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "text_10",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 2,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 6,
+                                "name": "chart_3",
+                                "row": 2,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "chart_4",
+                                "row": 2,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "chart_5",
+                                "row": 2,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "container_3",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "chart_7",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 6,
+                                "name": "number_3",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "listselector_13",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "text_13",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "number_6",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 3,
+                                "name": "number_7",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 3,
+                                "name": "number_10",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "number_9",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "listselector_14",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 10,
+                                "name": "text_14",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 6,
+                                "name": "number_8",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "number_4",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "number_11",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "number_12",
+                                "row": 8,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "number_14",
+                                "row": 7,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 15,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 9,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 13,
+                                "name": "listselector_15",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            },
+            {
+                "name": "Ipad",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "text_9",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "text_13",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "text_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "text_12",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "listselector_13",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "listselector_15",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "listselector_2",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "text_14",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 2,
+                                "name": "listselector_14",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#FFFFFF",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 3,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "chart_2",
+                                "row": 3,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "chart_3",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "chart_4",
+                                "row": 11,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_5",
+                                "row": 19,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "number_7",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "number_4",
+                                "row": 25,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "number_10",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "number_11",
+                                "row": 26,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "number_6",
+                                "row": 9,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "number_3",
+                                "row": 17,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "number_14",
+                                "row": 17,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "number_9",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 0,
+                                "name": "number_8",
+                                "row": 18,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "number_12",
+                                "row": 18,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 4
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "text_10",
+                                "row": 27,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "text_2",
+                                "row": 27,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "text_7",
+                                "row": 27,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "text_1",
+                                "row": 27,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 4,
+                                "name": "listselector_11",
+                                "row": 28,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "listselector_8",
+                                "row": 28,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "listselector_1",
+                                "row": 28,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "listselector_7",
+                                "row": 28,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 27,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "backgroundColor": "rgb(107, 30, 116)",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 30,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_2",
+                                "row": 30,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_7",
+                                "row": 36,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 36,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#335779",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "minWidth(600)",
+                    "maxWidth(999)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "fit": "original",
+                    "gutterColor": "#C5D3E0"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Sales_House_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_House"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Week_Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Week_Year"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Day_part_target_change": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "pib": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_TV_PIB_15_Mar_2017\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=group a by all;q = foreach q generate sum('Actual_Impressions_Ttl_Ppl') as 'Result1';",
+                    "measures": [
+                        "Result1"
+                    ],
+                    "measuresMap": {},
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Actual_Impressions_T_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "TV PIB",
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_6": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_Print_Position\";q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};\na = group q by all;\na = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nt = filter q by 'Position' == \"First\";\nt = group t by all;\nt = foreach t generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\ns = group t by all, a by all;\ns = foreach s generate coalesce((sum(t['sum_Target'])/sum(a['sum_Target'])),0)*100 as 'Result';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Result"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Day_part_target_viewable": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Position_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "Position"
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "all_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_TV_PIB_15_Mar_2017\";q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};\na = group q by all;\na = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nt = filter q by 'Position' == \"First\";\nt = group t by all;\nt = foreach t generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nr = filter q by 'Position' == \"Last\";\nr = group r by all;\nr = foreach r generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\ns = group t by all, r by all,a by all;\ns = foreach s generate coalesce(((sum(t['sum_Target'])+sum(r['sum_Target']))/sum(a['sum_Target'])),0)*100 as 'Result';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Result"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_Print_Position\";q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a = filter q by 'Position' == \"First\";\na = group a by all;\na = foreach a generate avg('Target') as 'avg_Target';\n",
+                    "measures": [
+                        "avg_Target"
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "all_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_TV_Prime_Time_15_Mar_2017\";q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};\na = group q by all;\na = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nb = filter q by 'Day_part' == \"Prime Time\";\nb = group b by all;\nb = foreach b generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nc = group a by all,b by all;\nc = foreach c generate coalesce(((sum(b['sum_Target'])/sum(a['sum_Target']))),0)*100 as 'Result';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Result"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "positioning_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Print_Position\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country\")}};q=group a by all;q = foreach q generate ({{column(positioning.result,[\"Result1\"]).asObject()}} / {{column(Positioning_3.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]).asObject()}})*100 as Final;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Online_In_Target": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"Data_Format_Online_In_Target\";q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q = filter q by 'Position' == \"Above\";q = group q by all;q = foreach q generate avg('Target') as 'avg_Target';",
+                    "measures": [
+                        [
+                            "avg",
+                            "Target"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Position_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "groups": [
+                        "Position"
+                    ],
+                    "filters": [
+                        [
+                            "Country",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_5": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_Online_Viewable\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};\na = group a by all;\na = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target_Impressions';\nb = filter q by 'Position' == \"Viewable\";\nb = group b by all;\nb = foreach b generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target_Impressions';\nc = group a by all, b by all;\nc = foreach c generate (sum(b['sum_Target_Impressions']))/(sum(a['sum_Target_Impressions']))*100 as 'Result';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Result"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Position_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "pib_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_TV_PIB_15_Mar_2017\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=group a by all;q = foreach q generate ({{coalesce(column(pib.result,[\"Result1\"]),0).asObject()}} / {{coalesce(column(Position_3.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as Final;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Target_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a=load \"Data_Format_TV_PIB_15_Mar_2017\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q1 = filter a by 'Position' == \"First\";q1 = group q1 by all;q1 = foreach q1 generate avg('Target') as 'avg_Target';q2=filter a by 'Position' == \"Last\";q2 = group q2 by all;q2 = foreach q2 generate avg('Target') as 'avg_Target';c=union q1,q2;c=group c by all;c=foreach c generate sum(avg_Target) as avg_Target;",
+                    "measures": [
+                        [
+                            "avg",
+                            "Target"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "PRODUCT_NAME_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Product"
+                    ],
+                    "filters": [
+                        [
+                            "Country",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Target_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Target"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Day_part",
+                            [
+                                "Prime Time"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Viewable_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "groups": [
+                        "Position"
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_online_intarget": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Data_Format_Online_In_Target\";q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};\na = group q by all;\na = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\nt = filter q by 'Position' == \"Above\";\nt = group t by all;\nt = foreach t generate sum('Actual_Impressions_Ttl_Ppl') as 'sum_Target';\ns = group t by all,a by all;\ns = foreach s generate coalesce((sum(t['sum_Target'])/sum(a['sum_Target'])),0)*100 as 'Result';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Result"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "pib_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_TV_PIB_15_Mar_2017\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};a=group a by all;a=foreach a generate (case when \"{{cell(Position_1.selection,0,\"Position\").asObject()}}\" == \"\" then {{coalesce(column(all_1.result,[\"Result\"]),0).asObject()}} else {{coalesce(column(pib_1.result,[\"Final\"]),0).asObject()}} end) as 'Final' ;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Title_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Title"
+                    ],
+                    "filters": [
+                        [
+                            "Country",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Target_PIB_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Target_PIB",
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Target"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Position",
+                            [
+                                "First",
+                                "Last"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Medium_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Medium"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Country_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "Country",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Country1"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Position_3_onlineintarget": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Ad_Format_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Ad_Format"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "positionng_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Print_Position\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country\")}};a=group a by all;a=foreach a generate (case when \"{{cell(Position_2.selection,0,\"Position\").asObject()}}\" == \"\" then {{coalesce(column(all_6.result,[\"Result\"]),0).asObject()}} else {{coalesce(column(positioning_1.result,[\"Final\"]),0).asObject()}} end) as 'Final' ;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Actuals_viewable": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"Data_Format_Online_Viewable\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=group q by all;q=foreach q generate ({{coalesce(column(Day_part_target_change_viewable.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}}/{{coalesce(column(Day_part_target_viewable.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as Actuals;",
+                    "measures": [
+                        "Actuals"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "actual_primetime_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "actual_primetime_1",
+                "query": {
+                    "pigql": "q=load \"Data_Format_TV_Prime_Time_15_Mar_2017\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=group q by all;q = foreach q generate (case when \"{{cell(Day_part_2.selection,0,\"Day_part\").asObject()}}\" == \"\" then {{coalesce(column(daypart_primetime_1.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}} else {{coalesce(column(Actuals_prime_time.result,[\"Actuals\"]),0).asObject()}} end) as Actual_primetime;",
+                    "measures": [
+                        "Actual_primetime"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Channel_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Channel_Site"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Medium_Type_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"DataFormat1\";a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country1\")}};a=filter a by {{column(Ad_Format_1.selection,[\"Ad_Format\"]).asEquality(\"Ad_Format\")}};a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Channel_1.selection,[\"Channel_Site\"]).asEquality(\"Channel_Site\")}};a=filter a by {{column(Medium_1.selection,[\"Medium\"]).asEquality(\"Medium\")}};a=filter a by {{column(Sales_House_1.selection,[\"Sales_House\"]).asEquality(\"Sales_House\")}};\nq = group a by 'Medium';\nq = foreach q generate 'Medium' as 'Medium', coalesce(sum('Planned_Budget')/(sum('Planned_Impressions_Ttl_Ppl')/1000),0) as 'Planned CPM', \"Planned CPM\" as 'Type';\nr = group a by 'Medium';\nr = foreach r generate 'Medium' as 'Medium', sum('Actual_Expenditure')/(sum('Actual_Impressions_Ttl_Ppl')/1000) as 'Actual CPM', \"Actual CPM\" as 'Type';\ns = union q,r;\ns = foreach s generate 'Medium' as 'Medium' , 'Planned CPM' as 'Planned CPM','Actual CPM' as 'Actual CPM' ,'Type' as 'Type';\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Planned CPM"
+                        ],
+                        [
+                            "count",
+                            "*",
+                            "Actual CPM"
+                        ]
+                    ],
+                    "groups": [
+                        "Medium"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Section_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Section"
+                    ],
+                    "filters": [
+                        [
+                            "Country",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "daypart_viewable": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "daypart_primetime",
+                "query": {
+                    "pigql": "q=load \"Data_Format_Online_Viewable\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=filter q by 'Position' == \"Viewable\";q=group q by all;q = foreach q generate  sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl';q = foreach q generate ('sum_Actual_Impressions_Ttl_Ppl'/{{coalesce(column(Day_part_target_viewable.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as sum_Actual_Impressions_Ttl_Ppl;",
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "pib_2_viewable": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Online_Viewable\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};a=group a by all;a=foreach a generate (case when \"{{cell(Viewable_1.selection,0,\"Position\").asObject()}}\" == \"\" then {{coalesce(column(daypart_viewable.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}} else {{coalesce(column(Actuals_viewable.result,[\"Actuals\"]),0).asObject()}} end) as 'Final' ;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "avg_target_viewable_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "avg_target_viewable",
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Target"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Position",
+                            [
+                                "Viewable"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "DUE_DATE_Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blirCAA",
+                        "label": "QADInvoice_SnapshotDB_test",
+                        "name": "QADInvoice_SnapshotDB_test",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "DUE_DATE_Week"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "positioning": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Print_Position\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country\")}};q=group a by all;q = foreach q generate sum('Actual_Impressions_Ttl_Ppl') as 'Result1';",
+                    "measures": [
+                        "Result1"
+                    ],
+                    "measuresMap": {},
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "daypart_primetime_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "daypart_primetime",
+                "query": {
+                    "pigql": "q=load \"Data_Format_TV_Prime_Time_15_Mar_2017\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=filter q by 'Day_part' == \"Prime Time\";q=group q by all;q = foreach q generate  sum('Actual_Impressions_Ttl_Ppl') as 'sum_Actual_Impressions_Ttl_Ppl';q = foreach q generate ('sum_Actual_Impressions_Ttl_Ppl'/{{coalesce(column(Day_part_target.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as sum_Actual_Impressions_Ttl_Ppl;",
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Actuals_prime_time": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"Data_Format_TV_Prime_Time_15_Mar_2017\";q=filter q by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};q=filter q by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};q=filter q by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};q=filter q by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};q=filter q by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=group q by all;q=foreach q generate ({{coalesce(column(Day_part_target_change.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}}/{{coalesce(column(Day_part_target.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as Actuals;",
+                    "measures": [
+                        "Actuals"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Positioning_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blibCAA",
+                        "label": "Data_Format_Print_Position",
+                        "name": "Data_Format_Print_Position",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Country",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Day_part_target": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": false,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "pib_2_onlineintarget": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Online_In_Target\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};a=group a by all;a=foreach a generate (case when \"{{cell(In_Target_1.selection,0,\"Position\").asObject()}}\" == \"\" then {{coalesce(column(all_online_intarget.result,[\"Result\"]),0).asObject()}} else {{coalesce(column(pib_1_onlineintarget.result,[\"Final\"]),0).asObject()}} end) as 'Final' ;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "new_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "label": "new",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "In_Target_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "groups": [
+                        "Position"
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Day_part_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliRCAQ",
+                        "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "groups": [
+                        "Day_part"
+                    ],
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Day_part_target_change_viewable": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliWCAQ",
+                        "label": "Data_Format_Online_Viewable",
+                        "name": "Data_Format_Online_Viewable",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Actual_Impressions_Ttl_Ppl"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "filters": [
+                        [
+                            "COUNTRY",
+                            "{{column(Country_1.selection, [\"Country1\"]).asObject()}}"
+                        ],
+                        [
+                            "Region",
+                            "{{column(Region_1.selection, [\"Region\"]).asObject()}}"
+                        ],
+                        [
+                            "Product",
+                            "{{column(PRODUCT_NAME_1.selection, [\"Product\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Week",
+                            "{{column(DUE_DATE_Week_1.selection, [\"DUE_DATE_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Week_Year",
+                            "{{column(Week_Year_1.selection, [\"Week_Year\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "pib_onlineintarget": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Online_In_Target\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};a=group a by all;a = foreach a generate sum('Actual_Impressions_Ttl_Ppl') as 'Result1';",
+                    "measures": [
+                        "Result1"
+                    ],
+                    "measuresMap": {},
+                    "autoFilter": true
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Day_part_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Day_part"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Ad_Type_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Ad_Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Region_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bliMCAQ",
+                        "label": "Data_Format_TV_PIB_15_Mar_2017",
+                        "name": "Data_Format_TV_PIB_15_Mar_2017",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Region"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Date1_Type_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000blj5CAA",
+                        "label": "DataFormat1",
+                        "name": "DataFormat1",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"DataFormat1\";a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"Country1\")}};a=filter a by {{column(Ad_Format_1.selection,[\"Ad_Format\"]).asEquality(\"Ad_Format\")}};a=filter a by {{column(Channel_1.selection,[\"Channel_Site\"]).asEquality(\"Channel_Site\")}};a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Medium_1.selection,[\"Medium\"]).asEquality(\"Medium\")}};a=filter a by {{column(Sales_House_1.selection,[\"Sales_House\"]).asEquality(\"Sales_House\")}};\nq = group a by 'Week_Week';\nq = foreach q generate sum('Planned_Impressions_Ttl_Ppl') as 'Planned Weight', \"Planned Weight\" as 'Type','Week_Week' as 'Date1';\ns = group a by 'Week_Week';\ns = foreach s generate sum('Actual_Impressions_Ttl_Ppl') as 'Actual Weight', \"Actual Weight\" as 'Type','Week_Week' as 'Date1';\nt = union q,s;\nt = foreach t generate  Date1 as Date1,'Actual Weight' as 'Actual Weight1' ,'Planned Weight' as 'Planned Weight1', Type as Type;\n\n",
+                    "measures": [
+                        "Planned Weight1",
+                        "Actual Weight1"
+                    ],
+                    "groups": [
+                        "Date1"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "pib_1_onlineintarget": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "a = load \"Data_Format_Online_In_Target\";a=filter a by {{column(DUE_DATE_Week_1.selection,[\"DUE_DATE_Week\"]).asEquality(\"Week_Week\")}};a=filter a by {{column(Week_Year_1.selection,[\"Week_Year\"]).asEquality(\"Week_Year\")}};a=filter a by {{column(Region_1.selection,[\"Region\"]).asEquality(\"Region\")}};a=filter a by {{column(PRODUCT_NAME_1.selection,[\"Product\"]).asEquality(\"Product\")}};a=filter a by {{column(Country_1.selection,[\"Country1\"]).asEquality(\"COUNTRY\")}};q=group a by all;q = foreach q generate ({{coalesce(column(pib_onlineintarget.result,[\"Result1\"]),0).asObject()}} / {{coalesce(column(Position_3_onlineintarget.result,[\"sum_Actual_Impressions_Ttl_Ppl\"]),0).asObject()}})*100 as Final;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Final"
+                        ]
+                    ],
+                    "measuresMap": {}
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Site_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb28000000bligCAA",
+                        "label": "Data_Format_Online_In_Target",
+                        "name": "Data_Format_Online_In_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Site"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "number_12": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Final",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "pib_2_viewable",
+                    "textAlignment": "right",
+                    "title": "Actual",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_11": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Final",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "pib_2_onlineintarget",
+                    "textAlignment": "right",
+                    "title": "Actual",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_10": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Actual_primetime",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "actual_primetime_1",
+                    "textAlignment": "right",
+                    "title": "Actual",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "text_14": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Country",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_13": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Year",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_10": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Medium",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_12": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Product",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "number_14": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_Target",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "avg_target_viewable_1",
+                    "textAlignment": "right",
+                    "title": "Target (Viewable)",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "text_11": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Section",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Week",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_6": {
+                "parameters": {
+                    "autoFitMode": "fit",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "top-center",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "vbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Date1_Type_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": "Week"
+                    }
+                },
+                "type": "chart"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Sales House",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_5": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "showTotal": false,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Viewable_1",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "Online Viewable",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_5": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Day Part",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Title",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_7": {
+                "parameters": {
+                    "autoFitMode": "fit",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "top-center",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "vbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "binValues": false,
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": false,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Medium_Type_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "text_7": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Channel",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_2": {
+                "parameters": {
+                    "showMeasureTitle": false,
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showTotal": false,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Day_part_2",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "TV Prime Time",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_6": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Site",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_1": {
+                "parameters": {
+                    "showMeasureTitle": false,
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showTotal": false,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Position_1",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "TV Position in Break",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_9": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Region",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_4": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "showTotal": false,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "In_Target_1",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "Online In Target",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_8": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Ad Type",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "chart_3": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": false,
+                    "showTotal": false,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "Position_2",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "Print Positioning",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 14,
+                    "text": "Ad format",
+                    "textAlignment": "center",
+                    "textColor": "#FFFFFF"
+                },
+                "type": "text"
+            },
+            "number_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Result",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "all_5",
+                    "textAlignment": "right",
+                    "title": "Target",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_Target",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "Online_In_Target",
+                    "textAlignment": "right",
+                    "title": "Target (Above)",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Result",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "all_3",
+                    "textAlignment": "right",
+                    "title": "Target (First)",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Result",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "all_2",
+                    "textAlignment": "right",
+                    "title": "Target",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Result",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "all_1",
+                    "textAlignment": "right",
+                    "title": "Target",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "listselector_12": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "DUE_DATE_Week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitwidth",
+                    "image": {
+                        "name": "a2logopng8",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "listselector_11": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Medium_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_10": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Ad_Type_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "image_2": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "center",
+                    "fit": "fitheight",
+                    "image": {
+                        "name": "a2logopng6",
+                        "namespace": ""
+                    }
+                },
+                "type": "image"
+            },
+            "listselector_15": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "DUE_DATE_Week_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_14": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Country_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_13": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Week_Year_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "number_9": {
+                "parameters": {
+                    "compact": true,
+                    "exploreLink": true,
+                    "measureField": "Final",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "pib_2",
+                    "textAlignment": "right",
+                    "title": "Actual",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_8": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "Final",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "positionng_2",
+                    "textAlignment": "right",
+                    "title": "Actual",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_7": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_Target",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "Target_2",
+                    "textAlignment": "right",
+                    "title": "Target (Prime)",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "number_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "avg_Target",
+                    "numberColor": "#335779",
+                    "numberSize": 18,
+                    "step": "Target_1",
+                    "textAlignment": "right",
+                    "title": "Target (First + Last)",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Ad_Format_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Day_part_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Site_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Sales_House_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Region_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "PRODUCT_NAME_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Section_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Title_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "none",
+                    "step": "Channel_1",
+                    "title": ""
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb28000000bliMCAQ",
+            "label": "Data_Format_TV_PIB_15_Mar_2017",
+            "name": "Data_Format_TV_PIB_15_Mar_2017",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliMCAQ"
+        },
+        {
+            "id": "0Fb28000000bliRCAQ",
+            "label": "Data_Format_TV_Prime_Time_15_Mar_2017",
+            "name": "Data_Format_TV_Prime_Time_15_Mar_2017",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliRCAQ"
+        },
+        {
+            "id": "0Fb28000000bliWCAQ",
+            "label": "Data_Format_Online_Viewable",
+            "name": "Data_Format_Online_Viewable",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bliWCAQ"
+        },
+        {
+            "id": "0Fb28000000blibCAA",
+            "label": "Data_Format_Print_Position",
+            "name": "Data_Format_Print_Position",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blibCAA"
+        },
+        {
+            "id": "0Fb28000000bligCAA",
+            "label": "Data_Format_Online_In_Target",
+            "name": "Data_Format_Online_In_Target",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000bligCAA"
+        },
+        {
+            "id": "0Fb28000000blirCAA",
+            "label": "QADInvoice_SnapshotDB_test",
+            "name": "QADInvoice_SnapshotDB_test",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blirCAA"
+        },
+        {
+            "id": "0Fb28000000blj5CAA",
+            "label": "DataFormat1",
+            "name": "DataFormat1",
+            "url": "/services/data/v39.0/wave/datasets/0Fb28000000blj5CAA"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMER_GROUP1",
+			"fullyQualifiedName": "Budget_COmpute.CUSTOMER_GROUP1",
+			"label": "CUSTOMER GROUP",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMER_GROUP1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1",
+			"label": "DUE DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Year",
+			"label": "DUE_DATE1_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Quarter",
+			"label": "DUE_DATE1_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Month",
+			"label": "DUE_DATE1_Month",
+			"linkTemplateEnabled": true,
+			"members": [
+				{
+					"label": "JAN",
+					"member": "01"
+				},
+				{
+					"label": "FEB",
+					"member": "02"
+				},
+				{
+					"label": "MAR",
+					"member": "03"
+				},
+				{
+					"label": "APR",
+					"member": "04"
+				},
+				{
+					"label": "MAY",
+					"member": "05"
+				},
+				{
+					"label": "JUN",
+					"member": "06"
+				},
+				{
+					"label": "JUL",
+					"member": "07"
+				},
+				{
+					"label": "AUG",
+					"member": "08"
+				},
+				{
+					"label": "SEP",
+					"member": "09"
+				},
+				{
+					"label": "OCT",
+					"member": "10"
+				},
+				{
+					"label": "NOV",
+					"member": "11"
+				},
+				{
+					"label": "DEC",
+					"member": "12"
+				}
+			],
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Week",
+			"label": "DUE_DATE1_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Day",
+			"label": "DUE_DATE1_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Hour",
+			"label": "DUE_DATE1_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Minute",
+			"label": "DUE_DATE1_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Second",
+			"label": "DUE_DATE1_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Year_Fiscal",
+			"label": "DUE_DATE1_Year_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Quarter_Fiscal",
+			"label": "DUE_DATE1_Quarter_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Month_Fiscal",
+			"label": "DUE_DATE1_Month_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Week_Fiscal",
+			"label": "DUE_DATE1_Week_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "STATE1",
+			"fullyQualifiedName": "Budget_COmpute.STATE1",
+			"label": "STATE",
+			"linkTemplateEnabled": true,
+			"origin": "STATE1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "COUNTRY1",
+			"fullyQualifiedName": "Budget_COmpute.COUNTRY1",
+			"label": "COUNTRY",
+			"linkTemplateEnabled": true,
+			"origin": "COUNTRY1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMERS_NAME1",
+			"fullyQualifiedName": "Budget_COmpute.CUSTOMERS_NAME1",
+			"label": "CUSTOMERS NAME",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMERS_NAME1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CHANNEL1",
+			"fullyQualifiedName": "Budget_COmpute.CHANNEL1",
+			"label": "CHANNEL",
+			"linkTemplateEnabled": true,
+			"origin": "CHANNEL1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PRODUCT_GROUP1",
+			"fullyQualifiedName": "Budget_COmpute.PRODUCT_GROUP1",
+			"label": "PRODUCT GROUP",
+			"linkTemplateEnabled": true,
+			"origin": "PRODUCT_GROUP1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CURRENCY1",
+			"fullyQualifiedName": "Budget_COmpute.CURRENCY1",
+			"label": "CURRENCY",
+			"linkTemplateEnabled": true,
+			"origin": "CURRENCY1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SEGMENT1",
+			"fullyQualifiedName": "Budget_COmpute.SEGMENT1",
+			"label": "SEGMENT",
+			"linkTemplateEnabled": true,
+			"origin": "SEGMENT1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "FLAG",
+			"fullyQualifiedName": "Budget_COmpute.FLAG",
+			"label": "FLAG",
+			"linkTemplateEnabled": true,
+			"origin": "FLAG",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMER_CODE1",
+			"fullyQualifiedName": "Budget_COmpute.CUSTOMER_CODE1",
+			"label": "CUSTOMER CODE",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMER_CODE1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DOMAIN1",
+			"fullyQualifiedName": "Budget_COmpute.DOMAIN1",
+			"label": "DOMAIN",
+			"linkTemplateEnabled": true,
+			"origin": "DOMAIN1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "DUE_DATE1_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE1_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "DUE_DATE1_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE1_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_NZD1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE_NZD1",
+			"label": "EXT_PRICE_NZD1",
+			"origin": "EXT_PRICE_NZD1",
+			"showInExplorer": true
+		},
+		{
+			"description": "Converted dimension DUE_DATE1_Day",
+			"field": "DueDateDay",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Budget_COmpute.DueDateDay",
+			"label": "DueDateDay",
+			"origin": "DUE_DATE1_Day",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_EUR1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE_EUR1",
+			"label": "EXT_PRICE_EUR1",
+			"origin": "EXT_PRICE_EUR1",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE1",
+			"label": "EXT_PRICE1",
+			"origin": "EXT_PRICE1",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_USD1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE_USD1",
+			"label": "EXT_PRICE_USD1",
+			"origin": "EXT_PRICE_USD1",
+			"showInExplorer": true
+		},
+		{
+			"field": "QTY_IN_LITRES",
+			"format": {
+				"customFormat": "[\"#,###\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.QTY_IN_LITRES",
+			"label": "QTY_IN_LITRES",
+			"origin": "QTY_IN_LITRES",
+			"showInExplorer": true
+		},
+		{
+			"field": "CONVERTED_QT_LT_KG",
+			"format": {
+				"customFormat": "[\"#,###\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.CONVERTED_QT_LT_KG",
+			"label": "CONVERTED_QT_LT_KG",
+			"origin": "CONVERTED_QT_LT_KG",
+			"showInExplorer": true
+		},
+		{
+			"description": "Converted dimension DUE_DATE1_Year",
+			"field": "DueDateYear",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Budget_COmpute.DueDateYear",
+			"label": "DueDateYear",
+			"origin": "DUE_DATE1_Year",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_GBP1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE_GBP1",
+			"label": "EXT_PRICE_GBP1",
+			"origin": "EXT_PRICE_GBP1",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_AUD1",
+			"format": {
+				"customFormat": "[\"##\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Budget_COmpute.EXT_PRICE_AUD1",
+			"label": "EXT_PRICE_AUD1",
+			"origin": "EXT_PRICE_AUD1",
+			"showInExplorer": true
+		}
+	],
+	"derivedMeasures": [
+		{
+			"field": "CountFinal",
+			"format": {
+				"customFormat": "[\"##.#%\",1]"
+			},
+			"label": "Count Final",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "DUE_DATE1",
+			"compact": false,
+			"fields": {
+				"day": "DUE_DATE1_Day",
+				"epochDay": "DUE_DATE1_day_epoch",
+				"epochSecond": "DUE_DATE1_sec_epoch",
+				"fiscalMonth": "DUE_DATE1_Month_Fiscal",
+				"fiscalQuarter": "DUE_DATE1_Quarter_Fiscal",
+				"fiscalWeek": "DUE_DATE1_Week_Fiscal",
+				"fiscalYear": "DUE_DATE1_Year_Fiscal",
+				"fullField": "DUE_DATE1",
+				"hour": "DUE_DATE1_Hour",
+				"minute": "DUE_DATE1_Minute",
+				"month": "DUE_DATE1_Month",
+				"quarter": "DUE_DATE1_Quarter",
+				"second": "DUE_DATE1_Second",
+				"week": "DUE_DATE1_Week",
+				"year": "DUE_DATE1_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 6,
+			"isYearEndFiscalYear": true,
+			"label": "DUE_DATE1",
+			"showInExplorer": true
+		}
+	]
+}

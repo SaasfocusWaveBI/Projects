@@ -1,0 +1,291 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Month",
+			"fullyQualifiedName": "Month",
+			"label": "Month",
+			"linkTemplateEnabled": true,
+			"origin": "Month",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_1",
+			"fullyQualifiedName": "Week_1",
+			"label": "Week_1",
+			"linkTemplateEnabled": true,
+			"origin": "Week_1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Year_1",
+			"fullyQualifiedName": "Year_1",
+			"label": "Year_1",
+			"linkTemplateEnabled": true,
+			"origin": "Year_1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week",
+			"label": "Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Year",
+			"label": "Week_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Quarter",
+			"label": "Week_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Month",
+			"label": "Week_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Week",
+			"label": "Week_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Day",
+			"label": "Week_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Hour",
+			"label": "Week_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Minute",
+			"label": "Week_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_Second",
+			"label": "Week_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date",
+			"label": "Date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Year",
+			"label": "Date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Quarter",
+			"label": "Date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Month",
+			"label": "Date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Week",
+			"label": "Date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Day",
+			"label": "Date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Hour",
+			"label": "Date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Minute",
+			"label": "Date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date_Second",
+			"label": "Date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"description": "Converted dimension Date_Day",
+			"field": "DateDay",
+			"format": {
+				"decimalDigits": 0,
+				"customFormat": "[\"\",1]"
+			},
+			"fullyQualifiedName": "digest.DateDay",
+			"label": "DateDay",
+			"origin": "Date_Day",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Week_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Week_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "Week",
+			"compact": false,
+			"fields": {
+				"day": "Week_Day",
+				"epochDay": "Week_day_epoch",
+				"epochSecond": "Week_sec_epoch",
+				"fullField": "Week",
+				"hour": "Week_Hour",
+				"minute": "Week_Minute",
+				"month": "Week_Month",
+				"quarter": "Week_Quarter",
+				"second": "Week_Second",
+				"week": "Week_Week",
+				"year": "Week_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Week",
+			"showInExplorer": true
+		},
+		{
+			"alias": "Date",
+			"compact": false,
+			"fields": {
+				"day": "Date_Day",
+				"epochDay": "Date_day_epoch",
+				"epochSecond": "Date_sec_epoch",
+				"fullField": "Date",
+				"hour": "Date_Hour",
+				"minute": "Date_Minute",
+				"month": "Date_Month",
+				"quarter": "Date_Quarter",
+				"second": "Date_Second",
+				"week": "Date_Week",
+				"year": "Date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Date",
+			"showInExplorer": true
+		}
+	]
+}

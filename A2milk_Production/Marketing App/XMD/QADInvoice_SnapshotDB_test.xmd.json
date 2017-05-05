@@ -1,0 +1,1857 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "STATE1",
+			"fullyQualifiedName": "Compute_Invoice.STATE1",
+			"label": "STATE1",
+			"linkTemplateEnabled": true,
+			"origin": "STATE1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "uniquekeyforupsert",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.uniquekeyforupsert",
+			"label": "uniquekeyforupsert",
+			"linkTemplateEnabled": true,
+			"origin": "uniquekeyforupsert",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PRODUCT_LINE_NAME",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PRODUCT_LINE_NAME",
+			"label": "PRODUCT_LINE_NAME",
+			"linkTemplateEnabled": true,
+			"origin": "PRODUCT_LINE_NAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CURRENCY1",
+			"fullyQualifiedName": "Compute_Invoice.CURRENCY1",
+			"label": "CURRENCY1",
+			"linkTemplateEnabled": true,
+			"origin": "CURRENCY1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE",
+			"label": "GL_EFF_DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Year",
+			"label": "GL_EFF_DATE_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Quarter",
+			"label": "GL_EFF_DATE_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Month",
+			"label": "GL_EFF_DATE_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Week",
+			"label": "GL_EFF_DATE_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Day",
+			"label": "GL_EFF_DATE_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Hour",
+			"label": "GL_EFF_DATE_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Minute",
+			"label": "GL_EFF_DATE_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "GL_EFF_DATE_Second",
+			"label": "GL_EFF_DATE_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE",
+			"label": "INVOICE_DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Year",
+			"label": "INVOICE_DATE_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Quarter",
+			"label": "INVOICE_DATE_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Month",
+			"label": "INVOICE_DATE_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Week",
+			"label": "INVOICE_DATE_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Day",
+			"label": "INVOICE_DATE_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Hour",
+			"label": "INVOICE_DATE_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Minute",
+			"label": "INVOICE_DATE_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_DATE_Second",
+			"label": "INVOICE_DATE_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week",
+			"fullyQualifiedName": "digest.Time.Week",
+			"label": "Time.Week",
+			"linkTemplateEnabled": true,
+			"origin": "Week",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Year",
+			"label": "Time.Week_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Quarter",
+			"label": "Time.Week_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Month",
+			"label": "Time.Week_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Week",
+			"label": "Time.Week_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Day",
+			"label": "Time.Week_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Hour",
+			"label": "Time.Week_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Minute",
+			"label": "Time.Week_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_Second",
+			"label": "Time.Week_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SALES_ORDER",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.SALES_ORDER",
+			"label": "SALES_ORDER",
+			"linkTemplateEnabled": true,
+			"origin": "SALES_ORDER",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMER",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.CUSTOMER",
+			"label": "CUSTOMER",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMER",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "TYPE",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.TYPE",
+			"label": "TYPE",
+			"linkTemplateEnabled": true,
+			"origin": "TYPE",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE",
+			"label": "ORDER_DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Year",
+			"label": "ORDER_DATE_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Quarter",
+			"label": "ORDER_DATE_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Month",
+			"label": "ORDER_DATE_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Week",
+			"label": "ORDER_DATE_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Day",
+			"label": "ORDER_DATE_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Hour",
+			"label": "ORDER_DATE_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Minute",
+			"label": "ORDER_DATE_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ORDER_DATE_Second",
+			"label": "ORDER_DATE_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PIH_ACCR_CC",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PIH_ACCR_CC",
+			"label": "PIH_ACCR_CC",
+			"linkTemplateEnabled": true,
+			"origin": "PIH_ACCR_CC",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PRODUCTNAME",
+			"fullyQualifiedName": "Compute_Invoice.PRODUCTNAME",
+			"label": "PRODUCTNAME",
+			"linkTemplateEnabled": true,
+			"origin": "PRODUCTNAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PRODUCT_NAME",
+			"fullyQualifiedName": "Com_Invoice.PRODUCT_NAME",
+			"label": "PRODUCT_NAME",
+			"linkTemplateEnabled": true,
+			"origin": "PRODUCT_NAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ITEM_NUMBER",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.ITEM_NUMBER",
+			"label": "ITEM_NUMBER",
+			"linkTemplateEnabled": true,
+			"origin": "ITEM_NUMBER",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PIH_ACCR_ACCT",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PIH_ACCR_ACCT",
+			"label": "PIH_ACCR_ACCT",
+			"linkTemplateEnabled": true,
+			"origin": "PIH_ACCR_ACCT",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ADDRESS",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.ADDRESS",
+			"label": "ADDRESS",
+			"linkTemplateEnabled": true,
+			"origin": "ADDRESS",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date",
+			"label": "Modified_Date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Year",
+			"label": "Modified_Date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Quarter",
+			"label": "Modified_Date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Month",
+			"label": "Modified_Date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Week",
+			"label": "Modified_Date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Day",
+			"label": "Modified_Date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Hour",
+			"label": "Modified_Date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Minute",
+			"label": "Modified_Date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Modified_Date_Second",
+			"label": "Modified_Date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMERS_NAME1",
+			"fullyQualifiedName": "Compute_Invoice.CUSTOMERS_NAME1",
+			"label": "CUSTOMERS_NAME1",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMERS_NAME1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "STATE",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.STATE",
+			"label": "STATE",
+			"linkTemplateEnabled": true,
+			"origin": "STATE",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Month",
+			"fullyQualifiedName": "digest.Time.Month",
+			"label": "Time.Month",
+			"linkTemplateEnabled": true,
+			"origin": "Month",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Week_1",
+			"fullyQualifiedName": "digest.Time.Week_1",
+			"label": "Time.Week_1",
+			"linkTemplateEnabled": true,
+			"origin": "Week_1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "POSTAL_CODE",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.POSTAL_CODE",
+			"label": "POSTAL_CODE",
+			"linkTemplateEnabled": true,
+			"origin": "POSTAL_CODE",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE",
+			"label": "SHIP_DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Year",
+			"label": "SHIP_DATE_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Quarter",
+			"label": "SHIP_DATE_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Month",
+			"label": "SHIP_DATE_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Week",
+			"label": "SHIP_DATE_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Day",
+			"label": "SHIP_DATE_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Hour",
+			"label": "SHIP_DATE_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Minute",
+			"label": "SHIP_DATE_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_DATE_Second",
+			"label": "SHIP_DATE_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CURRENCY",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.CURRENCY",
+			"label": "CURRENCY",
+			"linkTemplateEnabled": true,
+			"origin": "CURRENCY",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1",
+			"label": "DUE_DATE1",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Year",
+			"label": "DUE_DATE1_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Quarter",
+			"label": "DUE_DATE1_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Month",
+			"label": "DUE_DATE1_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Week",
+			"label": "DUE_DATE1_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Day",
+			"label": "DUE_DATE1_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Hour",
+			"label": "DUE_DATE1_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Minute",
+			"label": "DUE_DATE1_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Second",
+			"label": "DUE_DATE1_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Year_Fiscal",
+			"label": "DUE_DATE1_Year_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Quarter_Fiscal",
+			"label": "DUE_DATE1_Quarter_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Month_Fiscal",
+			"label": "DUE_DATE1_Month_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE1_Week_Fiscal",
+			"label": "DUE_DATE1_Week_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SITE",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.SITE",
+			"label": "SITE",
+			"linkTemplateEnabled": true,
+			"origin": "SITE",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE",
+			"label": "DUE_DATE",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Year",
+			"label": "DUE_DATE_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Quarter",
+			"label": "DUE_DATE_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Month",
+			"label": "DUE_DATE_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Week",
+			"label": "DUE_DATE_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Day",
+			"label": "DUE_DATE_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Hour",
+			"label": "DUE_DATE_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Minute",
+			"label": "DUE_DATE_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "DUE_DATE_Second",
+			"label": "DUE_DATE_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "INVOICE_NUMBER",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.INVOICE_NUMBER",
+			"label": "INVOICE_NUMBER",
+			"linkTemplateEnabled": true,
+			"origin": "INVOICE_NUMBER",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SKU_NAME",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.SKU_NAME",
+			"label": "SKU_NAME",
+			"linkTemplateEnabled": true,
+			"origin": "SKU_NAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Year_1",
+			"fullyQualifiedName": "digest.Time.Year_1",
+			"label": "Time.Year_1",
+			"linkTemplateEnabled": true,
+			"origin": "Year_1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date",
+			"label": "LastModified_Date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Year",
+			"label": "LastModified_Date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Quarter",
+			"label": "LastModified_Date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Month",
+			"label": "LastModified_Date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Week",
+			"label": "LastModified_Date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Day",
+			"label": "LastModified_Date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Hour",
+			"label": "LastModified_Date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Minute",
+			"label": "LastModified_Date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "LastModified_Date_Second",
+			"label": "LastModified_Date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SHIP_TO",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.SHIP_TO",
+			"label": "SHIP_TO",
+			"linkTemplateEnabled": true,
+			"origin": "SHIP_TO",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CUSTOMER_NAME",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.CUSTOMER_NAME",
+			"label": "CUSTOMER_NAME",
+			"linkTemplateEnabled": true,
+			"origin": "CUSTOMER_NAME",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date",
+			"label": "Time.Date",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Year",
+			"label": "Time.Date_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Quarter",
+			"label": "Time.Date_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Month",
+			"label": "Time.Date_Month",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Week",
+			"label": "Time.Date_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Day",
+			"label": "Time.Date_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Hour",
+			"label": "Time.Date_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Minute",
+			"label": "Time.Date_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Time.Date_Second",
+			"label": "Time.Date_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "PIH_ACCR_SUB",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PIH_ACCR_SUB",
+			"label": "PIH_ACCR_SUB",
+			"linkTemplateEnabled": true,
+			"origin": "PIH_ACCR_SUB",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "UNIT_OF_MEASUREMENT",
+			"fullyQualifiedName": "Dataset_on_duedate_2017.UNIT_OF_MEASUREMENT",
+			"label": "UNIT_OF_MEASUREMENT",
+			"linkTemplateEnabled": true,
+			"origin": "UNIT_OF_MEASUREMENT",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "EXT_PRICE_NZD",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE_NZD",
+			"label": "EXT_PRICE_NZD",
+			"origin": "EXT_PRICE_NZD",
+			"showInExplorer": true
+		},
+		{
+			"field": "Converted_KG",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.Converted_KG",
+			"label": "Converted_KG",
+			"origin": "Converted_KG",
+			"showInExplorer": true
+		},
+		{
+			"field": "QTY_INV_CT",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.QTY_INV_CT",
+			"label": "QTY_INV_CT",
+			"origin": "QTY_INV_CT",
+			"showInExplorer": true
+		},
+		{
+			"field": "PIH_DOC_TYPE",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PIH_DOC_TYPE",
+			"label": "PIH_DOC_TYPE",
+			"origin": "PIH_DOC_TYPE",
+			"showInExplorer": true
+		},
+		{
+			"field": "GL_EFF_DATE_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "GL_EFF_DATE_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "GL_EFF_DATE_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "GL_EFF_DATE_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "INVOICE_DATE_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "INVOICE_DATE_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "INVOICE_DATE_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "INVOICE_DATE_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Time.Week_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Time.Week_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Time.Week_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Time.Week_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "CONVERTED_QT_LT_KG",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.CONVERTED_QT_LT_KG",
+			"label": "CONVERTED_QT_LT_KG",
+			"origin": "CONVERTED_QT_LT_KG",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_AUD",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE_AUD",
+			"label": "EXT_PRICE_AUD",
+			"origin": "EXT_PRICE_AUD",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_AUD1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE_AUD1",
+			"label": "EXT_PRICE_AUD1",
+			"origin": "EXT_PRICE_AUD1",
+			"showInExplorer": true
+		},
+		{
+			"field": "ORDER_DATE_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "ORDER_DATE_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "ORDER_DATE_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "ORDER_DATE_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "PRICE",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PRICE",
+			"label": "PRICE",
+			"origin": "PRICE",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_GBP",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE_GBP",
+			"label": "EXT_PRICE_GBP",
+			"origin": "EXT_PRICE_GBP",
+			"showInExplorer": true
+		},
+		{
+			"field": "QTY_INV_LITRES",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.QTY_INV_LITRES",
+			"label": "QTY_INV_LITRES",
+			"origin": "QTY_INV_LITRES",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_USD1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE_USD1",
+			"label": "EXT_PRICE_USD1",
+			"origin": "EXT_PRICE_USD1",
+			"showInExplorer": true
+		},
+		{
+			"field": "MARGIN",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.MARGIN",
+			"label": "MARGIN",
+			"origin": "MARGIN",
+			"showInExplorer": true
+		},
+		{
+			"field": "CONVERTED_QTY_LTR_KG",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.CONVERTED_QTY_LTR_KG",
+			"label": "CONVERTED_QTY_LTR_KG",
+			"origin": "CONVERTED_QTY_LTR_KG",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_USD",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE_USD",
+			"label": "EXT_PRICE_USD",
+			"origin": "EXT_PRICE_USD",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXTCOST",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXTCOST",
+			"label": "EXTCOST",
+			"origin": "EXTCOST",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_GBP1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE_GBP1",
+			"label": "EXT_PRICE_GBP1",
+			"origin": "EXT_PRICE_GBP1",
+			"showInExplorer": true
+		},
+		{
+			"field": "Modified_Date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Modified_Date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Modified_Date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Modified_Date_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"description": "Converted dimension DUE_DATE_Year",
+			"field": "DUE_DATE_Year_new",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "digest.DUE_DATE_Year_new",
+			"label": "DUE_DATE_Year_new",
+			"origin": "DUE_DATE_Year",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_EUR1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE_EUR1",
+			"label": "EXT_PRICE_EUR1",
+			"origin": "EXT_PRICE_EUR1",
+			"showInExplorer": true
+		},
+		{
+			"field": "COST",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.COST",
+			"label": "COST",
+			"origin": "COST",
+			"showInExplorer": true
+		},
+		{
+			"field": "LINE",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 0
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.LINE",
+			"label": "LINE",
+			"origin": "LINE",
+			"showInExplorer": true
+		},
+		{
+			"field": "SHIP_DATE_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "SHIP_DATE_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "SHIP_DATE_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "SHIP_DATE_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "KG",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.KG",
+			"label": "KG",
+			"origin": "KG",
+			"showInExplorer": true
+		},
+		{
+			"field": "DUE_DATE1_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE1_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "DUE_DATE1_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE1_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "DUE_DATE_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "DUE_DATE_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "DUE_DATE_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_NZD1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE_NZD1",
+			"label": "EXT_PRICE_NZD1",
+			"origin": "EXT_PRICE_NZD1",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE",
+			"label": "EXT_PRICE",
+			"origin": "EXT_PRICE",
+			"showInExplorer": true
+		},
+		{
+			"field": "LTR_CTN",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.LTR_CTN",
+			"label": "LTR_CTN",
+			"origin": "LTR_CTN",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE_EUR",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.EXT_PRICE_EUR",
+			"label": "EXT_PRICE_EUR",
+			"origin": "EXT_PRICE_EUR",
+			"showInExplorer": true
+		},
+		{
+			"field": "EXT_PRICE1",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.EXT_PRICE1",
+			"label": "EXT_PRICE1",
+			"origin": "EXT_PRICE1",
+			"showInExplorer": true
+		},
+		{
+			"field": "LastModified_Date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "LastModified_Date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "LastModified_Date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "LastModified_Date_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "MARGIN_PERCENTAGE",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.MARGIN_PERCENTAGE",
+			"label": "MARGIN_PERCENTAGE",
+			"origin": "MARGIN_PERCENTAGE",
+			"showInExplorer": true
+		},
+		{
+			"field": "QTY_IN_LITRES",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute_Invoice.QTY_IN_LITRES",
+			"label": "QTY_IN_LITRES",
+			"origin": "QTY_IN_LITRES",
+			"showInExplorer": true
+		},
+		{
+			"field": "Time.Date_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Time.Date_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Time.Date_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Time.Date_sec_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "PIH_AMT",
+			"format": {
+				"customFormat": "[\"\",1]",
+				"decimalDigits": 5
+			},
+			"fullyQualifiedName": "Dataset_on_duedate_2017.PIH_AMT",
+			"label": "PIH_AMT",
+			"origin": "PIH_AMT",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "GL_EFF_DATE",
+			"compact": false,
+			"fields": {
+				"day": "GL_EFF_DATE_Day",
+				"epochDay": "GL_EFF_DATE_day_epoch",
+				"epochSecond": "GL_EFF_DATE_sec_epoch",
+				"fullField": "GL_EFF_DATE",
+				"hour": "GL_EFF_DATE_Hour",
+				"minute": "GL_EFF_DATE_Minute",
+				"month": "GL_EFF_DATE_Month",
+				"quarter": "GL_EFF_DATE_Quarter",
+				"second": "GL_EFF_DATE_Second",
+				"week": "GL_EFF_DATE_Week",
+				"year": "GL_EFF_DATE_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "GL_EFF_DATE",
+			"showInExplorer": true
+		},
+		{
+			"alias": "INVOICE_DATE",
+			"compact": false,
+			"fields": {
+				"day": "INVOICE_DATE_Day",
+				"epochDay": "INVOICE_DATE_day_epoch",
+				"epochSecond": "INVOICE_DATE_sec_epoch",
+				"fullField": "INVOICE_DATE",
+				"hour": "INVOICE_DATE_Hour",
+				"minute": "INVOICE_DATE_Minute",
+				"month": "INVOICE_DATE_Month",
+				"quarter": "INVOICE_DATE_Quarter",
+				"second": "INVOICE_DATE_Second",
+				"week": "INVOICE_DATE_Week",
+				"year": "INVOICE_DATE_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "INVOICE_DATE",
+			"showInExplorer": true
+		},
+		{
+			"alias": "Time.Week",
+			"compact": false,
+			"fields": {
+				"day": "Time.Week_Day",
+				"epochDay": "Time.Week_day_epoch",
+				"epochSecond": "Time.Week_sec_epoch",
+				"fullField": "Time.Week",
+				"hour": "Time.Week_Hour",
+				"minute": "Time.Week_Minute",
+				"month": "Time.Week_Month",
+				"quarter": "Time.Week_Quarter",
+				"second": "Time.Week_Second",
+				"week": "Time.Week_Week",
+				"year": "Time.Week_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Time.Week",
+			"showInExplorer": true
+		},
+		{
+			"alias": "ORDER_DATE",
+			"compact": false,
+			"fields": {
+				"day": "ORDER_DATE_Day",
+				"epochDay": "ORDER_DATE_day_epoch",
+				"epochSecond": "ORDER_DATE_sec_epoch",
+				"fullField": "ORDER_DATE",
+				"hour": "ORDER_DATE_Hour",
+				"minute": "ORDER_DATE_Minute",
+				"month": "ORDER_DATE_Month",
+				"quarter": "ORDER_DATE_Quarter",
+				"second": "ORDER_DATE_Second",
+				"week": "ORDER_DATE_Week",
+				"year": "ORDER_DATE_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "ORDER_DATE",
+			"showInExplorer": true
+		},
+		{
+			"alias": "Modified_Date",
+			"compact": false,
+			"fields": {
+				"day": "Modified_Date_Day",
+				"epochDay": "Modified_Date_day_epoch",
+				"epochSecond": "Modified_Date_sec_epoch",
+				"fullField": "Modified_Date",
+				"hour": "Modified_Date_Hour",
+				"minute": "Modified_Date_Minute",
+				"month": "Modified_Date_Month",
+				"quarter": "Modified_Date_Quarter",
+				"second": "Modified_Date_Second",
+				"week": "Modified_Date_Week",
+				"year": "Modified_Date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "Modified_Date",
+			"showInExplorer": true
+		},
+		{
+			"alias": "SHIP_DATE",
+			"compact": false,
+			"fields": {
+				"day": "SHIP_DATE_Day",
+				"epochDay": "SHIP_DATE_day_epoch",
+				"epochSecond": "SHIP_DATE_sec_epoch",
+				"fullField": "SHIP_DATE",
+				"hour": "SHIP_DATE_Hour",
+				"minute": "SHIP_DATE_Minute",
+				"month": "SHIP_DATE_Month",
+				"quarter": "SHIP_DATE_Quarter",
+				"second": "SHIP_DATE_Second",
+				"week": "SHIP_DATE_Week",
+				"year": "SHIP_DATE_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "SHIP_DATE",
+			"showInExplorer": true
+		},
+		{
+			"alias": "DUE_DATE1",
+			"compact": false,
+			"fields": {
+				"day": "DUE_DATE1_Day",
+				"epochDay": "DUE_DATE1_day_epoch",
+				"epochSecond": "DUE_DATE1_sec_epoch",
+				"fiscalMonth": "DUE_DATE1_Month_Fiscal",
+				"fiscalQuarter": "DUE_DATE1_Quarter_Fiscal",
+				"fiscalWeek": "DUE_DATE1_Week_Fiscal",
+				"fiscalYear": "DUE_DATE1_Year_Fiscal",
+				"fullField": "DUE_DATE1",
+				"hour": "DUE_DATE1_Hour",
+				"minute": "DUE_DATE1_Minute",
+				"month": "DUE_DATE1_Month",
+				"quarter": "DUE_DATE1_Quarter",
+				"second": "DUE_DATE1_Second",
+				"week": "DUE_DATE1_Week",
+				"year": "DUE_DATE1_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 6,
+			"isYearEndFiscalYear": true,
+			"label": "DUE_DATE1",
+			"showInExplorer": true
+		},
+		{
+			"alias": "DUE_DATE",
+			"compact": false,
+			"fields": {
+				"day": "DUE_DATE_Day",
+				"epochDay": "DUE_DATE_day_epoch",
+				"epochSecond": "DUE_DATE_sec_epoch",
+				"fullField": "DUE_DATE",
+				"hour": "DUE_DATE_Hour",
+				"minute": "DUE_DATE_Minute",
+				"month": "DUE_DATE_Month",
+				"quarter": "DUE_DATE_Quarter",
+				"second": "DUE_DATE_Second",
+				"week": "DUE_DATE_Week",
+				"year": "DUE_DATE_Year"
+			},
+			"firstDayOfWeek": 1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "DUE_DATE",
+			"showInExplorer": true
+		},
+		{
+			"alias": "LastModified_Date",
+			"compact": false,
+			"fields": {
+				"day": "LastModified_Date_Day",
+				"epochDay": "LastModified_Date_day_epoch",
+				"epochSecond": "LastModified_Date_sec_epoch",
+				"fullField": "LastModified_Date",
+				"hour": "LastModified_Date_Hour",
+				"minute": "LastModified_Date_Minute",
+				"month": "LastModified_Date_Month",
+				"quarter": "LastModified_Date_Quarter",
+				"second": "LastModified_Date_Second",
+				"week": "LastModified_Date_Week",
+				"year": "LastModified_Date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": false,
+			"label": "LastModified_Date",
+			"showInExplorer": true
+		},
+		{
+			"alias": "Time.Date",
+			"compact": false,
+			"fields": {
+				"day": "Time.Date_Day",
+				"epochDay": "Time.Date_day_epoch",
+				"epochSecond": "Time.Date_sec_epoch",
+				"fullField": "Time.Date",
+				"hour": "Time.Date_Hour",
+				"minute": "Time.Date_Minute",
+				"month": "Time.Date_Month",
+				"quarter": "Time.Date_Quarter",
+				"second": "Time.Date_Second",
+				"week": "Time.Date_Week",
+				"year": "Time.Date_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 0,
+			"isYearEndFiscalYear": true,
+			"label": "Time.Date",
+			"showInExplorer": true
+		}
+	]
+}

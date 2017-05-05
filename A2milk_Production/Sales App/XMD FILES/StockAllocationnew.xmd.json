@@ -1,0 +1,415 @@
+{
+	"dimensions": [
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CCH.Customer_Group",
+			"fullyQualifiedName": "Compute1.CCH.Customer_Group",
+			"label": "CCH.Customer_Group",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Group",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Product1",
+			"fullyQualifiedName": "ComputeDimension.Product1",
+			"label": "Product Name",
+			"linkTemplateEnabled": true,
+			"origin": "Product1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer",
+			"fullyQualifiedName": "Compute1.Customer",
+			"label": "Customer",
+			"linkTemplateEnabled": true,
+			"origin": "Customer",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CCH.Domain",
+			"fullyQualifiedName": "Compute1.CCH.Domain",
+			"label": "CCH.Domain",
+			"linkTemplateEnabled": true,
+			"origin": "Domain",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CCH.Customer_Type",
+			"fullyQualifiedName": "Compute1.CCH.Customer_Type",
+			"label": "CCH.Customer_Type",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Type",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Product",
+			"fullyQualifiedName": "ComputeDimension.Product",
+			"label": "Product Group",
+			"linkTemplateEnabled": true,
+			"origin": "Product",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CCH.Customer",
+			"fullyQualifiedName": "Compute1.CCH.Customer",
+			"label": "CCH.Customer",
+			"linkTemplateEnabled": true,
+			"origin": "Customer",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1",
+			"label": "Date1",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Year",
+			"label": "Date1_Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Quarter",
+			"label": "Date1_Quarter",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Month",
+			"label": "Month",
+			"linkTemplateEnabled": true,
+			"members": [
+				{
+					"label": "Jan",
+					"member": "01"
+				},
+				{
+					"label": "Feb",
+					"member": "02"
+				},
+				{
+					"label": "Mar",
+					"member": "03"
+				},
+				{
+					"label": "Apr",
+					"member": "04"
+				},
+				{
+					"label": "May",
+					"member": "05"
+				},
+				{
+					"label": "Jun",
+					"member": "06"
+				},
+				{
+					"label": "Jul",
+					"member": "07"
+				},
+				{
+					"label": "Aug",
+					"member": "08"
+				},
+				{
+					"label": "Sep",
+					"member": "09"
+				},
+				{
+					"label": "Oct",
+					"member": "10"
+				},
+				{
+					"label": "Nov",
+					"member": "11"
+				},
+				{
+					"label": "Dec",
+					"member": "12"
+				}
+			],
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Week",
+			"label": "Date1_Week",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Day",
+			"label": "Date1_Day",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Hour",
+			"label": "Date1_Hour",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Minute",
+			"label": "Date1_Minute",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Second",
+			"label": "Date1_Second",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Year_Fiscal",
+			"label": "Year",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Quarter_Fiscal",
+			"label": "Date1_Quarter_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Month_Fiscal",
+			"label": "Date1_Month_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Date1_Week_Fiscal",
+			"label": "Date1_Week_Fiscal",
+			"linkTemplateEnabled": true,
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Customer_Group",
+			"fullyQualifiedName": "ComputeDimension.Customer_Group",
+			"label": "Customer_Group",
+			"linkTemplateEnabled": true,
+			"origin": "Customer_Group",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ProductGroupNew",
+			"fullyQualifiedName": "Compute1.ProductGroupNew",
+			"label": "ProductGroupNew",
+			"linkTemplateEnabled": true,
+			"origin": "ProductGroupNew",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Week_New",
+			"fullyQualifiedName": "ComputeDimension.Week_New",
+			"label": "Week",
+			"linkTemplateEnabled": true,
+			"origin": "Week_New",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Domain1",
+			"fullyQualifiedName": "ComputeDimension.Domain1",
+			"label": "Domain1",
+			"linkTemplateEnabled": true,
+			"origin": "Domain1",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CCH.CustomerNew",
+			"fullyQualifiedName": "Compute1.CCH.CustomerNew",
+			"label": "CCH.CustomerNew",
+			"linkTemplateEnabled": true,
+			"origin": "CustomerNew",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "CustomerT",
+			"fullyQualifiedName": "ComputeDimension.CustomerT",
+			"label": "Customer Type",
+			"linkTemplateEnabled": true,
+			"origin": "CustomerT",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Confirmed",
+			"fullyQualifiedName": "Compute1.Confirmed",
+			"label": "Confirmed",
+			"linkTemplateEnabled": true,
+			"origin": "Confirmed",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "Confirmed_New",
+			"fullyQualifiedName": "ComputeDimension.Confirmed_New",
+			"label": "Confirmed_New",
+			"linkTemplateEnabled": true,
+			"origin": "Confirmed_New",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "ProductNew",
+			"fullyQualifiedName": "Compute1.ProductNew",
+			"label": "ProductNew",
+			"linkTemplateEnabled": true,
+			"origin": "ProductNew",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		},
+		{
+			"customActions": [],
+			"customActionsEnabled": true,
+			"field": "SalesOrder",
+			"fullyQualifiedName": "Compute1.SalesOrder",
+			"label": "SalesOrder",
+			"linkTemplateEnabled": true,
+			"origin": "SalesOrder",
+			"salesforceActionsEnabled": true,
+			"showInExplorer": true
+		}
+	],
+	"measures": [
+		{
+			"field": "Quantity",
+			"format": {
+				"customFormat": "[\"#,#\",1]",
+				"decimalDigits": 2
+			},
+			"fullyQualifiedName": "Compute1.Quantity",
+			"label": "Quantity",
+			"origin": "Quantity",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date1_day_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date1_day_epoch",
+			"showInExplorer": true
+		},
+		{
+			"field": "Date1_sec_epoch",
+			"format": {
+				"customFormat": "[\"\",1]"
+			},
+			"label": "Date1_sec_epoch",
+			"showInExplorer": true
+		}
+	],
+	"dates": [
+		{
+			"alias": "Date1",
+			"compact": false,
+			"fields": {
+				"day": "Date1_Day",
+				"epochDay": "Date1_day_epoch",
+				"epochSecond": "Date1_sec_epoch",
+				"fiscalMonth": "Date1_Month_Fiscal",
+				"fiscalQuarter": "Date1_Quarter_Fiscal",
+				"fiscalWeek": "Date1_Week_Fiscal",
+				"fiscalYear": "Year",
+				"fullField": "Date1",
+				"hour": "Date1_Hour",
+				"minute": "Date1_Minute",
+				"month": "Month",
+				"quarter": "Date1_Quarter",
+				"second": "Date1_Second",
+				"week": "Date1_Week",
+				"year": "Date1_Year"
+			},
+			"firstDayOfWeek": -1,
+			"fiscalMonthOffset": 6,
+			"isYearEndFiscalYear": true,
+			"label": "Date1",
+			"showInExplorer": true
+		}
+	]
+}
