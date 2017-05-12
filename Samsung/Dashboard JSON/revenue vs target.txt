@@ -1,0 +1,572 @@
+{
+    "label": "Revenue vs Target Security",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 12,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 12,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 2,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "pillbox_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "listselector_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 1,
+                                "name": "listselector_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 2,
+                                "name": "listselector_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 3,
+                                "name": "listselector_5",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 4,
+                                "name": "listselector_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "step_type_select_1": {
+                "datasets": [],
+                "dimensions": [],
+                "groups": [],
+                "isFacet": false,
+                "isGlobal": false,
+                "numbers": [],
+                "selectMode": "singlerequired",
+                "start": {
+                    "display": [
+                        "State"
+                    ]
+                },
+                "strings": [],
+                "type": "staticflex",
+                "useGlobal": false,
+                "values": [
+                    {
+                        "display": "State",
+                        "value": "account.Account_Team__c",
+                        "value1": "Account.Account_Team__c",
+                        "expression": "'account.Account_Team__c'",
+                        "alias": "STATE",
+                        "expression1": "'Account.Account_Team__c'"
+                    },
+                    {
+                        "display": "Store Name",
+                        "value": "CHANNEL",
+                        "value1": "SF_NAME",
+                        "expression": "CHANNEL",
+                        "alias": "CHANNEL",
+                        "expression1": "SF_NAME"
+                    },
+                    {
+                        "display": "User",
+                        "value": "Target.FTM",
+                        "value1": "FTM",
+                        "expression": "'Target.FTM'",
+                        "alias": "FTM",
+                        "expression1": "FTM"
+                    }
+                ]
+            },
+            "Check_In_Date_Time___3": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date_Time__c_Month"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "WEEK_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YySAI",
+                        "label": "MCS_Data",
+                        "name": "MCS_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "WEEK"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"test_role_201712\";a=filter q by date('Check_In_Date_Time__c_Year', 'Check_In_Date_Time__c_Month', 'Check_In_Date_Time__c_Day') in [\"current quarter\"..\"current quarter\"];\na=group a by Check_In_Date_Time__c_Quarter;\na=foreach a generate Check_In_Date_Time__c_Quarter as Check_In_Date_Time__c_Quarter, 1 as count1;\nb=group q by Check_In_Date_Time__c_Quarter;\nb= foreach b generate Check_In_Date_Time__c_Quarter as Check_In_Date_Time__c_Quarter, 0 as count1;\nc=union a,b;\nc=group c by Check_In_Date_Time__c_Quarter;\nc=foreach c generate Check_In_Date_Time__c_Quarter as Check_In_Date_Time__c_Quarter, sum(count1) as count1;\nc=order c  by count1 desc;\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date_Time__c_Quarter"
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"test_role_201712\";a=filter q by date('Check_In_Date_Time__c_Year', 'Check_In_Date_Time__c_Month', 'Check_In_Date_Time__c_Day') in [\"current year\"..\"current year\"];\na=group a by Check_In_Date_Time__c_Year;\na=foreach a generate Check_In_Date_Time__c_Year as Check_In_Date_Time__c_Year, 1 as count1;\nb=group q by Check_In_Date_Time__c_Year;\nb= foreach b generate Check_In_Date_Time__c_Year as Check_In_Date_Time__c_Year, 0 as count1;\nc=union a,b;\nc=group c by Check_In_Date_Time__c_Year;\nc=foreach c generate Check_In_Date_Time__c_Year as Check_In_Date_Time__c_Year, sum(count1) as count1;\nc=order c  by count1 desc;\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date_Time__c_Year"
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "WEEK_STATE_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YySAI",
+                        "label": "MCS_Data",
+                        "name": "MCS_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+                    },
+                    {
+                        "id": "0Fb6F00000000cASAQ",
+                        "label": "Quarterly_Target",
+                        "name": "Quarterly_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"MCS_Data\";q=filter q by {{column(CHANNEL_1.selection,[\"Sales_Name__c\"]).asEquality(\"CHANNEL\")}};q=filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date_Time__c_Year\"]).asEquality(\"Time.Date_Year\")}};q=filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date_Time__c_Quarter\"]).asEquality(\"Time.Date_Quarter\")}};q=filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date_Time__c_Month\"]).asEquality(\"Time.Date_Month\")}};q=filter q by {{column(Check_In_Date_Time___4.selection,[\"Check_In_Date_Time__c_Week\"]).asEquality(\"Time.Date_Week\")}};q = group q by {{column(step_type_select_1.selection, [\"value\"]).asGrouping()}};q = foreach q generate {{row(step_type_select_1.selection, [], [\"expression\",\"alias\"]).asProjection()}}, sum('Revenue') as 'Revenue';q = order q by 'Revenue' desc;a=load \"Quarterly_Target\";a=filter a by {{column(CHANNEL_1.selection,[\"Sales_Name__c\"]).asEquality(\"STORE_NAME\")}};a=filter a by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date_Time__c_Year\"]).asEquality(\"time.Date_Year\")}};a=filter a by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date_Time__c_Quarter\"]).asEquality(\"time.Date_Quarter\")}};a=filter a by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date_Time__c_Month\"]).asEquality(\"time.Date_Month\")}};a=filter a by {{column(Check_In_Date_Time___4.selection,[\"Check_In_Date_Time__c_Week\"]).asEquality(\"time.Date_Week\")}};a=group a by {{column(step_type_select_1.selection, [\"value1\"]).asGrouping()}};;a = foreach a generate {{row(step_type_select_1.selection, [], [\"expression1\",\"alias\"]).asProjection()}}, sum('Sum_Target') as 'Target';a = order a by 'Target' desc;c=group q by {{column(step_type_select_1.selection, [\"alias\"]).asObject()}}, a by {{column(step_type_select_1.selection, [\"alias\"]).asObject()}};c=foreach c generate a.{{column(step_type_select_1.selection, [\"alias\"]).asObject()}} as '{{column(step_type_select_1.selection, [\"display\"]).asObject()}}',sum(q[Revenue]) as sum_Revenue,sum(a[Target]) as sum_Target;",
+                    "measures": [
+                        [
+                            "sum",
+                            "Revenue"
+                        ],
+                        [
+                            "sum",
+                            "Target"
+                        ]
+                    ],
+                    "groups": [
+                        "{{column(step_type_select_1.selection, [\"display\"]).asObject()}}"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___4": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date_Time__c_Week"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "user_Name_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "user.Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CHANNEL_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YUSAY",
+                        "label": "accountsalesname_filter",
+                        "name": "accountsalesname_filter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YUSAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Sales_Name__c"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___2",
+                    "title": "Quarter"
+                },
+                "type": "listselector"
+            },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "step": "step_type_select_1"
+                },
+                "type": "pillbox"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___1",
+                    "title": "Year"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___4",
+                    "title": "Week"
+                },
+                "type": "listselector"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___3",
+                    "title": "Month"
+                },
+                "type": "listselector"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "CHANNEL_1",
+                    "title": "Store Name"
+                },
+                "type": "listselector"
+            },
+            "chart_1": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": true,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "WEEK_STATE_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb6F00000000cASAQ",
+            "label": "Quarterly_Target",
+            "name": "Quarterly_Target",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+        },
+        {
+            "id": "0Fb6F00000001SESAY",
+            "label": "test_role_201712",
+            "name": "test_role_201712",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+        },
+        {
+            "id": "0Fb6F00000001YUSAY",
+            "label": "accountsalesname_filter",
+            "name": "accountsalesname_filter",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YUSAY"
+        },
+        {
+            "id": "0Fb6F00000001YySAI",
+            "label": "MCS_Data",
+            "name": "MCS_Data",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+        }
+    ]
+}

@@ -1,0 +1,3176 @@
+{
+    "label": "Territory Manager Scorecard- Security",
+    "state": {
+        "dataSourceLinks": [],
+        "gridLayouts": [
+            {
+                "name": "Default",
+                "numColumns": 15,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 15,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 12,
+                                "name": "chart_1",
+                                "row": 10,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 6,
+                                "name": "chart_6",
+                                "row": 10,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 9,
+                                "name": "chart_7",
+                                "row": 10,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 13,
+                                "name": "listselector_1",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 13,
+                                "name": "listselector_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 3,
+                                "name": "link_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#44A2F5",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 5,
+                                "name": "link_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#44A2F5",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 7,
+                                "name": "link_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#44A2F5",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 0,
+                                "name": "chart_8",
+                                "row": 10,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_7",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 11,
+                                "name": "listselector_8",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "listselector_9",
+                                "row": 1,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "chart_10",
+                                "row": 4,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "container_2",
+                                "row": 15,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "text_1",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "container_3",
+                                "row": 15,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "chart_13",
+                                "row": 16,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 12,
+                                "name": "listselector_14",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 3,
+                                "name": "chart_14",
+                                "row": 11,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ]
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "chart_16",
+                                "row": 16,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "chart_12",
+                                "row": 4,
+                                "rowspan": 6,
+                                "widgetStyle": {
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 13,
+                                "name": "listselector_13",
+                                "row": 2,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "container_4",
+                                "row": 3,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "container_5",
+                                "row": 3,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 7,
+                                "column": 8,
+                                "name": "text_3",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 0,
+                                "name": "text_4",
+                                "row": 15,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "bottom"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 2
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 9,
+                                "name": "link_4",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#44A2F5",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
+                                "colspan": 3,
+                                "column": 3,
+                                "name": "number_1",
+                                "row": 10,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#7D98B3",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 0,
+                                    "borderWidth": 1
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "version": 1
+            },
+            {
+                "name": "Anaroid Phone",
+                "numColumns": 2,
+                "pages": [
+                    {
+                        "widgets": [
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "image_1",
+                                "row": 0,
+                                "rowspan": 3,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "listselector_4",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 1,
+                                "name": "listselector_2",
+                                "row": 3,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "listselector_5",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 1,
+                                "name": "listselector_1",
+                                "row": 4,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 0,
+                                "name": "listselector_6",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 1,
+                                "column": 1,
+                                "name": "listselector_3",
+                                "row": 5,
+                                "rowspan": 1,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "container_1",
+                                "row": 0,
+                                "rowspan": 7,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_4",
+                                "row": 7,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_2",
+                                "row": 11,
+                                "rowspan": 4,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_8",
+                                "row": 15,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_1",
+                                "row": 25,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_6",
+                                "row": 30,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 0,
+                                "name": "chart_7",
+                                "row": 35,
+                                "rowspan": 5,
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "rowHeight": "normal",
+                "selectors": [
+                    "maxWidth(599)"
+                ],
+                "style": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "backgroundColor": "#F2F6FA",
+                    "cellSpacingX": 8,
+                    "cellSpacingY": 8,
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "version": 1
+            }
+        ],
+        "layouts": [],
+        "steps": {
+            "Traning_Products__c_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000ugSAA",
+                        "label": "final_data_201712",
+                        "name": "final_data_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000ugSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "Traning.Id"
+                        ]
+                    ],
+                    "groups": [
+                        "Traning.Products__c"
+                    ],
+                    "filters": [
+                        [
+                            "Account.Name",
+                            "{{column(StoreName_2.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.BillingState",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "user.Name",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Quarter",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "vbar",
+                    "options": {}
+                }
+            },
+            "Score_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001iFSAQ",
+                        "label": "mystery_data_security",
+                        "name": "mystery_data_security",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001iFSAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Score"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "StoreName",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "State",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "Current_TM",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "ShopDate_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "ShopDate_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "ShopDate_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "ShopDate_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "StoreName_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000zFSAQ",
+                        "label": "Account main",
+                        "name": "Account_main",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000zFSAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Project_Final_Status_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YASAY",
+                        "label": "Userfilter_security",
+                        "name": "Userfilter_security",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YASAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "Donut.Name"
+                        ]
+                    ],
+                    "groups": [
+                        "Donut.Project_Final_Status__c"
+                    ],
+                    "filters": [
+                        [
+                            "Donut.Plan_Approval__c",
+                            [
+                                "Yes"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "Donut.Plan_Time_Frame_Start__c_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Donut.Plan_Time_Frame_Start__c_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "Donut.Plan_Time_Frame_Start__c_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Donut.Plan_Time_Frame_Start__c_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "FTM.Name",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "ShippingState",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "Name",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Difference": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000cASAQ",
+                        "label": "Quarterly_Target",
+                        "name": "Quarterly_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"Quarterly_Target\";q=foreach q generate {{coalesce(cell(Revenue_1.result,0,\"sum_Revenue\"),0).asObject()}} - {{coalesce(cell(Sum_Target_1.result,0,\"sum_Sum_Target\"),0).asObject()}} as Difference;;q=foreach q generate coalesce(sum(Difference),0) as Difference, (case when Difference > 0 then \"#55FF55\" else \"#FF5555\" end) as 'color'",
+                    "measures": [
+                        "Difference"
+                    ],
+                    "filters": [
+                        [
+                            "FTM",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "SF_NAME",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "State",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "UserFTM_Name_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F000000019sSAA",
+                        "label": "user_filter",
+                        "name": "user_filter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F000000019sSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "UserFTM.Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "T_Date_Year___T_Date_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h4SAA",
+                        "label": "sellthrough_target_FTM",
+                        "name": "sellthrough_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h4SAA"
+                    },
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"sellout_target_FTM\";q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"STATE\")}};q=filter q by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"target.FTM\")}};q=filter q by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"CHANNEL\")}};q = filter q by {{column(T_Date_Year_1.selection,[\"T.Date_Year\"]).asEquality(\"T.Date_Year\")}};q = filter q by {{column(T_Date_Month_1.selection,[\"T.Date_Month\"]).asEquality(\"T.Date_Month\")}};q = filter q by {{column(T_Date_Week_1.selection,[\"T.Date_Week\"]).asEquality(\"T.Date_Week\")}};q=group q by ('T.Date_Year', 'T.Date_Week');q=foreach q generate 'T.Date_Year' + \"~~~\" + 'T.Date_Week' as 'T.Date_Year~~~T.Date_Week',cumulative(RRP_AMT_LOC) as Revenue;a=load \"sellthrough_target_FTM\";a=filter a by {{column(STATE_1.selection,[\"STATE\"]).asEquality(\"TO_STATE\")}};a=filter a by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"target.FTM\")}};a=filter a by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"TO_CHANNEL_NM\")}};a = filter a by {{column(T_Date_Year_1.selection,[\"T.Date_Year\"]).asEquality(\"T.Date_Year\")}};a = filter a by {{column(T_Date_Month_1.selection,[\"T.Date_Month\"]).asEquality(\"T.Date_Month\")}};a = filter a by {{column(T_Date_Week_1.selection,[\"T.Date_Week\"]).asEquality(\"T.Date_Week\")}};a=group a by ('T.Date_Year', 'T.Date_Week');a=foreach a generate 'T.Date_Year' + \"~~~\" + 'T.Date_Week' as 'T.Date_Year~~~T.Date_Week',cumulative(revenue) as Revenue;c=union q,a;c=foreach c generate 'T.Date_Year~~~T.Date_Week' as 'T.Date_Year~~~T.Date_Week', cumulative(Revenue) as cumulative_Revenue;",
+                    "measures": [
+                        [
+                            "cumulative",
+                            "Revenue"
+                        ]
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "T.Date_Year~~~T.Date_Week"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Revenue_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YySAI",
+                        "label": "MCS_Data",
+                        "name": "MCS_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Revenue"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "CHANNEL",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "STATE",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "Target.FTM",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "Time.Date_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Time.Date_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Time.Date_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ],
+                        [
+                            "Time.Date_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "STATE_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Account.BillingState"
+                    ],
+                    "filters": [
+                        [
+                            "Account.BillingState",
+                            [
+                                "NSw",
+                                "Nsw"
+                            ],
+                            "not in"
+                        ]
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "T_Date_Year_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "T.Date_Year"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "T_Date_Week_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "T.Date_Week"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "all_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000veSAA",
+                        "label": "Reg_quizCompute_quarter",
+                        "name": "Reg_quizCompute_quarter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000veSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"Reg_quizCompute_quarter\";q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"Quarter.State\")}};q=filter q by {{column(Current_TM_5.selection,[\"User.Name\"]).asEquality(\"Name\")}};q = filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"Date_Year\")}};q = filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"Date_Month\")}};q = filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"Date_Week\")}};\nq = group q by all;\nq = foreach q generate (sum('score')/sum('Overall_score'))*100 as 'Quiz Results';\nq = limit q 2000;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Quiz Results"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "groups": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Current_TM_5": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000cASAQ",
+                        "label": "Quarterly_Target",
+                        "name": "Quarterly_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "FTM"
+                    ]
+                },
+                "selectMode": "single",
+                "start": [
+                    "!{Account.FSOM__c}",
+                    "!{Account.Senior_Territory_Manager__c}",
+                    "!{Account.Telco_Rep_Assigned__c}"
+                ],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CHANNEL_FTM_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YySAI",
+                        "label": "MCS_Data",
+                        "name": "MCS_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"MCS_Data\";\nq = filter q by 'Revenue' > 0;q=filter q by {{column(Sales_Name__c_1.selection,[\"Name\"]).asEquality(\"CHANNEL\")}};q = filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"Time.Date_Year\")}};q = filter q by {{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asEquality(\"Time.Date_Quarter\")}};q = filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"Time.Date_Month\")}};q = filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"Time.Date_Week\")}};q=filter q by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"Target.FTM\")}};q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"STATE\")}};\nq = group q by ('CHANNEL');\nq = foreach q generate 'CHANNEL' as 'CHANNEL', sum('Revenue') as 'sum_Revenue';q=order q by sum_Revenue desc;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "sum_Revenue"
+                        ]
+                    ],
+                    "groups": [
+                        "CHANNEL"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Time_Date_Year___Tim_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YySAI",
+                        "label": "MCS_Data",
+                        "name": "MCS_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"MCS_Data\";q=filter q by 'Revenue'>0;q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"STATE\")}};q=filter q by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"Target.FTM\")}};q=filter q by {{column(Sales_Name__c_1.selection,[\"Name\"]).asEquality(\"CHANNEL\")}};q = filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"Time.Date_Year\")}};q = filter q by {{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asEquality(\"Time.Date_Quarter\")}};q = filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"Time.Date_Month\")}};q = filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"Time.Date_Week\")}};\nq = group q by ('Time.Date_Year', 'Time.Date_Week');\nq = foreach q generate 'Time.Date_Year' + \"~~~\" + 'Time.Date_Week' as 'Time.Date_Year~~~Time.Date_Week', sum('Revenue') as 'Revenue',\"Actual\" as Type;\n\nt = load \"Quarterly_Target\";t=filter t by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"State\")}};t=filter t by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"FTM\")}};t=filter t by {{column(Sales_Name__c_1.selection,[\"Name\"]).asEquality(\"SF_NAME\")}};t = filter t by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"time.Date_Year\")}};t = filter t by {{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asEquality(\"time.Date_Quarter\")}};t = filter t by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"time.Date_Month\")}};t = filter t by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"time.Date_Week\")}};\nt = group t by ('time.Date_Year', 'time.Date_Week');\nt = foreach t generate 'time.Date_Year' + \"~~~\" + 'time.Date_Week' as 'Time.Date_Year~~~Time.Date_Week', sum('Sum_Target') as 'Revenue',\"Target\" as 'Type';\ne=union q,t;\n\ne=foreach e generate 'Time.Date_Year~~~Time.Date_Week' as 'Time.Date_Year~~~Time.Date_Week',Type as Type, sum(Revenue) as Revenue;",
+                    "measures": [
+                        [
+                            "count",
+                            "*",
+                            "Revenue"
+                        ]
+                    ],
+                    "groups": [
+                        "Time.Date_Year~~~Time.Date_Week",
+                        "Type"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "campaign_ExpertHours_3": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YPSAY",
+                        "label": "campaign_data_security",
+                        "name": "campaign_data_security",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YPSAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Time_in_Store__c"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "Record.Name",
+                            [
+                                "Samsung Expert In-Store Activity"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "Status",
+                            [
+                                "Completed"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "User.IsActive",
+                            [
+                                "true"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "User.Name",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.Name",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.BillingState",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "Approx_Finish_Time__c_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Approx_Finish_Time__c_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "Approx_Finish_Time__c_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Approx_Finish_Time__c_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "UserFSOM_Name_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F000000019sSAA",
+                        "label": "user_filter",
+                        "name": "user_filter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F000000019sSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "UserFSOM.Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___7": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"final_data_201712\";a=filter q by date('Check_In_Date__c_Year', 'Check_In_Date__c_Month', 'Check_In_Date__c_Day') in [\"current quarter\"..\"current quarter\"];\na=group a by Check_In_Date__c_Quarter;\na=foreach a generate Check_In_Date__c_Quarter as Check_In_Date__c_Quarter, 1 as count1;\nb=group q by Check_In_Date__c_Quarter;\nb= foreach b generate Check_In_Date__c_Quarter as Check_In_Date__c_Quarter, 0 as count1;\nc=union a,b;\nc=group c by Check_In_Date__c_Quarter;\nc=foreach c generate Check_In_Date__c_Quarter as Check_In_Date__c_Quarter, sum(count1) as count1;\nc=order c  by count1 desc;\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date__c_Quarter"
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___5": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Traning.Number_of_People_Trained__c"
+                        ]
+                    ],
+                    "groups": [
+                        [
+                            "Check_In_Date__c_Year",
+                            "Check_In_Date__c_Week"
+                        ],
+                        "Traning.Products__c"
+                    ],
+                    "filters": [
+                        [
+                            "Account.Name",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.BillingState",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "user.Name",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ],
+                    "order": [
+                        [
+                            -1,
+                            {
+                                "ascending": false
+                            }
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "stackvbar",
+                    "options": {}
+                }
+            },
+            "Sales_Name__c_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001YUSAY",
+                        "label": "accountsalesname_filter",
+                        "name": "accountsalesname_filter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YUSAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Name"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "CHANNELGROUP_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    },
+                    {
+                        "id": "0Fb6F00000000h4SAA",
+                        "label": "sellthrough_target_FTM",
+                        "name": "sellthrough_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h4SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"sellout_target_FTM\";q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"STATE\")}};q=filter q by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"target.FTM\")}};q=filter q by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"CHANNEL\")}};q = filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"T.Date_Year\")}};q = filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"T.Date_Month\")}};q = filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"T.Date_Week\")}};q=group q by CHANNEL;q=foreach q generate CHANNEL as CHANNEL,sum(RRP_AMT_LOC) as Revenue;a=load \"sellthrough_target_FTM\";a=filter a by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"TO_STATE\")}};a=filter a by {{column(Current_TM_5.selection,[\"FTM\"]).asEquality(\"target.FTM\")}};a=filter a by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"TO_CHANNEL_NM\")}};a = filter a by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"T.Date_Year\")}};a = filter a by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"T.Date_Month\")}};a = filter a by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"T.Date_Week\")}};a=group a by TO_CHANNEL_NM;a=foreach a generate TO_CHANNEL_NM as CHANNEL,sum(revenue) as Revenue;c=union q,a;c=group c by CHANNEL;c=foreach c generate  CHANNEL as 'CHANNEL',sum(Revenue) as Revenue;c = order c by 'Revenue' desc;",
+                    "measures": [
+                        "Revenue"
+                    ],
+                    "groups": [
+                        "CHANNEL"
+                    ],
+                    "order": [
+                        [
+                            -1,
+                            {
+                                "ascending": false
+                            }
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "T_Date_Month_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "T.Date_Month"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "CHANNEL_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000h9SAA",
+                        "label": "sellout_target_FTM",
+                        "name": "sellout_target_FTM",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q=load \"sellout_target_FTM\";q=filter q by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"CHANNEL\")}};q=filter q by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"STATE\")}};q=filter q by {{column(Current_TM_5.selection,[\"User.Name\"]).asEquality(\"target.FTM\")}};q = filter q by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"T.Date_Week\")}};q = filter q by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"T.Date_Year\")}};q = filter q by {{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asEquality(\"T.Date_Quarter\")}};q = filter q by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"T.Date_Month\")}};q = filter q by 'RRP_AMT_LOC' > 0;q=group q by CHANNEL; q=foreach q generate CHANNEL as CHANNEL, sum(RRP_AMT_LOC) as sales;a=load \"sellthrough_target_FTM\";a = filter a by 'revenue' > 0;a=filter a by {{column(STATE_1.selection,[\"Account.BillingState\"]).asEquality(\"TO_STATE\")}};a=filter a by {{column(Current_TM_5.selection,[\"User.Name\"]).asEquality(\"target.FTM\")}};a = filter a by {{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asEquality(\"T.Date_Week\")}};a=filter a by {{column(StoreName_2.selection,[\"Name\"]).asEquality(\"TO_CHANNEL_NM\")}};a = filter a by {{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asEquality(\"T.Date_Year\")}};a = filter a by {{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asEquality(\"T.Date_Month\")}};a = filter a by {{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asEquality(\"T.Date_Quarter\")}};a=group a by TO_CHANNEL_NM;a=foreach a generate TO_CHANNEL_NM as CHANNEL, sum(revenue) as sales;c=union q,a;c=foreach c generate CHANNEL as CHANNEL,sum(sales) as Revenue;c=order c by CHANNEL asc; ",
+                    "measures": [
+                        "Revenue"
+                    ],
+                    "autoFilter": true,
+                    "groups": [
+                        "CHANNEL"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Sum_Target_5": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000cASAQ",
+                        "label": "Quarterly_Target",
+                        "name": "Quarterly_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Sum_Target"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "FTM",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "STORE_NAME",
+                            "{{column(Account_Name_2.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "State",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Sum_Target_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000guSAA",
+                        "label": "Quaterlytarget_time",
+                        "name": "Quaterlytarget_time",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000guSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Sum_Target"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___3": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date__c_Week"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date__c_Month"
+                    ]
+                },
+                "selectMode": "multi",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "UesrSeniorTM_Name_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F000000019sSAA",
+                        "label": "user_filter",
+                        "name": "user_filter",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F000000019sSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "UesrSeniorTM.Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Check_In_Date_Time___1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "pigql": "q = load \"test_role_201712\";a=filter q by date('Check_In_Date__c_Year', 'Check_In_Date__c_Month', 'Check_In_Date__c_Day') in [\"current year\"..\"current year\"];\na=group a by Check_In_Date__c_Year;\na=foreach a generate Check_In_Date__c_Year as Check_In_Date__c_Year, 1 as count1;\nb=group q by Check_In_Date__c_Year;\nb= foreach b generate Check_In_Date__c_Year as Check_In_Date__c_Year, 0 as count1;\nc=union a,b;\nc=group c by Check_In_Date__c_Year;\nc=foreach c generate Check_In_Date__c_Year as Check_In_Date__c_Year, sum(count1) as count1;\nc=order c  by count1 desc;\n",
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Check_In_Date__c_Year"
+                    ]
+                },
+                "selectMode": "singlerequired",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "hbar",
+                    "options": {}
+                }
+            },
+            "Sum_Target_1": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000cASAQ",
+                        "label": "Quarterly_Target",
+                        "name": "Quarterly_Target",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "sum",
+                            "Sum_Target"
+                        ]
+                    ],
+                    "filters": [
+                        [
+                            "FTM",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "SF_NAME",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "State",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "time.Date_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            },
+            "Account_Name_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000000ceSAA",
+                        "label": "Final_Data",
+                        "name": "Final_Data",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000ceSAA"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Account.Name"
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": false,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "Name_2": {
+                "datasets": [
+                    {
+                        "id": "0Fb6F00000001SESAY",
+                        "label": "test_role_201712",
+                        "name": "test_role_201712",
+                        "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+                    }
+                ],
+                "isFacet": true,
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "measuresMap": {},
+                    "autoFilter": true,
+                    "filters": [
+                        [
+                            "Survey.Status__c",
+                            [
+                                "Completed"
+                            ],
+                            "in"
+                        ],
+                        [
+                            "user.Name",
+                            "{{column(Current_TM_5.selection,[\"FTM\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.Name",
+                            "{{column(Sales_Name__c_1.selection,[\"Name\"]).asObject()}}"
+                        ],
+                        [
+                            "Account.BillingState",
+                            "{{column(STATE_1.selection,[\"Account.BillingState\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Year",
+                            "{{column(Check_In_Date_Time___1.selection,[\"Check_In_Date__c_Year\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Quarter",
+                            "{{column(Check_In_Date_Time___7.selection,[\"Check_In_Date__c_Quarter\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Month",
+                            "{{column(Check_In_Date_Time___2.selection,[\"Check_In_Date__c_Month\"]).asObject()}}"
+                        ],
+                        [
+                            "Check_In_Date__c_Week",
+                            "{{column(Check_In_Date_Time___3.selection,[\"Check_In_Date__c_Week\"]).asObject()}}"
+                        ]
+                    ]
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "visualizationType": "pie",
+                    "options": {}
+                }
+            }
+        },
+        "widgetStyle": {
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#E6ECF2",
+            "borderEdges": [],
+            "borderRadius": 0,
+            "borderWidth": 1
+        },
+        "widgets": {
+            "container_1": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_2": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_9": {
+                "parameters": {
+                    "autoFitMode": "fit",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "T_Date_Year___T_Date_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "container_3": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_4": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "container_5": {
+                "parameters": {
+                    "alignmentX": "left",
+                    "alignmentY": "top",
+                    "documentId": "",
+                    "fit": "original"
+                },
+                "type": "container"
+            },
+            "chart_6": {
+                "parameters": {
+                    "max": 100,
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "visualizationType": "polargauge",
+                    "exploreLink": true,
+                    "medium": 33,
+                    "title": {
+                        "label": "Mystery Shop%",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70,
+                    "colors": {
+                        "mediumColor2": "#F29946",
+                        "mediumColor1": "#FED444",
+                        "lowColor1": "#F71979",
+                        "lowColor2": "#CC203D",
+                        "highColor1": "#7BDE4E",
+                        "highColor2": "#169913"
+                    },
+                    "high": 66,
+                    "min": 0,
+                    "valueType": "number",
+                    "theme": "wave",
+                    "step": "Score_1"
+                },
+                "type": "chart"
+            },
+            "text_3": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Store Revenue",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "chart_5": {
+                "parameters": {
+                    "autoFitMode": "none",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "Store wise Revenue ",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "CHANNEL_2",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Target vs Sales",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "chart_8": {
+                "parameters": {
+                    "max": 100,
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "visualizationType": "polargauge",
+                    "exploreLink": true,
+                    "medium": 33,
+                    "title": {
+                        "label": "Target",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70,
+                    "colors": {
+                        "mediumColor2": "#F29946",
+                        "mediumColor1": "#FED444",
+                        "lowColor1": "#F71979",
+                        "lowColor2": "#CC203D",
+                        "highColor1": "#7BDE4E",
+                        "highColor2": "#169913"
+                    },
+                    "high": 66,
+                    "min": 0,
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "Sum_Target_1"
+                },
+                "type": "chart"
+            },
+            "chart_7": {
+                "parameters": {
+                    "max": 100,
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "visualizationType": "polargauge",
+                    "exploreLink": true,
+                    "medium": 33,
+                    "title": {
+                        "label": "Expert Hours",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70,
+                    "colors": {
+                        "mediumColor2": "#F29946",
+                        "mediumColor1": "#FED444",
+                        "lowColor1": "#F71979",
+                        "lowColor2": "#CC203D",
+                        "highColor1": "#7BDE4E",
+                        "highColor2": "#169913"
+                    },
+                    "high": 66,
+                    "min": 0,
+                    "valueType": "number",
+                    "theme": "wave",
+                    "step": "campaign_ExpertHours_3"
+                },
+                "type": "chart"
+            },
+            "text_4": {
+                "parameters": {
+                    "fontSize": 20,
+                    "text": "Training",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "chart_2": {
+                "parameters": {
+                    "autoFitMode": "none",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "CHANNELGROUP_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_1": {
+                "parameters": {
+                    "max": 100,
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "visualizationType": "polargauge",
+                    "exploreLink": false,
+                    "medium": 33,
+                    "title": {
+                        "label": "Store Visits",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70,
+                    "colors": {
+                        "mediumColor2": "#F29946",
+                        "mediumColor1": "#FED444",
+                        "lowColor1": "#F71979",
+                        "lowColor2": "#CC203D",
+                        "highColor1": "#7BDE4E",
+                        "highColor2": "#169913"
+                    },
+                    "high": 66,
+                    "min": 0,
+                    "valueType": "number",
+                    "theme": "wave",
+                    "step": "Name_2"
+                },
+                "type": "chart"
+            },
+            "chart_4": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "referenceLine": {
+                            "color": "#9271E8",
+                            "label": "Target Avg: {{cell(Sum_Target_5.result, 0, \"sum_Sum_Target\").asString()}}",
+                            "value": "{{cell(Sum_Target_5.result, 0, \"sum_Sum_Target\").asString()}}"
+                        },
+                        "showAxis": true,
+                        "title": ""
+                    },
+                    "theme": "wave",
+                    "step": "T_Date_Year___T_Date_1"
+                },
+                "type": "chart"
+            },
+            "chart_3": {
+                "parameters": {
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "showMeasureTitle": true,
+                    "showTotal": true,
+                    "visualizationType": "pie",
+                    "theme": "wave",
+                    "step": "all_1",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70
+                },
+                "type": "chart"
+            },
+            "listselector_7": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___1",
+                    "title": "Year"
+                },
+                "type": "listselector"
+            },
+            "listselector_6": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "T_Date_Week_1",
+                    "title": "Week"
+                },
+                "type": "listselector"
+            },
+            "listselector_9": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___3",
+                    "title": "Week"
+                },
+                "type": "listselector"
+            },
+            "listselector_8": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___2",
+                    "title": "Month"
+                },
+                "type": "listselector"
+            },
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "StoreName_2",
+                    "title": "StoreName"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "STATE_1",
+                    "title": "State"
+                },
+                "type": "listselector"
+            },
+            "listselector_5": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "T_Date_Month_1",
+                    "title": "Month"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 18,
+                    "text": "Project Donut",
+                    "textAlignment": "center",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "listselector_4": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": true,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "T_Date_Year_1",
+                    "title": "Year"
+                },
+                "type": "listselector"
+            },
+            "link_3": {
+                "parameters": {
+                    "destination": "0FK6F0000000KLcWAM",
+                    "destinationType": "dashboard",
+                    "fontSize": 14,
+                    "includeState": true,
+                    "text": "State",
+                    "textColor": "#091A3E"
+                },
+                "type": "link"
+            },
+            "link_4": {
+                "parameters": {
+                    "destination": "0FK6F0000000I6aWAE",
+                    "destinationType": "dashboard",
+                    "fontSize": 14,
+                    "includeState": true,
+                    "text": "Target vs Revenue",
+                    "textColor": "#091A3E"
+                },
+                "type": "link"
+            },
+            "link_1": {
+                "parameters": {
+                    "destination": "0FK6F0000000I74WAE",
+                    "destinationType": "dashboard",
+                    "fontSize": 14,
+                    "includeState": true,
+                    "text": "Top Level",
+                    "textColor": "#091A3E"
+                },
+                "type": "link"
+            },
+            "link_2": {
+                "parameters": {
+                    "destination": "0FK6F0000000A9jWAE",
+                    "destinationType": "dashboard",
+                    "fontSize": 14,
+                    "includeState": true,
+                    "text": "Account Summary",
+                    "textColor": "#091A3E"
+                },
+                "type": "link"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": true,
+                    "exploreLink": true,
+                    "measureField": "Difference",
+                    "numberColor": "{{cell(Difference.result,0,\"color\").asString()}}",
+                    "numberSize": 24,
+                    "step": "Difference",
+                    "textAlignment": "center",
+                    "title": "",
+                    "titleColor": "#335779",
+                    "titleSize": 16
+                },
+                "type": "number"
+            },
+            "image_1": {
+                "parameters": {
+                    "alignmentX": "center",
+                    "alignmentY": "top",
+                    "documentId": "0156F00000CUkN9",
+                    "fit": "stretch"
+                },
+                "type": "image"
+            },
+            "listselector_12": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "UserFTM_Name_1",
+                    "title": "FTM"
+                },
+                "type": "listselector"
+            },
+            "listselector_11": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "UesrSeniorTM_Name_1",
+                    "title": "SeniorTM"
+                },
+                "type": "listselector"
+            },
+            "chart_16": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "highColor": "#009DDF",
+                    "lowColor": "#E2F4FC",
+                    "visualizationType": "heatmap",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "binValues": false,
+                    "x": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Status"
+                    },
+                    "y": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Donuts"
+                    },
+                    "step": "Project_Final_Status_1",
+                    "theme": "wave"
+                },
+                "type": "chart"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Current_TM_5",
+                    "title": "User"
+                },
+                "type": "listselector"
+            },
+            "listselector_10": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "UserFSOM_Name_1",
+                    "title": "FSOM"
+                },
+                "type": "listselector"
+            },
+            "chart_15": {
+                "parameters": {
+                    "autoFitMode": "fit",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "hbar",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Check_In_Date_Time___7",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_14": {
+                "parameters": {
+                    "max": 100,
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "visualizationType": "polargauge",
+                    "exploreLink": true,
+                    "medium": 33,
+                    "title": {
+                        "label": "Revenue",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "inner": 70,
+                    "colors": {
+                        "mediumColor2": "#F29946",
+                        "mediumColor1": "#FED444",
+                        "lowColor1": "#F71979",
+                        "lowColor2": "#CC203D",
+                        "highColor1": "#7BDE4E",
+                        "highColor2": "#169913"
+                    },
+                    "high": "{{cell(Sum_Target_2.result, 0, \"sum_Sum_Target\").asString()}}",
+                    "min": 0,
+                    "valueType": "compactNumber",
+                    "theme": "wave",
+                    "step": "Revenue_1"
+                },
+                "type": "chart"
+            },
+            "chart_13": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "sync",
+                    "visualizationType": "stackvbar",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "normalize": false,
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Number of people trained",
+                        "referenceLine": null
+                    },
+                    "theme": "light",
+                    "step": "Check_In_Date_Time___5",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_12": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": false,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "hbar",
+                    "exploreLink": false,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "   Revenue",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "CHANNEL_FTM_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": "Store"
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_11": {
+                "parameters": {
+                    "autoFitMode": "none",
+                    "showValues": true,
+                    "bins": {
+                        "breakpoints": {
+                            "high": 100,
+                            "low": 0
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": ""
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": ""
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": ""
+                            }
+                        }
+                    },
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "vbar",
+                    "exploreLink": true,
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "binValues": false,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Traning_Products__c_1",
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": ""
+                    }
+                },
+                "type": "chart"
+            },
+            "listselector_14": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Check_In_Date_Time___7",
+                    "title": "Quarter"
+                },
+                "type": "listselector"
+            },
+            "chart_10": {
+                "parameters": {
+                    "showPoints": true,
+                    "legend": {
+                        "showHeader": true,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "right-top",
+                        "inside": false
+                    },
+                    "axisMode": "multi",
+                    "visualizationType": "time",
+                    "missingValue": "connect",
+                    "exploreLink": false,
+                    "timeAxis": {
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "Date (Year -  Week)",
+                        "predictiveLine": null
+                    },
+                    "title": {
+                        "label": "",
+                        "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "fillArea": true,
+                    "showZero": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "referenceLine": null
+                    },
+                    "theme": "wave",
+                    "step": "Time_Date_Year___Tim_2"
+                },
+                "type": "chart"
+            },
+            "listselector_13": {
+                "parameters": {
+                    "compact": false,
+                    "expanded": true,
+                    "exploreLink": false,
+                    "instant": true,
+                    "measureField": "count",
+                    "step": "Sales_Name__c_1",
+                    "title": "Store Name"
+                },
+                "type": "listselector"
+            }
+        }
+    },
+    "datasets": [
+        {
+            "id": "0Fb6F00000000cASAQ",
+            "label": "Quarterly_Target",
+            "name": "Quarterly_Target",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000cASAQ"
+        },
+        {
+            "id": "0Fb6F00000000ceSAA",
+            "label": "Final_Data",
+            "name": "Final_Data",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000ceSAA"
+        },
+        {
+            "id": "0Fb6F00000000guSAA",
+            "label": "Quaterlytarget_time",
+            "name": "Quaterlytarget_time",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000guSAA"
+        },
+        {
+            "id": "0Fb6F00000000h4SAA",
+            "label": "sellthrough_target_FTM",
+            "name": "sellthrough_target_FTM",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h4SAA"
+        },
+        {
+            "id": "0Fb6F00000000h9SAA",
+            "label": "sellout_target_FTM",
+            "name": "sellout_target_FTM",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000h9SAA"
+        },
+        {
+            "id": "0Fb6F00000000ugSAA",
+            "label": "final_data_201712",
+            "name": "final_data_201712",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000ugSAA"
+        },
+        {
+            "id": "0Fb6F00000000veSAA",
+            "label": "Reg_quizCompute_quarter",
+            "name": "Reg_quizCompute_quarter",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000veSAA"
+        },
+        {
+            "id": "0Fb6F00000000zFSAQ",
+            "label": "Account main",
+            "name": "Account_main",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000000zFSAQ"
+        },
+        {
+            "id": "0Fb6F000000019sSAA",
+            "label": "user_filter",
+            "name": "user_filter",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F000000019sSAA"
+        },
+        {
+            "id": "0Fb6F00000001SESAY",
+            "label": "test_role_201712",
+            "name": "test_role_201712",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001SESAY"
+        },
+        {
+            "id": "0Fb6F00000001YASAY",
+            "label": "Userfilter_security",
+            "name": "Userfilter_security",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YASAY"
+        },
+        {
+            "id": "0Fb6F00000001YPSAY",
+            "label": "campaign_data_security",
+            "name": "campaign_data_security",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YPSAY"
+        },
+        {
+            "id": "0Fb6F00000001YUSAY",
+            "label": "accountsalesname_filter",
+            "name": "accountsalesname_filter",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YUSAY"
+        },
+        {
+            "id": "0Fb6F00000001YySAI",
+            "label": "MCS_Data",
+            "name": "MCS_Data",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001YySAI"
+        },
+        {
+            "id": "0Fb6F00000001iFSAQ",
+            "label": "mystery_data_security",
+            "name": "mystery_data_security",
+            "url": "/services/data/v39.0/wave/datasets/0Fb6F00000001iFSAQ"
+        }
+    ]
+}
